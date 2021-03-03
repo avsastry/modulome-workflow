@@ -4,10 +4,14 @@ def helpMessage() {
     log.info"""
     Usage:
 
-    nextflow run main.nf
+    nextflow run main.nf [ARGS]
 
     Args:
-      --example
+      --organism       Name of organism
+      --metadata       Path to metadata file
+      --sequence_dir   Directory containing *.fasta and *.gff3 files
+      --outdir         Directory to place outputs
+      --force          Overwrite existing processed data
 
     """.stripIndent()
 }
