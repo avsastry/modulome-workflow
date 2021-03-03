@@ -7,7 +7,7 @@ Nextflow pipeline to download and process microbial RNA-seq data from NCBI SRA
     1. Download nextflow to your current directory: `curl -s https://get.nextflow.io | bash`
     1. Test installation by running: `./nextflow run hello`
 1. Install [Docker](https://docs.docker.com/get-docker/)
-1. Prepare the metadata file for your dataset. Use the `download_metadata` script to get all metadata for a specified organism. To append local data, you can add new rows to the tsv file and fill out the following columns:
+1. Prepare the metadata file for your dataset. Use the [download metadata script](download_metadata) to get all metadata for a specified organism. To append local data, you can add new rows to the tsv file and fill out the following columns:
     1. `Experiment`: For public data, this is your SRX ID. For local data, data should be named with a standardized ID (e.g. ecoli_0001)
     1. `LibraryLayout`: Either PAIRED or SINGLE
     1. `Platform`: Usually ILLUMINA, ABI_SOLID, BGISEQ, or PACBIO_SMRT
@@ -31,7 +31,7 @@ Nextflow pipeline to download and process microbial RNA-seq data from NCBI SRA
 
 ### Running Nextflow on cloud or high-performance computing
 1. Go through the steps described in [Setup](#Setup)
-1. Create a new config file for your cloud service/HPC scheduler (see [Nextflow executors](https://www.nextflow.io/docs/latest/executor.html)
+1. Create a new config file for your cloud service/HPC scheduler (see [Nextflow executors](https://www.nextflow.io/docs/latest/executor.html))
 1. Add a new profile in the [nextflow.config](nextflow.config) file.
 1. Run `nextflow run main.nf -profile <new_profile> [ARGS]`
 
