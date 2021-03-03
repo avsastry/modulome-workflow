@@ -16,6 +16,12 @@ def helpMessage() {
     """.stripIndent()
 }
 
+// Show help message
+if (params.help){
+    helpMessage()
+    exit 0
+}
+
 @Grab('com.xlson.groovycsv:groovycsv:1.3')
 import static com.xlson.groovycsv.CsvParser.parseCsv
 
