@@ -1,0 +1,46 @@
+##################
+# MultiQC Config #
+##################
+
+title: "Modulome"
+subtitle: "Analysis of public microbial RNA-seq data"
+report_header_info:
+    - Contact E-mail: 'avsastry@ucsd.edu'
+    - Application Type: 'Microbial RNA-seq Analysis'
+custom_logo: null
+custom_logo_url: null
+custom_logo_title: null
+
+
+# Custom Config settings
+custom_content:
+    order: []
+
+extra_fn_clean_exts:
+    - 'val_1'
+    - '_val_2'
+    - '_1.fastq'
+    - '_2.fastq'
+    - '.infer_experiment'
+    - '_bowtie.txt'
+    - '_all.txt.summary'
+
+rseqc_sections:
+    - infer_experiment
+
+run_modules:
+    - featureCounts
+    - bowtie1
+    - rseqc
+    - cutadapt
+    - fastqc
+
+top_modules: []
+
+# Order that modules should appear in report. Try to list in order of analysis.
+module_order:
+    - featureCounts
+    - bowtie1
+    - rseqc
+    - cutadapt
+    - fastqc
