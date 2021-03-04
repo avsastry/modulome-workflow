@@ -3,7 +3,7 @@
 Use the `download_metadata.sh` script to download a metadata table for a specific organism. This requires [installing docker](https://docs.docker.com/get-docker/) and Python3.
 
 ## Usage
-```bash
+```
  Usage: download_metadata.sh ORGANISM [-o OUTPUT] [--force]
 
   required arguments:
