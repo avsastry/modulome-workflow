@@ -1,10 +1,10 @@
 # Download RNAseq metadata
 
-Use the `download_metadata.sh` script to download a metadata table for a specific organism. This requires [installing docker](https://docs.docker.com/get-docker/) and Python3.
+Use the `download_metadata` script to download a metadata table for a specific organism. This requires [installing docker](https://docs.docker.com/get-docker/) and Python3.
 
 ## Usage
 ```
- Usage: download_metadata.sh ORGANISM [-o OUTPUT] [--force]
+ Usage: download_metadata ORGANISM [-o OUTPUT] [--force]
 
   required arguments:
     ORGANISM                 Name of organism in quotes (e.g. "Escherichia coli")
