@@ -15,7 +15,7 @@ Nextflow pipeline to download and process microbial RNA-seq data from NCBI SRA
     1. `R1`: For local data, the complete path to the R1 file. If files are stored on AWS S3, filenames should look like `s3://<bucket/path/to>.fastq.gz`. `R1` and `R2` columns are empty for public SRA data.
     1. `R2`: Same as R1. This will be empty for SINGLE end sequences.
 1. Download your sequence files:
-    1. Download FASTA and GFF3 files for your genome and plasmids (if relevant) from NCBI. 
+    1. Download FASTA and GFF3 files for your genome and plasmids (if relevant) from NCBI.
     1. Put these in a folder named `sequence_files`, and make sure that this folder only contains files for one organism.
     1. Rename the genome files to `genome.fasta` and `genome.gff3`.
     1. Rename plasmid files to `plasmid_<name>.fasta` and `plasmid_<name>.gff3`.

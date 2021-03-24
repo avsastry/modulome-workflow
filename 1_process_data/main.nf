@@ -6,18 +6,47 @@ def helpMessage() {
 
     nextflow run main.nf [ARGS]
 
-    Args:
-      --organism       Name of organism
-      --metadata       Path to metadata file
-      --sequence_dir   Directory containing *.fasta and *.gff3 files
-      --outdir         Directory to place outputs
-      --force          Overwrite existing processed data
+    Required Arguments:
+      --organism            Name of organism
+      --metadata            Path to metadata file
+      --sequence_dir        Directory containing *.fasta and *.gff3 files
+
+    Optional Arguments:
+      --outdir              Directory to place outputs
+      --force               Overwrite existing processed data
 
     """.stripIndent()
 }
 
 // Show help message
 if (params.help){
+    helpMessage()
+    exit 0
+}
+
+if ( params.organism == "None" ) {
+    log.info"""
+    Missing required argument --organism
+    """.stripIndent()
+
+    helpMessage()
+    exit 0
+}
+
+if ( params.metadata == "None" ) {
+    log.info"""
+    Missing required argument --metadata
+    """.stripIndent()
+
+    helpMessage()
+    exit 0
+}
+
+if ( params.sequence_dir == "None" ) {
+    log.info"""
+    Missing required argument --sequence_dir
+    """.stripIndent()
+
     helpMessage()
     exit 0
 }
@@ -58,7 +87,7 @@ process bowtie_build {
 
     input:
     file(fasta) from fasta_ch.collect()
-    
+
     output:
     file('index*') into index_ch
     file('cspace_index*') into cspace_index_ch
@@ -81,10 +110,10 @@ process gff2bed {
 
     input:
     file(gff) from bedtools_gff_ch
-    
+
     output:
     file('genome.bed') into bed_file_ch
-    
+
     script:
     """
     gff2bed < ${gff} > genome.bed
@@ -105,11 +134,11 @@ csv_data = parseCsv(csv_text,separator:'\t')
 
 // Loop through rows
 sample_ids = csv_data.collect { row ->
-    
+
     // Ensure that Layout is either SINGLE or PAIRED
     assert((row['LibraryLayout'] == 'SINGLE') ||
            (row['LibraryLayout'] == 'PAIRED'))
-    
+
     // Save Experiment ID in sample_ids
     row['Experiment']
 }
@@ -141,9 +170,9 @@ if (!params.force) {
         dir = new File("${params.outdir}/featureCounts")
         if (dir.exists()) {
             // Loop through results directory and get experiment names
-            dir.eachFile { 
-                if (it.name.endsWith('_cds.txt')) { 
-                    run_list << it.name.minus('_cds.txt') 
+            dir.eachFile {
+                if (it.name.endsWith('_cds.txt')) {
+                    run_list << it.name.minus('_cds.txt')
                 }
             }
         }
@@ -158,29 +187,26 @@ Channel
     }
     .branch { row ->
         sra: row.R1 == ""
-            return tuple(row.Experiment, 
-                         row.LibraryLayout, 
+            return tuple(row.Experiment,
+                         row.LibraryLayout,
                          row.Platform,
-                         row.Swift,
                          row.Run)
 
         local_paired: row.LibraryLayout == "PAIRED"
-            return tuple(row.Experiment, 
-                         row.LibraryLayout, 
+            return tuple(row.Experiment,
+                         row.LibraryLayout,
                          row.Platform,
-                         row.Swift,
                          // Allow for multiple ';'-separated R1/R2 files
                          tuple(row.R1.split(';').collect{ x -> file(x) }),
-                         tuple(row.R2.split(';').collect{ x -> file(x) }))  
+                         tuple(row.R2.split(';').collect{ x -> file(x) }))
 
-     
+
          local_single: row.LibraryLayout == "SINGLE"
             return tuple(row.Experiment,
-                         row.LibraryLayout, 
+                         row.LibraryLayout,
                          row.Platform,
-                         row.Swift,
                          // Allow for multiple ';'-separated R1 files
-                         tuple(row.R1.split(';').collect{ x -> file(x) }))             
+                         tuple(row.R1.split(';').collect{ x -> file(x) }))
     }
     .set{ metadata_ch }
 
@@ -212,7 +238,7 @@ process download_fastq {
         prefetch --max-size 1000000000000 \$run
         fasterq-dump \$run -e ${task.cpus}
     done
-    
+
     if [ "${layout}" = "SINGLE" ]; then
         pigz -c *.fastq > ${sample_id}_1.fastq.gz
     else
@@ -247,8 +273,8 @@ process stage_fastq_paired {
     label 'fastq'
     label 'medium'
     label 'stage'
-    
-    input: 
+
+    input:
     tuple sample_id, layout, platform, file(R1),file(R2) from metadata_ch.local_paired
 
     output:
@@ -268,7 +294,7 @@ fastq_output_ch = sra_output_ch.mix(single_output_ch).mix(paired_output_ch)
 // *****************************
 
 process trim_galore {
-    
+
     time '8h'
     maxRetries 2
     errorStrategy  { task.attempt <= maxRetries  ? 'retry' : 'ignore' }
@@ -288,11 +314,11 @@ process trim_galore {
     file "*_fastqc.{zip,html}" into fastqc_results_ch
 
     script:
-    
+
     if (platform == 'ABI_SOLID')
         """
         fastqc -f fastq -t ${task.cpus} ${fastq}
-        
+
         for f in ${fastq}; do
             mv -- "\$f" "\${f%.fastq}.fq.gz"
         done
@@ -306,7 +332,7 @@ process trim_galore {
         """
 
     else
-    
+
         """
         trim_galore --cores ${task.cpus} --fastqc --paired --basename ${sample_id} ${fastq}
         """
@@ -336,7 +362,7 @@ process bowtie_align {
     file('*_bowtie.txt') into bowtie_results_ch
 
     script:
-    
+
     if ( platform == 'ABI_SOLID' )
         index_arg = "-C cspace_index"
     else
@@ -431,14 +457,14 @@ process featureCounts {
     file("*_cds.txt") into counts_ch
 
     script:
-    
+
     if ( layout == 'PAIRED')
         type = '-p -B -C -P'
     else
         type = ''
 
     args = "${type} --fracOverlap 0.5 -T ${task.cpus} ${orientation} -a all.gff"
-    
+
     """
     cat ${gff} > all.gff
 
