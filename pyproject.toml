@@ -1,0 +1,20 @@
+################################################################################
+# Lint tools configuration                                                     #
+################################################################################
+
+[tool.black]
+line-length = 88
+python-version = [
+    "py36",
+    "py37",
+    "py38"
+]
+
+
+[tool.isort]
+profile = "black"
+src_paths = [
+    "src/pymodulon"
+]
+indent = 4
+lines_after_imports = 2
