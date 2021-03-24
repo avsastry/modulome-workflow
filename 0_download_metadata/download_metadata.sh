@@ -1,5 +1,7 @@
 #!/bin/bash
 
+set -e
+
 # Usage string
 function usage {
     echo ""
@@ -38,9 +40,9 @@ while [[ $# -gt 0 ]]; do
             usage; exit
             ;;
         *)
-            echo "Invalid option provided. Did you put the organism name in quotes?"
-            exit
-        ;;
+            echo "\nInvalid option provided. Did you put the organism name in quotes?"
+            usage; exit
+            ;;
     esac
 done
 
@@ -59,6 +61,7 @@ fi
 
 tmp_file="$tmp_dir/tmp.tsv"
 
+echo ""
 echo "Downloading metadata from NCBI..."
 
 esearch_query="\\\"${ORGANISM}\\\"[Organism] AND \\\"rna seq\\\"[Strategy] AND \\\"transcriptomic\\\"[Source]"
@@ -68,8 +71,10 @@ efetch_script="efetch -db sra -format runinfo"
 docker run --rm -it ncbi/edirect /bin/sh -c "${esearch_script} | ${efetch_script}" > $tmp_file
 
 echo "Download complete! Cleaning metadata file..."
-python clean_metadata_file.py -i $tmp_file -o $OUTPUT
+script_dir="$( cd "$( dirname "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )"
+python $script_dir/clean_metadata_file.py -i $tmp_file -o $OUTPUT
 
 rm -r $tmp_dir
 
-echo "Done!"
+echo "Metadata file saved to $(readlink -f $OUTPUT)"
+echo ""
