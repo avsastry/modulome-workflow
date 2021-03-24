@@ -1,11 +1,13 @@
 #!/bin/bash
 
+set -e
+
 function usage {
     printf "\nUsage: run_ica.sh [ARGS] FILE\n"
     printf "\n"
     printf "Arguments\n"
     printf "  -i|--iter <n_iter>	      Number of random restarts (default: 100)\n"
-    printf "  -t|--tolerance <tol>        Tolerance (default: 1e-6)\n"
+    printf "  -t|--tolerance <tol>        Tolerance (default: 1e-7)\n"
     printf "  -n|--n-cores <n_cores>      Number of cores to use (default: 8)\n"
     printf "  -d|--max-dim <max_dim>      Maximum dimensionality for search (default: n_samples)\n"
     printf "  -s|--step-size <step_size>  Dimensionality step size\n"
@@ -20,7 +22,7 @@ function usage {
 # Handle arguments
 
 OUTDIR=$(pwd)
-TOL="1e-6"
+TOL="1e-7"
 ITER=100
 STEP=0
 MAXDIM=0
@@ -34,11 +36,11 @@ while [[ $# -gt 0 ]]; do
     case $1 in
 	-i|--iter)
         ITER=$2
-	    shift; 
+	    shift;
         shift;;
-        -o|--out) 
+        -o|--out)
             OUTDIR=$2
-            shift; 
+            shift;
             shift;;
         -t|--tolerance)
             TOL=$2
@@ -65,10 +67,10 @@ while [[ $# -gt 0 ]]; do
             shift;;
         -h|--help)
             usage;;
-        --) 
-            shift; 
+        --)
+            shift;
             break;;
-        *) 
+        *)
             POSITIONAL+=("$1")
             shift;;
     esac
@@ -105,15 +107,40 @@ fi
 
 for dim in $(seq $STEP $STEP $MAXDIM); do
 
+    bar="############################${dim//[0-9]/'#'}${MAXDIM//[0-9]/'#'}"
+
+    # Make output subdirectory
+    outsubdir=$OUTDIR/$dim
+
+    if [ ! -f $outsubdir ]; then
+        mkdir -p $outsubdir
+    fi
+
     if [ "$VERBOSE" = true ]; then
+        echo ""
+        echo $bar
+        echo "# Computing dimension $dim of $MAXDIM #"
+        echo $bar
+        echo ""
+
         mpiexec -n $CORES python -u random_restart_ica.py -f $FILE -i $ITER -o $OUTDIR -t $TOL -d $dim 2>&1
         mpiexec -n $CORES python -u compute_distance.py -i $ITER -o $OUTDIR 2>&1
         mpiexec -n $CORES python -u cluster_components.py -i $ITER -o $OUTDIR 2>&1
 
+        echo ""
+
     else
         echo "" > $LOGFILE
+        echo $bar > $LOGFILE
+        echo "# Computing dimension $dim of $MAXDIM #" > $LOGFILE
+        echo $bar > $LOGFILE
+        echo "" > $LOGFILE
+
         mpiexec -n $CORES python -u random_restart_ica.py -f $FILE -i $ITER -o $OUTDIR -t $TOL -d $dim >> $LOGFILE 2>&1
         mpiexec -n $CORES python -u compute_distance.py -i $ITER -o $OUTDIR >> $LOGFILE 2>&1
         mpiexec -n $CORES python -u cluster_components.py -i $ITER -o $OUTDIR >> $LOGFILE 2>&1
+
+        echo "" > $LOGFILE
+
     fi
 done
