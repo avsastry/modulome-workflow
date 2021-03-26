@@ -1,9 +1,9 @@
 # Nextflow
 test/nf_results/
 .nextflow*
-1_process_data/work/
-1_process_data/stage/
-1_process_data/trace/
+2_process_data/work/
+2_process_data/stage/
+2_process_data/trace/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
