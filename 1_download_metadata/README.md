@@ -1,6 +1,6 @@
 # Download RNAseq metadata
 
-This folder contains scripts to download and format the metadata for all RNA-seq data available at NCBI SRA.
+This folder contains scripts to download and format all RNA-seq metadata for an organisms from NCBI Sequence Read Archive.
 
 ## Example usage
 
