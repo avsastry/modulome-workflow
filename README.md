@@ -8,7 +8,7 @@ This repository presents a computational workflow to compute and characterize al
 5. Characterize iModulons using [PyModulon](pymodulon link) ([Step 5](5_characterization))
 
 ## Background
-**iModulons** are **i**ndependently-**modul**ated group of genes that are computed through Independent Component Analysis (ICA) of a gene expression dataset. To learn more about iModulons or explore published iModulons, visit [iModulonDB](https://imodulondb.org) or see our publications for [*Escherichia coli*](https://www.nature.com/articles/s41467-019-13483-w), [*Staphylococcus aureus*](https://www.pnas.org/content/117/29/17228), or [*Bacillus subtilis*](https://www.nature.com/articles/s41467-020-20153-9). 
+**iModulons** are **i**ndependently-**modul**ated group of genes that are computed through Independent Component Analysis (ICA) of a gene expression dataset. To learn more about iModulons or explore published iModulons, visit [iModulonDB](https://imodulondb.org) or see our publications for [*Escherichia coli*](https://www.nature.com/articles/s41467-019-13483-w), [*Staphylococcus aureus*](https://www.pnas.org/content/117/29/17228), or [*Bacillus subtilis*](https://www.nature.com/articles/s41467-020-20153-9).
 
 Here, we introduce the concept of the **Modulome** for an organism, which is the set of all iModulons that can be computed for the organism. The computational pipeline provides a step-by-step workflow to compute the Modulome for *Bacillus subtilis*.
 

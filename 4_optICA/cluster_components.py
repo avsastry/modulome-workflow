@@ -242,7 +242,7 @@ if rank == 0:
     A_final.columns = range(len(A_final.columns))
 
     print("Writing files to " + OUT_DIR)
-    S_final.to_csv(os.path.join(OUT_DIR, "S.csv"))
+    S_final.to_csv(os.path.join(OUT_DIR, "M.csv"))
     A_final.T.to_csv(os.path.join(OUT_DIR, "A.csv"))
 
     # Clean up tmp directories

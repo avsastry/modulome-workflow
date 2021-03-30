@@ -110,7 +110,7 @@ for dim in $(seq $STEP $STEP $MAXDIM); do
     bar="############################${dim//[0-9]/'#'}${MAXDIM//[0-9]/'#'}"
 
     # Make output subdirectory
-    outsubdir=$OUTDIR/$dim
+    outsubdir=$OUTDIR/ica_runs/$dim
 
     if [ ! -f $outsubdir ]; then
         mkdir -p $outsubdir
@@ -123,24 +123,31 @@ for dim in $(seq $STEP $STEP $MAXDIM); do
         echo $bar
         echo ""
 
-        mpiexec -n $CORES python -u random_restart_ica.py -f $FILE -i $ITER -o $OUTDIR -t $TOL -d $dim 2>&1
-        mpiexec -n $CORES python -u compute_distance.py -i $ITER -o $OUTDIR 2>&1
-        mpiexec -n $CORES python -u cluster_components.py -i $ITER -o $OUTDIR 2>&1
+        mpiexec -n $CORES python -u random_restart_ica.py -f $FILE -i $ITER -o $outsubdir -t $TOL -d $dim 2>&1
+        mpiexec -n $CORES python -u compute_distance.py -i $ITER -o $outsubdir 2>&1
+        mpiexec -n $CORES python -u cluster_components.py -i $ITER -o $outsubdir 2>&1
 
         echo ""
 
     else
-        echo "" > $LOGFILE
-        echo $bar > $LOGFILE
+        echo "" >> $LOGFILE
+        echo $bar >> $LOGFILE
         echo "# Computing dimension $dim of $MAXDIM #" > $LOGFILE
-        echo $bar > $LOGFILE
-        echo "" > $LOGFILE
+        echo $bar >> $LOGFILE
+        echo "" >> $LOGFILE
 
-        mpiexec -n $CORES python -u random_restart_ica.py -f $FILE -i $ITER -o $OUTDIR -t $TOL -d $dim >> $LOGFILE 2>&1
-        mpiexec -n $CORES python -u compute_distance.py -i $ITER -o $OUTDIR >> $LOGFILE 2>&1
-        mpiexec -n $CORES python -u cluster_components.py -i $ITER -o $OUTDIR >> $LOGFILE 2>&1
+        mpiexec -n $CORES python -u random_restart_ica.py -f $FILE -i $ITER -o $outsubdir -t $TOL -d $dim >> $LOGFILE 2>&1
+        mpiexec -n $CORES python -u compute_distance.py -i $ITER -o $outsubdir >> $LOGFILE 2>&1
+        mpiexec -n $CORES python -u cluster_components.py -i $ITER -o $outsubdir >> $LOGFILE 2>&1
 
-        echo "" > $LOGFILE
+        echo "" >> $LOGFILE
 
     fi
 done
+
+# Identify best dimension
+if [ "$VERBOSE" = true ]; then
+    python get_dimension.py -o $OUTDIR 2>&1
+else
+    python get_dimension.py -o $OUTDIR >> $LOGFILE 2>&1
+fi
