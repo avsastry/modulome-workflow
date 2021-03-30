@@ -1,5 +1,6 @@
 # Nextflow
 test/nf_results/
+test/ica_test_results/
 .nextflow*
 2_process_data/work/
 2_process_data/stage/

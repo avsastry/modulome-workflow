@@ -3,7 +3,7 @@
 minimum_pre_commit_version: '2.9.0'
 default_language_version:
     python: python3
-exclude: 'example_data/.*'
+exclude: 'example_data/.*|test/ica_test_results/.*|test/nf_results/.*|test/test_metadata.tsv'
 repos:
     - repo: https://github.com/pre-commit/pre-commit-hooks
       rev: v3.4.0
