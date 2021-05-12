@@ -1,0 +1,5558 @@
+regulator,gene_id,effect
+PerR,BSU_08820,repression
+PerR,BSU_32990,repression
+PerR,BSU_03510,activation
+PerR,BSU_11500,repression
+PerR,BSU_03520,activation
+PerR,BSU_28120,repression
+PerR,BSU_28170,repression
+PerR,BSU_03480,activation
+PerR,BSU_17370,transcription repression
+PerR,BSU_03490,activation
+PerR,BSU_23520,repression
+PerR,BSU_03500,activation
+PerR,BSU_13850,repression
+PerR,BSU_17380,transcription repression
+PerR,BSU_11490,repression
+PerR,BSU_40100,repression
+PerR,BSU_17390,transcription repression
+PerR,BSU_08730,repression
+PerR,BSU_40090,repression
+PerR,BSU_17400,transcription repression
+PerR,BSU_28150,repression
+PerR,BSU_28160,repression
+PerR,BSU_28140,repression
+PerR,BSU_28130,repression
+SpoVT,BSU_23410,activation
+SpoVT,BSU_23380,activation
+SpoVT,BSU_13380,repression
+SpoVT,BSU_24230,activation
+SpoVT,BSU_03720,repression
+SpoVT,BSU_33060,repression
+SpoVT,BSU_23930,repression
+SpoVT,BSU_23430,activation
+SpoVT,BSU_08660,repression
+SpoVT,BSU_23401,activation
+SpoVT,BSU_33050,repression
+SpoVT,BSU_23440,activation
+SpoVT,BSU_09750,activation
+SpoVT,BSU_23390,activation
+SpoVT,BSU_25540,repression
+SpoVT,BSU_13410,activation
+SpoVT,BSU_03710,repression
+SpoVT,BSU_08650,repression
+SpoVT,BSU_02080,repression
+SpoVT,BSU_13400,activation
+SpoVT,BSU_23420,activation
+SpoVT,BSU_23402,activation
+SpoVT,BSU_16799,repression
+SpoVT,BSU_16790,repression
+SpoVT,BSU_13470,activation
+SpoVT,BSU_03700,repression
+SpoVT,BSU_25530,repression
+SpoVT,BSU_15440,activation
+SpoVT,BSU_13390,repression
+SpoVT,BSU_02070,repression
+SpoVT,BSU_03930,repression
+SpoVT,BSU_30840,activation
+SpoVT,BSU_33070,repression
+SpoVT,BSU_23940,repression
+SpoVT,BSU_03920,repression
+SpoVT,BSU_29570,activation
+SigM,BSU_02910,sigma factor
+SigM,BSU_11500,sigma factor
+SigM,BSU_14480,sigma factor
+SigM,BSU_00580,sigma factor
+SigM,BSU_00900,sigma factor
+SigM,BSU_38500,sigma factor
+SigM,BSU_00720,sigma factor
+SigM,BSU_00630,sigma factor
+SigM,BSU_23370,sigma factor
+SigM,BSU_18170,sigma factor
+SigM,BSU_00680,sigma factor
+SigM,BSU_28030,sigma factor
+SigM,BSU_27180,sigma factor
+SigM,BSU_38510,sigma factor
+SigM,BSU_36380,sigma factor
+SigM,BSU_38480,sigma factor
+SigM,BSU_23830,sigma factor
+SigM,BSU_04230,sigma factor
+SigM,BSU_35650,sigma factor
+SigM,BSU_00690,sigma factor
+SigM,BSU_00700,sigma factor
+SigM,BSU_00670,sigma factor
+SigM,BSU_00890,sigma factor
+SigM,BSU_27160,sigma factor
+SigM,BSU_28000,sigma factor
+SigM,BSU_00840,sigma factor
+SigM,BSU_23300,sigma factor
+SigM,BSU_00610,sigma factor
+SigM,BSU_04560,sigma factor
+SigM,BSU_35850,sigma factor
+SigM,BSU_27990,sigma factor
+SigM,BSU_18190,sigma factor
+SigM,BSU_09510,sigma factor
+SigM,BSU_09520,sigma factor
+SigM,BSU_04570,sigma factor
+SigM,BSU_28020,sigma factor
+SigM,BSU_03240,sigma factor
+SigM,BSU_22310,sigma factor
+SigM,BSU_15260,sigma factor
+SigM,BSU_35840,sigma factor
+SigM,BSU_38260,sigma factor
+SigM,BSU_36540,sigma factor
+SigM,BSU_28010,sigma factor
+SigM,BSU_27660,sigma factor
+SigM,BSU_00830,sigma factor
+SigM,BSU_09500,sigma factor
+SigM,BSU_27170,sigma factor
+SigM,BSU_15240,sigma factor
+SigM,BSU_02920,sigma factor
+SigM,BSU_28050,sigma factor
+SigM,BSU_02890,sigma factor
+SigM,BSU_00730,sigma factor
+SigM,BSU_00850,sigma factor
+SigM,BSU_02930,sigma factor
+SigM,BSU_00590,sigma factor
+SigM,BSU_00860,sigma factor
+SigM,BSU_00570,sigma factor
+SigM,BSU_15230,sigma factor
+SigM,BSU_22980,sigma factor
+SigM,BSU_28040,sigma factor
+SigM,BSU_00870,sigma factor
+SigM,BSU_22320,sigma factor
+SigM,BSU_00620,sigma factor
+SigM,BSU_27020,sigma factor
+SigM,BSU_38120,sigma factor
+SigM,BSU_15270,sigma factor
+SigM,BSU_38530,sigma factor
+SigM,BSU_11490,sigma factor
+SigM,BSU_15220,sigma factor
+SigM,BSU_07260,sigma factor
+SigM,BSU_00910,sigma factor
+SigM,BSU_00710,sigma factor
+SigM,BSU_38280,sigma factor
+SigM,BSU_00880,sigma factor
+SigM,BSU_02940,sigma factor
+SigM,BSU_03250,sigma factor
+SigM,BSU_38520,sigma factor
+SigM,BSU_00600,sigma factor
+SigM,BSU_38540,sigma factor
+SigM,BSU_36530,sigma factor
+SigM,BSU_15250,sigma factor
+SigM,BSU_18180,sigma factor
+SigM,BSU_38250,sigma factor
+SigM,BSU_30500,sigma factor
+SigM,BSU_21920,sigma factor
+SigM,BSU_38499,sigma factor
+SigM,BSU_27650,sigma factor
+SigM,BSU_16950,sigma factor
+SigM,BSU_30510,sigma factor
+SigM,BSU_21910,sigma factor
+SigM,BSU_02900,sigma factor
+SigM,BSU_06380,sigma factor
+SigM,BSU_38270,sigma factor
+ComK,BSU_28000,activation
+ComK,BSU_10660,activation
+ComK,BSU_33480,activation
+ComK,BSU_24670,activation
+ComK,BSU_10450,activation
+ComK,BSU_40920,activation
+ComK,BSU_24710,activation
+ComK,BSU_35400,activation
+ComK,BSU_25590,activation
+ComK,BSU_10460,activation
+ComK,BSU_33280,activation
+ComK,BSU_35460,activation
+ComK,BSU_33470,activation
+ComK,BSU_25580,activation
+ComK,BSU_40900,activation
+ComK,BSU_27990,activation
+ComK,BSU_03420,activation
+ComK,BSU_06830,activation
+ComK,BSU_33260,activation
+ComK,BSU_14020,repression
+ComK,BSU_10630,activation
+ComK,BSU_41020,activation
+ComK,BSU_36310,activation
+ComK,BSU_24680,activation
+ComK,BSU_35410,activation
+ComK,BSU_35420,activation
+ComK,BSU_28020,activation
+ComK,BSU_40910,activation
+ComK,BSU_24730,activation
+ComK,BSU_24720,activation
+ComK,BSU_40890,activation
+ComK,BSU_35470,activation
+ComK,BSU_28010,activation
+ComK,BSU_35440,activation
+ComK,BSU_10420,activation
+ComK,BSU_35380,activation
+ComK,BSU_28050,activation
+ComK,BSU_10650,activation
+ComK,BSU_24700,activation
+ComK,BSU_41010,activation
+ComK,BSU_03430,activation
+ComK,BSU_33270,activation
+ComK,BSU_41000,activation
+ComK,BSU_28040,activation
+ComK,BSU_06839,activation
+ComK,BSU_02010,positive regulation
+ComK,BSU_40990,activation
+ComK,BSU_35430,activation
+ComK,BSU_35370,activation
+ComK,BSU_25570,activation
+ComK,BSU_24660,activation
+ComK,BSU_24690,activation
+ComK,BSU_28030,activation
+ComK,BSU_10620,activation
+ComK,BSU_35450,activation
+ComK,BSU_28070,activation
+ComK,BSU_16940,activation
+ComK,BSU_35390,activation
+ComK,BSU_10640,activation
+SwrAA;2,BSU_02780,activation
+PchR,BSU_35090,repression
+PchR,BSU_10730,activation
+PchR,BSU_35080,repression
+PchR,BSU_35060,repression
+PchR,BSU_35070,repression
+GerR,BSU_36060,activation
+GerR,BSU_11750,activation
+GerR,BSU_11760,activation
+GerR,BSU_36070,activation
+GerR,BSU_11740,activation
+GerR,BSU_11810,activation
+GerR,BSU_17670,repression
+GerR,BSU_36050,activation
+GerR,BSU_19790,activation
+GerR,BSU_36040,activation
+GerR,BSU_19780,activation
+AdaA,BSU_01800,positive regulation
+AdaA,BSU_01820,positive regulation
+AdaA,BSU_01810,positive regulation
+SigL,BSU_08080,sigma factor
+SigL,BSU_24030,sigma factor
+SigL,BSU_40320,sigma factor
+SigL,BSU_24080,sigma factor
+SigL,BSU_24050,sigma factor
+SigL,BSU_27070,sigma factor
+SigL,BSU_08070,sigma factor
+SigL,BSU_37780,sigma factor
+SigL,BSU_08060,sigma factor
+SigL,BSU_27030,sigma factor
+SigL,BSU_27050,sigma factor
+SigL,BSU_24040,sigma factor
+SigL,BSU_27060,sigma factor
+SigL,BSU_37770,sigma factor
+SigL,BSU_40330,sigma factor
+SigL,BSU_24090,sigma factor
+SigL,BSU_27040,sigma factor
+SigL,BSU_40340,sigma factor
+SigL,BSU_24060,sigma factor
+SigL,BSU_37790,sigma factor
+SigL,BSU_24070,sigma factor
+SigL,BSU_08090,sigma factor
+SigL,BSU_37760,sigma factor
+MurR,BSU_01680,repression
+MurR,BSU_01690,repression
+MurR,BSU_01660,repression
+MurR,BSU_01700,repression
+MurR,BSU_01670,repression
+MurR,BSU_01650,repression
+CitT,BSU_07620,activation
+CitT,BSU_07610,activation
+AnsR,BSU_23580,repression
+AnsR,BSU_23590,negative autoregulation
+AnsR,BSU_23560,repression
+AnsR,BSU_23570,repression
+AnsR,BSU_23550,repression
+Rok,BSU_37400,repression
+Rok,BSU_37410,repression
+Rok,BSU_40180,repression
+Rok,BSU_37370,repression
+Rok,BSU_39950,repression
+Rok,BSU_40610,repression
+Rok,BSU_37360,repression
+Rok,BSU_37420,repression
+Rok,BSU_10420,repression
+Rok,BSU_11920,repression
+Rok,BSU_40600,repression
+Rok,BSU_39940,repression
+Rok,BSU_37380,repression
+Rok,BSU_13490,repression
+Rok,BSU_40590,repression
+Rok,BSU_40140,repression
+Rok,BSU_14240,repression
+Rok,BSU_37390,repression
+Rok,BSU_37350,repression
+Rok,BSU_13640,repression
+Rok,BSU_21460,repression
+Rok,BSU_40580,repression
+Rok,BSU_21450,repression
+Rok,BSU_40170,repression
+Rok,BSU_40150,repression
+Rok,BSU_21470,repression
+Rok,BSU_40620,repression
+Rok,BSU_33760,repression
+Rok,BSU_21480,repression
+Rok,BSU_21440,repression
+Rok,BSU_37430,repression
+Rok,BSU_33770,repression
+Rok,BSU_33750,repression
+Rok,BSU_40160,repression
+YrkP,BSU_26440,activation
+YrkP,BSU_26420,activation
+YrkP,BSU_12880,activation
+YrkP,BSU_12890,activation
+YrkP,BSU_26450,activation
+YrkP,BSU_26410,activation
+YrkP,BSU_26430,activation
+YfiR,BSU_08380,repression
+YfiR,BSU_08370,repression
+IolQ,BSU_10850,repression
+GerE,BSU_37890,activation
+GerE,BSU_10690,repression
+GerE,BSU_36070,activation
+GerE,BSU_05570,repression
+GerE,BSU_37830,activation
+GerE,BSU_14980,activation
+GerE,BSU_30860,repression
+GerE,BSU_17310,activation
+GerE,BSU_30890,activation
+GerE,BSU_34520,activation
+GerE,BSU_32640,activation
+GerE,BSU_11320,activation
+GerE,BSU_30900,activation
+GerE,BSU_07280,activation
+GerE,BSU_11760,activation
+GerE,BSU_19490,repression
+GerE,BSU_13789,activation
+GerE,BSU_37840,activation
+GerE,BSU_37870,activation
+GerE,BSU_10600,repression
+GerE,BSU_19750,activation
+GerE,BSU_36060,repression
+GerE,BSU_37810,activation
+GerE,BSU_37900,activation
+GerE,BSU_37880,activation
+GerE,BSU_37820,activation
+GerE,BSU_11750,activation
+GerE,BSU_07300,activation
+GerE,BSU_10900,repression
+GerE,BSU_37860,activation
+GerE,BSU_19810,activation
+GerE,BSU_10610,repression
+GerE,BSU_30910,activation
+GerE,BSU_15950,activation
+GerE,BSU_37910,activation
+GerE,BSU_06300,repression
+GerE,BSU_17030,repression
+GerE,BSU_25760,repression
+GerE,BSU_19770,activation
+GerE,BSU_17670,activation
+GerE,BSU_11780,activation
+GerE,BSU_11740,activation
+GerE,BSU_28320,repression
+GerE,BSU_17700,activation
+GerE,BSU_07290,activation
+GerE,BSU_22250,activation
+GerE,BSU_10710,repression
+GerE,BSU_12090,repression
+GerE,BSU_19790,activation
+GerE,BSU_09958,activation
+GerE,BSU_30880,repression
+GerE,BSU_04110,activation
+GerE,BSU_10700,repression
+GerE,BSU_18670,repression
+GerE,BSU_06850,activation
+GerE,BSU_25710,activation
+GerE,BSU_36050,repression
+GerE,BSU_31270,repression
+GerE,BSU_11770,activation
+GerE,BSU_37850,activation
+GerE,BSU_36040,repression
+GerE,BSU_10670,repression
+GerE,BSU_39580,activation
+GerE,BSU_05550,repression
+GerE,BSU_19780,activation
+GerE,BSU_07310,activation
+GerE,BSU_10680,repression
+GerE,BSU_10720,repression
+GerE,BSU_19760,activation
+GerE,BSU_17970,repression
+GerE,BSU_32650,activation
+GerE,BSU_26390,repression
+GerE,BSU_14970,activation
+GerE,BSU_07270,activation
+GerE,BSU_30870,repression
+GerE,BSU_22200,activation
+GerE,BSU_05560,repression
+TyrZ,BSU_38450,sigma factor
+TyrZ,BSU_38460,sigma factor
+YcbG,BSU_02490,repression
+YcbG,BSU_02480,repression
+YcbG,BSU_02470,repression
+YcbG,BSU_02520,repression
+YcbG,BSU_02460,repression
+YcbG,BSU_02500,repression
+YcbG,BSU_02510,repression
+GntR,BSU_40080,repression
+GntR,BSU_40070,repression
+GntR,BSU_40060,repression
+GntR,BSU_40050,repression
+MtlR,BSU_03990,activation
+MtlR,BSU_03981,activation
+MtlR,BSU_03982,activation
+LevR,BSU_27030,activation
+LevR,BSU_27050,activation
+LevR,BSU_27060,activation
+LevR,BSU_27040,activation
+LevR,BSU_27070,activation
+YuxN,BSU_33029,repression
+ResD,BSU_03280,activation
+ResD,BSU_12290,repression
+ResD,BSU_38750,activation
+ResD,BSU_14150,activation
+ResD,BSU_22550,activation
+ResD,BSU_12280,repression
+ResD,BSU_37400,activation
+ResD,BSU_09280,repression
+ResD,BSU_37410,activation
+ResD,BSU_14170,activation
+ResD,BSU_37430,activation
+ResD,BSU_03290,activation
+ResD,BSU_03300,activation
+ResD,BSU_38730,activation
+ResD,BSU_17370,activation
+ResD,BSU_23140,activation
+ResD,BSU_37370,activation
+ResD,BSU_22560,activation
+ResD,BSU_14870,activation
+ResD,BSU_22540,activation
+ResD,BSU_37360,activation
+ResD,BSU_14930,activation
+ResD,BSU_37420,activation
+ResD,BSU_17380,activation
+ResD,BSU_17390,activation
+ResD,BSU_37380,activation
+ResD,BSU_03320,activation
+ResD,BSU_37390,activation
+ResD,BSU_37350,activation
+ResD,BSU_13040,activation
+ResD,BSU_17400,activation
+ResD,BSU_14910,activation
+ResD,BSU_03750,activation
+ResD,BSU_14160,activation
+ResD,BSU_03760,activation
+ResD,BSU_37310,activation
+ResD,BSU_09290,repression
+ResD,BSU_13360,activation
+ResD,BSU_14920,activation
+ResD,BSU_23130,activation
+ResD,BSU_14890,activation
+ResD,BSU_14880,activation
+ResD,BSU_03310,activation
+ResD,BSU_38760,activation
+ResD,BSU_23120,activation
+ResD,BSU_23110,activation
+ResD,BSU_38130,repression
+ResD,BSU_23150,activation
+ResD,BSU_14900,activation
+ResD,BSU_38740,activation
+GanR,BSU_34160,repression
+GanR,BSU_34120,repression
+GanR,BSU_34130,repression
+GanR,BSU_34150,repression
+GanR,BSU_34140,repression
+GanR,BSU_34170,repression
+CcpN,BSU_21820,activation
+CcpN,BSU_21810,activation
+CcpN,BSU_29020,repression
+CcpN,BSU_30560,repression
+CcpN,BSU_29010,repression
+CcpN,BSU_14629,repression
+SigK,BSU_10930,sigma factor
+SigK,BSU_19850,sigma factor
+SigK,BSU_17970,sigma factor
+SigK,BSU_30610,sigma factor
+SigK,BSU_14970,sigma factor
+SigK,BSU_30900,sigma factor
+SigK,BSU_07270,sigma factor
+SigK,BSU_30870,sigma factor
+SigK,BSU_22200,sigma factor
+SigK,BSU_00260,sigma factor
+SigK,BSU_13789,sigma factor
+SigK,BSU_14980,sigma factor
+SigK,BSU_17420,sigma factor
+SigK,BSU_00250,sigma factor
+SigK,BSU_30860,sigma factor
+SigK,BSU_17310,sigma factor
+SigK,BSU_37890,sigma factor
+SigK,BSU_26390,sigma factor
+SigK,BSU_34520,sigma factor
+SigK,BSU_32640,sigma factor
+SigK,BSU_11320,sigma factor
+SigK,BSU_37830,sigma factor
+SigK,BSU_07280,sigma factor
+SigK,BSU_19490,sigma factor
+SigK,BSU_08620,sigma factor
+SigK,BSU_25150,sigma factor
+SigK,BSU_19890,sigma factor
+SigK,BSU_30910,sigma factor
+SigK,BSU_10950,sigma factor
+SigK,BSU_11760,sigma factor
+SigK,BSU_13790,sigma factor
+SigK,BSU_34530,sigma factor
+SigK,BSU_19750,sigma factor
+SigK,BSU_36060,sigma factor
+SigK,BSU_30850,sigma factor
+SigK,BSU_37840,sigma factor
+SigK,BSU_37870,sigma factor
+SigK,BSU_10600,sigma factor
+SigK,BSU_22240,sigma factor
+SigK,BSU_16760,sigma factor
+SigK,BSU_11750,sigma factor
+SigK,BSU_00240,sigma factor
+SigK,BSU_16740,sigma factor
+SigK,BSU_10910,sigma factor
+SigK,BSU_07300,sigma factor
+SigK,BSU_37810,sigma factor
+SigK,BSU_19810,sigma factor
+SigK,BSU_37900,sigma factor
+SigK,BSU_37880,sigma factor
+SigK,BSU_17820,sigma factor
+SigK,BSU_37820,sigma factor
+SigK,BSU_14040,sigma factor
+SigK,BSU_19110,sigma factor
+SigK,BSU_10900,sigma factor
+SigK,BSU_37860,sigma factor
+SigK,BSU_13780,sigma factor
+SigK,BSU_36070,sigma factor
+SigK,BSU_12830,sigma factor
+SigK,BSU_17410,sigma factor
+SigK,BSU_10610,sigma factor
+SigK,BSU_19970,sigma factor
+SigK,BSU_10710,sigma factor
+SigK,BSU_06300,sigma factor
+SigK,BSU_19820,sigma factor
+SigK,BSU_15950,sigma factor
+SigK,BSU_37910,sigma factor
+SigK,BSU_10700,sigma factor
+SigK,BSU_19770,sigma factor
+SigK,BSU_11810,sigma factor
+SigK,BSU_09165,sigma factor
+SigK,BSU_02600,sigma factor
+SigK,BSU_11780,sigma factor
+SigK,BSU_32340,sigma factor
+SigK,BSU_19880,sigma factor
+SigK,BSU_11740,sigma factor
+SigK,BSU_16770,sigma factor
+SigK,BSU_07290,sigma factor
+SigK,BSU_19860,sigma factor
+SigK,BSU_22250,sigma factor
+SigK,BSU_12090,sigma factor
+SigK,BSU_10680,sigma factor
+SigK,BSU_19870,sigma factor
+SigK,BSU_10920,sigma factor
+SigK,BSU_26560,sigma factor
+SigK,BSU_09958,sigma factor
+SigK,BSU_17700,sigma factor
+SigK,BSU_30880,sigma factor
+SigK,BSU_00270,sigma factor
+SigK,BSU_04110,sigma factor
+SigK,BSU_18670,sigma factor
+SigK,BSU_19930,sigma factor
+SigK,BSU_12820,sigma factor
+SigK,BSU_19610,sigma factor
+SigK,BSU_19600,sigma factor
+SigK,BSU_06850,sigma factor
+SigK,BSU_25710,sigma factor
+SigK,BSU_19790,sigma factor
+SigK,BSU_10670,sigma factor
+SigK,BSU_30620,sigma factor
+SigK,BSU_28320,sigma factor
+SigK,BSU_12490,sigma factor
+SigK,BSU_10940,sigma factor
+SigK,BSU_25760,sigma factor
+SigK,BSU_05550,sigma factor
+SigK,BSU_36050,sigma factor
+SigK,BSU_31270,sigma factor
+SigK,BSU_16730,sigma factor
+SigK,BSU_11770,sigma factor
+SigK,BSU_30920,sigma factor
+SigK,BSU_17030,sigma factor
+SigK,BSU_19830,sigma factor
+SigK,BSU_17670,sigma factor
+SigK,BSU_36040,sigma factor
+SigK,BSU_19910,sigma factor
+SigK,BSU_10720,sigma factor
+SigK,BSU_37850,sigma factor
+SigK,BSU_39580,sigma factor
+SigK,BSU_19940,sigma factor
+SigK,BSU_28410,sigma factor
+SigK,BSU_30595,sigma factor
+SigK,BSU_07310,sigma factor
+SigK,BSU_16750,sigma factor
+SigK,BSU_40530,sigma factor
+SigK,BSU_19780,sigma factor
+SigK,BSU_19760,sigma factor
+SigK,BSU_19920,sigma factor
+SigK,BSU_26559,sigma factor
+SigK,BSU_05560,sigma factor
+SigK,BSU_10690,sigma factor
+SigK,BSU_05570,sigma factor
+SigK,BSU_00430,sigma factor
+SigK,BSU_32650,sigma factor
+SigK,BSU_30890,sigma factor
+Xre,BSU_12519,repression
+Xre,BSU_12520,repression
+Xre,BSU_12530,repression
+Xre,BSU_12539,repression
+Xre,BSU_12540,repression
+Xre,BSU_12550,repression
+BsdA,BSU_03651,activation
+BsdA,BSU_03630,activation
+BsdA,BSU_03640,activation
+SdpR,BSU_32840,activation
+SdpR,BSU_32830,activation
+SdpR,BSU_32820,activation
+SdpR,BSU_33790,repression
+SdpR,BSU_32850,activation
+SdpR,BSU_33780,repression
+Spo0A,BSU_16330,repression
+Spo0A,BSU_16430,repression
+Spo0A,BSU_35520,repression
+Spo0A,BSU_17910,activation
+Spo0A,BSU_16440,repression
+Spo0A,BSU_24600,activation
+Spo0A,BSU_16270,repression
+Spo0A,BSU_16400,repression
+Spo0A,BSU_24930,repression
+Spo0A,BSU_16410,repression
+Spo0A,BSU_16320,repression
+Spo0A,BSU_14140,activation
+Spo0A,BSU_31740,repression
+Spo0A,BSU_14490,activation
+Spo0A,BSU_00380,repression
+Spo0A,BSU_29630,activation
+Spo0A,BSU_25890,activation
+Spo0A,BSU_16180,repression
+Spo0A,BSU_35510,repression
+Spo0A,BSU_29200,activation
+Spo0A,BSU_38400,activation
+Spo0A,BSU_27370,repression
+Spo0A,BSU_14110,activation
+Spo0A,BSU_36250,activation
+Spo0A,BSU_00370,repression
+Spo0A,BSU_10750,activation
+Spo0A,BSU_16240,repression
+Spo0A,BSU_40320,repression
+Spo0A,BSU_15320,activation
+Spo0A,BSU_01920,activation
+Spo0A,BSU_15380,repression
+Spo0A,BSU_03220,activation
+Spo0A,BSU_16260,repression
+Spo0A,BSU_36230,activation
+Spo0A,BSU_16450,repression
+Spo0A,BSU_16310,repression
+Spo0A,BSU_15330,activation
+Spo0A,BSU_16470,repression
+Spo0A,BSU_16210,repression
+Spo0A,BSU_38100,repression
+Spo0A,BSU_01950,activation
+Spo0A,BSU_03210,activation
+Spo0A,BSU_16480,repression
+Spo0A,BSU_15410,repression
+Spo0A,BSU_12440,repression
+Spo0A,BSU_16300,repression
+Spo0A,BSU_16460,repression
+Spo0A,BSU_22280,activation
+Spo0A,BSU_16380,repression
+Spo0A,BSU_14500,activation
+Spo0A,BSU_15400,repression
+Spo0A,BSU_16290,repression
+Spo0A,BSU_16299,repression
+Spo0A,BSU_16420,repression
+Spo0A,BSU_37130,activation
+Spo0A,BSU_07460,activation
+Spo0A,BSU_16370,repression
+Spo0A,BSU_39880,activation
+Spo0A,BSU_16280,repression
+Spo0A,BSU_32760,activation
+Spo0A,BSU_23460,activation
+Spo0A,BSU_16340,repression
+Spo0A,BSU_00010,repression
+Spo0A,BSU_11300,repression
+Spo0A,BSU_14240,repression
+Spo0A,BSU_16390,repression
+Spo0A,BSU_16200,repression
+Spo0A,BSU_01980,activation
+Spo0A,BSU_16250,repression
+Spo0A,BSU_37030,activation
+Spo0A,BSU_23470,activation
+Spo0A,BSU_15390,repression
+Spo0A,BSU_16360,repression
+Spo0A,BSU_12850,repression
+Spo0A,BSU_11310,repression
+Spo0A,BSU_38110,repression
+Spo0A,BSU_15420,repression
+Spo0A,BSU_03200,activation
+Spo0A,BSU_14120,activation
+Spo0A,BSU_23450,activation
+Spo0A,BSU_22270,activation
+Spo0A,BSU_39870,activation
+Spo0A,BSU_36260,activation
+Spo0A,BSU_38530,repression
+Spo0A,BSU_16350,repression
+Spo0A,BSU_32770,activation
+Spo0A,BSU_06570,activation
+Spo0A,BSU_09420,repression
+Spo0A,BSU_12430,repression
+Spo0A,BSU_26050,transcription activation
+Spo0A,BSU_25860,activation
+Spo0A,BSU_24220,repression
+Spo0A,BSU_10420,activation
+Spo0A,BSU_01910,activation
+Spo0A,BSU_25870,activation
+Spo0A,BSU_40330,repression
+Spo0A,BSU_12840,repression
+Spo0A,BSU_38520,repression
+Spo0A,BSU_19640,activation
+Spo0A,BSU_17890,repression
+Spo0A,BSU_00020,repression
+Spo0A,BSU_19210,activation
+Spo0A,BSU_25200,repression
+Spo0A,BSU_38540,repression
+Spo0A,BSU_25210,repression
+Spo0A,BSU_24610,activation
+Spo0A,BSU_33760,activation
+Spo0A,BSU_36240,activation
+Spo0A,BSU_40340,repression
+Spo0A,BSU_14510,activation
+Spo0A,BSU_17900,activation
+Spo0A,BSU_38499,repression
+Spo0A,BSU_16190,repression
+Spo0A,BSU_00640,activation
+Spo0A,BSU_00110,repression
+Spo0A,BSU_25880,activation
+Spo0A,BSU_10760,activation
+Spo0A,BSU_29210,activation
+Spo0A,BSU_40970,repression
+Spo0A,BSU_13990,activation
+Spo0A,BSU_33770,activation
+Spo0A,BSU_14100,activation
+Spo0A,BSU_06580,activation
+Spo0A,BSU_01935,activation
+Spo0A,BSU_15310,activation
+Spo0A,BSU_00120,repression
+Spo0A,BSU_25230,repression
+Spo0A,BSU_14130,activation
+Spo0A,BSU_16220,repression
+Spo0A,BSU_15370,repression
+Spo0A,BSU_33750,activation
+Spo0A,BSU_01960,activation
+Spo0A,BSU_24940,repression
+Spo0A,BSU_38500,repression
+Spo0A,BSU_40960,repression
+Spo0A,BSU_35260,repression
+Spo0A,BSU_00390,repression
+Spo0A,BSU_35250,repression
+Spo0A,BSU_01970,activation
+Spo0A,BSU_16230,repression
+Spo0A,BSU_07450,activation
+Spo0A,BSU_38510,repression
+Spx,BSU_22470,activation
+Spx,BSU_27240,activation
+Spx,BSU_15120,activation
+Spx,BSU_31290,activation
+Spx,BSU_00720,activation
+Spx,BSU_03510,repression
+Spx,BSU_31370,activation
+Spx,BSU_22490,activation
+Spx,BSU_22440,activation
+Spx,BSU_19470,activation
+Spx,BSU_03520,repression
+Spx,BSU_38100,activation
+Spx,BSU_29830,activation
+Spx,BSU_00730,activation
+Spx,BSU_30340,activation
+Spx,BSU_00700,activation
+Spx,BSU_14710,activation
+Spx,BSU_34790,activation
+Spx,BSU_14740,activation
+Spx,BSU_15110,activation
+Spx,BSU_21690,activation
+Spx,BSU_11550,activation
+Spx,BSU_27250,activation
+Spx,BSU_29480,activation
+Spx,BSU_03480,repression
+Spx,BSU_14730,activation
+Spx,BSU_19460,activation
+Spx,BSU_03490,repression
+Spx,BSU_14720,activation
+Spx,BSU_19479,activation
+Spx,BSU_29840,activation
+Spx,BSU_38110,activation
+Spx,BSU_03500,repression
+Spx,BSU_29820,activation
+Spx,BSU_11560,activation
+Spx,BSU_27270,activation
+Spx,BSU_29490,activation
+Spx,BSU_21680,activation
+Spx,BSU_27280,activation
+Spx,BSU_22460,activation
+Spx,BSU_28500,activation
+Spx,BSU_27260,activation
+Spx,BSU_22500,activation
+Spx,BSU_22450,activation
+Spx,BSU_00710,activation
+Spx,BSU_22480,activation
+DtrR,BSU_38450,repression
+DtrR,BSU_38460,repression
+HrcA,BSU_25480,repression
+HrcA,BSU_25430,repression
+HrcA,BSU_25450,repression
+HrcA,BSU_06020,repression
+HrcA,BSU_25460,repression
+HrcA,BSU_25440,repression
+HrcA,BSU_25470,repression
+HrcA,BSU_25490,repression
+HrcA,BSU_06030,repression
+SigA,BSU_35230,sigma factor
+SigA,BSU_35690,sigma factor
+SigA,BSU_12930,sigma factor
+SigA,BSU_32500,sigma factor
+SigA,BSU_03350,sigma factor
+SigA,BSU_32610,sigma factor
+SigA,BSU_05450,sigma factor
+SigA,BSU_12900,sigma factor
+SigA,BSU_36900,sigma factor
+SigA,BSU_05500,sigma factor
+SigA,BSU_19480,sigma factor
+SigA,BSU_28700,sigma factor
+SigA,BSU_03340,sigma factor
+SigA,BSU_28030,sigma factor
+SigA,BSU_31890,sigma factor
+SigA,BSU_35490,sigma factor
+SigA,BSU_28140,sigma factor
+SigA,BSU_40350,sigma factor
+SigA,BSU_07390,sigma factor
+SigA,BSU_12350,sigma factor
+SigA,BSU_37250,sigma factor
+SigA,BSU_02280,sigma factor
+SigA,BSU_29670,sigma factor
+SigA,BSU_02670,sigma factor
+SigA,BSU_12000,sigma factor
+SigA,BSU_34720,sigma factor
+SigA,BSU_08860,sigma factor
+SigA,BSU_04470,sigma factor
+SigA,BSU_19890,sigma factor
+SigA,BSU_05820,sigma factor
+SigA,BSU_03220,sigma factor
+SigA,BSU_32570,sigma factor
+SigA,BSU_33130,sigma factor
+SigA,BSU_37650,sigma factor
+SigA,BSU_09280,sigma factor
+SigA,BSU_00800,sigma factor
+SigA,BSU_31460,sigma factor
+SigA,BSU_00780,sigma factor
+SigA,BSU_40050,sigma factor
+SigA,BSU_23260,sigma factor
+SigA,BSU_35600,sigma factor
+SigA,BSU_06030,sigma factor
+SigA,BSU_29390,sigma factor
+SigA,BSU_28750,sigma factor
+SigA,BSU_13900,sigma factor
+SigA,BSU_37270,sigma factor
+SigA,BSU_28130,sigma factor
+SigA,BSU_36290,sigma factor
+SigA,BSU_23130,sigma factor
+SigA,BSU_01250,sigma factor
+SigA,BSU_34740,sigma factor
+SigA,BSU_34360,sigma factor
+SigA,BSU_15720,sigma factor
+SigA,BSU_16230,sigma factor
+SigA,BSU_32490,sigma factor
+SigA,BSU_18000,sigma factor
+SigA,BSU_28540,sigma factor
+SigA,BSU_22480,sigma factor
+SigA,BSU_03359,sigma factor
+SigA,BSU_04690,sigma factor
+SigA,BSU_01935,sigma factor
+SigA,BSU_23110,sigma factor
+SigA,BSU_23270,sigma factor
+SigA,BSU_12340,sigma factor
+SigA,BSU_07820,sigma factor
+SigA,BSU_10270,sigma factor
+SigA,BSU_13600,sigma factor
+SigA,BSU_06510,sigma factor
+SigA,BSU_29360,sigma factor
+SigA,BSU_10110,sigma factor
+SigA,BSU_16330,sigma factor
+SigA,BSU_31190,sigma factor
+SigA,BSU_11500,sigma factor
+SigA,BSU_03280,sigma factor
+SigA,BSU_19180,sigma factor
+SigA,BSU_31490,sigma factor
+SigA,BSU_29350,sigma factor
+SigA,BSU_40180,sigma factor
+SigA,BSU_28000,sigma factor
+SigA,BSU_32600,sigma factor
+SigA,BSU_36380,sigma factor
+SigA,BSU_39470,sigma factor
+SigA,BSU_16430,sigma factor
+SigA,BSU_39690,sigma factor
+SigA,BSU_26310,sigma factor
+SigA,BSU_02620,sigma factor
+SigA,BSU_16160,sigma factor
+SigA,BSU_08190,sigma factor
+SigA,BSU_32430,sigma factor
+SigA,BSU_18840,sigma factor
+SigA,BSU_18440,sigma factor
+SigA,BSU_27890,sigma factor
+SigA,BSU_40310,sigma factor
+SigA,BSU_14150,sigma factor
+SigA,BSU_15560,sigma factor
+SigA,BSU_24600,sigma factor
+SigA,BSU_29380,sigma factor
+SigA,BSU_33500,sigma factor
+SigA,BSU_23120,sigma factor
+SigA,BSU_22470,sigma factor
+SigA,BSU_33440,sigma factor
+SigA,BSU_37740,sigma factor
+SigA,BSU_30290,sigma factor
+SigA,BSU_16270,sigma factor
+SigA,BSU_34730,sigma factor
+SigA,BSU_16300,sigma factor
+SigA,BSU_16460,sigma factor
+SigA,BSU_08660,sigma factor
+SigA,BSU_29400,sigma factor
+SigA,BSU_15490,sigma factor
+SigA,BSU_35900,sigma factor
+SigA,BSU_14600,sigma factor
+SigA,BSU_17580,sigma factor
+SigA,BSU_28520,sigma factor
+SigA,BSU_01960,sigma factor
+SigA,BSU_35180,sigma factor
+SigA,BSU_01360,sigma factor
+SigA,BSU_16410,sigma factor
+SigA,BSU_15940,sigma factor
+SigA,BSU_29730,sigma factor
+SigA,BSU_15920,sigma factor
+SigA,BSU_39720,sigma factor
+SigA,BSU_23490,sigma factor
+SigA,BSU_08630,sigma factor
+SigA,BSU_00770,sigma factor
+SigA,BSU_16320,sigma factor
+SigA,BSU_27240,sigma factor
+SigA,BSU_25480,sigma factor
+SigA,BSU_15120,sigma factor
+SigA,BSU_37280,sigma factor
+SigA,BSU_09840,sigma factor
+SigA,BSU_24620,sigma factor
+SigA,BSU_29680,sigma factor
+SigA,BSU_28280,sigma factor
+SigA,BSU_31740,sigma factor
+SigA,BSU_14490,sigma factor
+SigA,BSU_24950,sigma factor
+SigA,BSU_11340,sigma factor
+SigA,BSU_39900,sigma factor
+SigA,BSU_19880,sigma factor
+SigA,BSU_03130,sigma factor
+SigA,BSU_16299,sigma factor
+SigA,BSU_15100,sigma factor
+SigA,BSU_22090,sigma factor
+SigA,BSU_19570,sigma factor
+SigA,BSU_28260,sigma factor
+SigA,BSU_10010,sigma factor
+SigA,BSU_39890,sigma factor
+SigA,BSU_39230,sigma factor
+SigA,BSU_33720,sigma factor
+SigA,BSU_04680,sigma factor
+SigA,BSU_01150,sigma factor
+SigA,BSU_32700,sigma factor
+SigA,BSU_30070,sigma factor
+SigA,BSU_23250,sigma factor
+SigA,BSU_32990,sigma factor
+SigA,BSU_35300,sigma factor
+SigA,BSU_35650,sigma factor
+SigA,BSU_35239,sigma factor
+SigA,BSU_13560,sigma factor
+SigA,BSU_32840,sigma factor
+SigA,BSU_28760,sigma factor
+SigA,BSU_16040,sigma factor
+SigA,BSU_33040,sigma factor
+SigA,BSU_08110,sigma factor
+SigA,BSU_05830,sigma factor
+SigA,BSU_33120,sigma factor
+SigA,BSU_07680,sigma factor
+SigA,BSU_34350,sigma factor
+SigA,BSU_35680,sigma factor
+SigA,BSU_15280,sigma factor
+SigA,BSU_33930,sigma factor
+SigA,BSU_16800,sigma factor
+SigA,BSU_01970,sigma factor
+SigA,BSU_16010,sigma factor
+SigA,BSU_23150,sigma factor
+SigA,BSU_16180,sigma factor
+SigA,BSU_33700,sigma factor
+SigA,BSU_39500,sigma factor
+SigA,BSU_29290,sigma factor
+SigA,BSU_27870,sigma factor
+SigA,BSU_24670,sigma factor
+SigA,BSU_38310,sigma factor
+SigA,BSU_39270,sigma factor
+SigA,BSU_25280,sigma factor
+SigA,BSU_15530,sigma factor
+SigA,BSU_27930,sigma factor
+SigA,BSU_27860,sigma factor
+SigA,BSU_08840,sigma factor
+SigA,BSU_13330,sigma factor
+SigA,BSU_13130,sigma factor
+SigA,BSU_34710,sigma factor
+SigA,BSU_28290,sigma factor
+SigA,BSU_14850,sigma factor
+SigA,BSU_38300,sigma factor
+SigA,BSU_08870,sigma factor
+SigA,BSU_03950,sigma factor
+SigA,BSU_01080,sigma factor
+SigA,BSU_36640,sigma factor
+SigA,BSU_37310,sigma factor
+SigA,BSU_26600,sigma factor
+SigA,BSU_03300,sigma factor
+SigA,BSU_22550,sigma factor
+SigA,BSU_01390,sigma factor
+SigA,BSU_39730,sigma factor
+SigA,BSU_14170,sigma factor
+SigA,BSU_01320,sigma factor
+SigA,BSU_30820,sigma factor
+SigA,BSU_26830,sigma factor
+SigA,BSU_05740,sigma factor
+SigA,BSU_40770,sigma factor
+SigA,BSU_14590,sigma factor
+SigA,BSU_01410,sigma factor
+SigA,BSU_15590,sigma factor
+SigA,BSU_28090,sigma factor
+SigA,BSU_40920,sigma factor
+SigA,BSU_33960,sigma factor
+SigA,BSU_36250,sigma factor
+SigA,BSU_35950,sigma factor
+SigA,BSU_03290,sigma factor
+SigA,BSU_00680,sigma factor
+SigA,BSU_00070,sigma factor
+SigA,BSU_17610,sigma factor
+SigA,BSU_15620,sigma factor
+SigA,BSU_18460,sigma factor
+SigA,BSU_37400,sigma factor
+SigA,BSU_16240,sigma factor
+SigA,BSU_16340,sigma factor
+SigA,BSU_39460,sigma factor
+SigA,BSU_01330,sigma factor
+SigA,BSU_00500,sigma factor
+SigA,BSU_01440,sigma factor
+SigA,BSU_11870,sigma factor
+SigA,BSU_34240,sigma factor
+SigA,BSU_14580,sigma factor
+SigA,BSU_13450,sigma factor
+SigA,BSU_28780,sigma factor
+SigA,BSU_25290,sigma factor
+SigA,BSU_31570,sigma factor
+SigA,BSU_01610,sigma factor
+SigA,BSU_39740,sigma factor
+SigA,BSU_01200,sigma factor
+SigA,BSU_37410,sigma factor
+SigA,BSU_16260,sigma factor
+SigA,BSU_28640,sigma factor
+SigA,BSU_22490,sigma factor
+SigA,BSU_35580,sigma factor
+SigA,BSU_36230,sigma factor
+SigA,BSU_00950,sigma factor
+SigA,BSU_33940,sigma factor
+SigA,BSU_28440,sigma factor
+SigA,BSU_12330,sigma factor
+SigA,BSU_16450,sigma factor
+SigA,BSU_38580,sigma factor
+SigA,BSU_22130,sigma factor
+SigA,BSU_24710,sigma factor
+SigA,BSU_10530,sigma factor
+SigA,BSU_15740,sigma factor
+SigA,BSU_16310,sigma factor
+SigA,BSU_19970,sigma factor
+SigA,BSU_39780,sigma factor
+SigA,BSU_15330,sigma factor
+SigA,BSU_33080,sigma factor
+SigA,BSU_08650,sigma factor
+SigA,BSU_01190,sigma factor
+SigA,BSU_09320,sigma factor
+SigA,BSU_37560,sigma factor
+SigA,BSU_16280,sigma factor
+SigA,BSU_28720,sigma factor
+SigA,BSU_34160,sigma factor
+SigA,BSU_34320,sigma factor
+SigA,BSU_31220,sigma factor
+SigA,BSU_32480,sigma factor
+SigA,BSU_09440,sigma factor
+SigA,BSU_14140,sigma factor
+SigA,BSU_24630,sigma factor
+SigA,BSU_22440,sigma factor
+SigA,BSU_39250,sigma factor
+SigA,BSU_22790,sigma factor
+SigA,BSU_05840,sigma factor
+SigA,BSU_27880,sigma factor
+SigA,BSU_02540,sigma factor
+SigA,BSU_03900,sigma factor
+SigA,BSU_09510,sigma factor
+SigA,BSU_35400,sigma factor
+SigA,BSU_24640,sigma factor
+SigA,BSU_37150,sigma factor
+SigA,BSU_12870,sigma factor
+SigA,BSU_00760,sigma factor
+SigA,BSU_14530,sigma factor
+SigA,BSU_01800,sigma factor
+SigA,BSU_35710,sigma factor
+SigA,BSU_35000,sigma factor
+SigA,BSU_16470,sigma factor
+SigA,BSU_37430,sigma factor
+SigA,BSU_16210,sigma factor
+SigA,BSU_39410,sigma factor
+SigA,BSU_32580,sigma factor
+SigA,BSU_00370,sigma factor
+SigA,BSU_09520,sigma factor
+SigA,BSU_35290,sigma factor
+SigA,BSU_33430,sigma factor
+SigA,BSU_03990,sigma factor
+SigA,BSU_36690,sigma factor
+SigA,BSU_19820,sigma factor
+SigA,BSU_26320,sigma factor
+SigA,BSU_28430,sigma factor
+SigA,BSU_25590,sigma factor
+SigA,BSU_00990,sigma factor
+SigA,BSU_36130,sigma factor
+SigA,BSU_16150,sigma factor
+SigA,BSU_06420,sigma factor
+SigA,BSU_32670,sigma factor
+SigA,BSU_26050,sigma factor
+SigA,BSU_17460,sigma factor
+SigA,BSU_33950,sigma factor
+SigA,BSU_02640,sigma factor
+SigA,BSU_37490,sigma factor
+SigA,BSU_03510,sigma factor
+SigA,BSU_00810,sigma factor
+SigA,BSU_03780,sigma factor
+SigA,BSU_32590,sigma factor
+SigA,BSU_30460,sigma factor
+SigA,BSU_28560,sigma factor
+SigA,BSU_19470,sigma factor
+SigA,BSU_16780,sigma factor
+SigA,BSU_39910,sigma factor
+SigA,BSU_06160,sigma factor
+SigA,BSU_34970,sigma factor
+SigA,BSU_30260,sigma factor
+SigA,BSU_29710,sigma factor
+SigA,BSU_23580,sigma factor
+SigA,BSU_34120,sigma factor
+SigA,BSU_37260,sigma factor
+SigA,BSU_35010,sigma factor
+SigA,BSU_12440,sigma factor
+SigA,BSU_02630,sigma factor
+SigA,BSU_27500,sigma factor
+SigA,BSU_16380,sigma factor
+SigA,BSU_14500,sigma factor
+SigA,BSU_34780,sigma factor
+SigA,BSU_25430,sigma factor
+SigA,BSU_11200,sigma factor
+SigA,BSU_27520,sigma factor
+SigA,BSU_10630,sigma factor
+SigA,BSU_03360,sigma factor
+SigA,BSU_15910,sigma factor
+SigA,BSU_04740,sigma factor
+SigA,BSU_40080,sigma factor
+SigA,BSU_39260,sigma factor
+SigA,BSU_00670,sigma factor
+SigA,BSU_38860,sigma factor
+SigA,BSU_12370,sigma factor
+SigA,BSU_12320,sigma factor
+SigA,BSU_31875,sigma factor
+SigA,BSU_33010,sigma factor
+SigA,BSU_01780,sigma factor
+SigA,BSU_35460,sigma factor
+SigA,BSU_37690,sigma factor
+SigA,BSU_16290,sigma factor
+SigA,BSU_05870,sigma factor
+SigA,BSU_12360,sigma factor
+SigA,BSU_22780,sigma factor
+SigA,BSU_37730,sigma factor
+SigA,BSU_34800,sigma factor
+SigA,BSU_38100,sigma factor
+SigA,BSU_15540,sigma factor
+SigA,BSU_34750,sigma factor
+SigA,BSU_39360,sigma factor
+SigA,BSU_38600,sigma factor
+SigA,BSU_00840,sigma factor
+SigA,BSU_35670,sigma factor
+SigA,BSU_29660,sigma factor
+SigA,BSU_12030,sigma factor
+SigA,BSU_01270,sigma factor
+SigA,BSU_39930,sigma factor
+SigA,BSU_25500,sigma factor
+SigA,BSU_03210,sigma factor
+SigA,BSU_01430,sigma factor
+SigA,BSU_41030,sigma factor
+SigA,BSU_01920,sigma factor
+SigA,BSU_12020,sigma factor
+SigA,BSU_00970,sigma factor
+SigA,BSU_01620,sigma factor
+SigA,BSU_37130,sigma factor
+SigA,BSU_34130,sigma factor
+SigA,BSU_19370,sigma factor
+SigA,BSU_08200,sigma factor
+SigA,BSU_06450,sigma factor
+SigA,BSU_29100,sigma factor
+SigA,BSU_06150,sigma factor
+SigA,BSU_40900,sigma factor
+SigA,BSU_09270,sigma factor
+SigA,BSU_16600,sigma factor
+SigA,BSU_29130,sigma factor
+SigA,BSU_28730,sigma factor
+SigA,BSU_33110,sigma factor
+SigA,BSU_17370,sigma factor
+SigA,BSU_15610,sigma factor
+SigA,BSU_24190,sigma factor
+SigA,BSU_33730,sigma factor
+SigA,BSU_00690,sigma factor
+SigA,BSU_15970,sigma factor
+SigA,BSU_38260,sigma factor
+SigA,BSU_19860,sigma factor
+SigA,BSU_04260,sigma factor
+SigA,BSU_26290,sigma factor
+SigA,BSU_28810,sigma factor
+SigA,BSU_16760,sigma factor
+SigA,BSU_05490,sigma factor
+SigA,BSU_22030,sigma factor
+SigA,BSU_28120,sigma factor
+SigA,BSU_01300,sigma factor
+SigA,BSU_30790,sigma factor
+SigA,BSU_16370,sigma factor
+SigA,BSU_31959,sigma factor
+SigA,BSU_30630,sigma factor
+SigA,BSU_18100,sigma factor
+SigA,BSU_09500,sigma factor
+SigA,BSU_27990,sigma factor
+SigA,BSU_29830,sigma factor
+SigA,BSU_35220,sigma factor
+SigA,BSU_26260,sigma factor
+SigA,BSU_29690,sigma factor
+SigA,BSU_02230,sigma factor
+SigA,BSU_24990,sigma factor
+SigA,BSU_31450,sigma factor
+SigA,BSU_03520,sigma factor
+SigA,BSU_37370,sigma factor
+SigA,BSU_19870,sigma factor
+SigA,BSU_34810,sigma factor
+SigA,BSU_28800,sigma factor
+SigA,BSU_35880,sigma factor
+SigA,BSU_15730,sigma factor
+SigA,BSU_16620,sigma factor
+SigA,BSU_33100,sigma factor
+SigA,BSU_28220,sigma factor
+SigA,BSU_39490,sigma factor
+SigA,BSU_37320,sigma factor
+SigA,BSU_26300,sigma factor
+SigA,BSU_01950,sigma factor
+SigA,BSU_30780,sigma factor
+SigA,BSU_00920,sigma factor
+SigA,BSU_13580,sigma factor
+SigA,BSU_34250,sigma factor
+SigA,BSU_05810,sigma factor
+SigA,BSU_15320,sigma factor
+SigA,BSU_12920,sigma factor
+SigA,BSU_30410,sigma factor
+SigA,BSU_25450,sigma factor
+SigA,BSU_35570,sigma factor
+SigA,BSU_31710,sigma factor
+SigA,BSU_01310,sigma factor
+SigA,BSU_02990,sigma factor
+SigA,BSU_14870,sigma factor
+SigA,BSU_18480,sigma factor
+SigA,BSU_01630,sigma factor
+SigA,BSU_15950,sigma factor
+SigA,BSU_35740,sigma factor
+SigA,BSU_34990,sigma factor
+SigA,BSU_23280,sigma factor
+SigA,BSU_00730,sigma factor
+SigA,BSU_30440,sigma factor
+SigA,BSU_30270,sigma factor
+SigA,BSU_17940,sigma factor
+SigA,BSU_19930,sigma factor
+SigA,BSU_28170,sigma factor
+SigA,BSU_01210,sigma factor
+SigA,BSU_29120,sigma factor
+SigA,BSU_00010,sigma factor
+SigA,BSU_22310,sigma factor
+SigA,BSU_03981,sigma factor
+SigA,BSU_31850,sigma factor
+SigA,BSU_23140,sigma factor
+SigA,BSU_25200,sigma factor
+SigA,BSU_01600,sigma factor
+SigA,BSU_29320,sigma factor
+SigA,BSU_32510,sigma factor
+SigA,BSU_10550,sigma factor
+SigA,BSU_39520,sigma factor
+SigA,BSU_02870,sigma factor
+SigA,BSU_15900,sigma factor
+SigA,BSU_06170,sigma factor
+SigA,BSU_17570,sigma factor
+SigA,BSU_33970,sigma factor
+SigA,BSU_40300,sigma factor
+SigA,BSU_01750,sigma factor
+SigA,BSU_01070,sigma factor
+SigA,BSU_01000,sigma factor
+SigA,BSU_01180,sigma factor
+SigA,BSU_09260,sigma factor
+SigA,BSU_06530,sigma factor
+SigA,BSU_39920,sigma factor
+SigA,BSU_31670,sigma factor
+SigA,BSU_11300,sigma factor
+SigA,BSU_16350,sigma factor
+SigA,BSU_36510,sigma factor
+SigA,BSU_39340,sigma factor
+SigA,BSU_17600,sigma factor
+SigA,BSU_09340,sigma factor
+SigA,BSU_39080,sigma factor
+SigA,BSU_39220,sigma factor
+SigA,BSU_14710,sigma factor
+SigA,BSU_40140,sigma factor
+SigA,BSU_35720,sigma factor
+SigA,BSU_09450,sigma factor
+SigA,BSU_06020,sigma factor
+SigA,BSU_30830,sigma factor
+SigA,BSU_03910,sigma factor
+SigA,BSU_13140,sigma factor
+SigA,BSU_09300,sigma factor
+SigA,BSU_14740,sigma factor
+SigA,BSU_13170,sigma factor
+SigA,BSU_15990,sigma factor
+SigA,BSU_15110,sigma factor
+SigA,BSU_15260,sigma factor
+SigA,BSU_31540,sigma factor
+SigA,BSU_24680,sigma factor
+SigA,BSU_32000,sigma factor
+SigA,BSU_10650,sigma factor
+SigA,BSU_02680,sigma factor
+SigA,BSU_10540,sigma factor
+SigA,BSU_38570,sigma factor
+SigA,BSU_00960,sigma factor
+SigA,BSU_25510,sigma factor
+SigA,BSU_26250,sigma factor
+SigA,BSU_13610,sigma factor
+SigA,BSU_13890,sigma factor
+SigA,BSU_08180,sigma factor
+SigA,BSU_12310,sigma factor
+SigA,BSU_15480,sigma factor
+SigA,BSU_16810,sigma factor
+SigA,BSU_35960,sigma factor
+SigA,BSU_24970,sigma factor
+SigA,BSU_12010,sigma factor
+SigA,BSU_22020,sigma factor
+SigA,BSU_28310,sigma factor
+SigA,BSU_03040,sigma factor
+SigA,BSU_30060,sigma factor
+SigA,BSU_01820,sigma factor
+SigA,BSU_11220,sigma factor
+SigA,BSU_21690,sigma factor
+SigA,BSU_35410,sigma factor
+SigA,BSU_06830,sigma factor
+SigA,BSU_35420,sigma factor
+SigA,BSU_28020,sigma factor
+SigA,BSU_36600,sigma factor
+SigA,BSU_35750,sigma factor
+SigA,BSU_25790,sigma factor
+SigA,BSU_15750,sigma factor
+SigA,BSU_34820,sigma factor
+SigA,BSU_04720,sigma factor
+SigA,BSU_22770,sigma factor
+SigA,BSU_16390,sigma factor
+SigA,BSU_05610,sigma factor
+SigA,BSU_35640,sigma factor
+SigA,BSU_16140,sigma factor
+SigA,BSU_37360,sigma factor
+SigA,BSU_22060,sigma factor
+SigA,BSU_01350,sigma factor
+SigA,BSU_30810,sigma factor
+SigA,BSU_31980,sigma factor
+SigA,BSU_31210,sigma factor
+SigA,BSU_35920,sigma factor
+SigA,BSU_06440,sigma factor
+SigA,BSU_02430,sigma factor
+SigA,BSU_04670,sigma factor
+SigA,BSU_27850,sigma factor
+SigA,BSU_24020,sigma factor
+SigA,BSU_00830,sigma factor
+SigA,BSU_12960,sigma factor
+SigA,BSU_16200,sigma factor
+SigA,BSU_27250,sigma factor
+SigA,BSU_15240,sigma factor
+SigA,BSU_28510,sigma factor
+SigA,BSU_36660,sigma factor
+SigA,BSU_36010,sigma factor
+SigA,BSU_16250,sigma factor
+SigA,BSU_40910,sigma factor
+SigA,BSU_37180,sigma factor
+SigA,BSU_01770,sigma factor
+SigA,BSU_06520,sigma factor
+SigA,BSU_03970,sigma factor
+SigA,BSU_41060,sigma factor
+SigA,BSU_24730,sigma factor
+SigA,BSU_35540,sigma factor
+SigA,BSU_04160,sigma factor
+SigA,BSU_06839,sigma factor
+SigA,BSU_37420,sigma factor
+SigA,BSU_35730,sigma factor
+SigA,BSU_26280,sigma factor
+SigA,BSU_36770,sigma factor
+SigA,BSU_28550,sigma factor
+SigA,BSU_34460,sigma factor
+SigA,BSU_03060,sigma factor
+SigA,BSU_18130,sigma factor
+SigA,BSU_00060,sigma factor
+SigA,BSU_29600,sigma factor
+SigA,BSU_16360,sigma factor
+SigA,BSU_34290,sigma factor
+SigA,BSU_31060,sigma factor
+SigA,BSU_14730,sigma factor
+SigA,BSU_25580,sigma factor
+SigA,BSU_24720,sigma factor
+SigA,BSU_34230,sigma factor
+SigA,BSU_34980,sigma factor
+SigA,BSU_22540,sigma factor
+SigA,BSU_03960,sigma factor
+SigA,BSU_39330,sigma factor
+SigA,BSU_17380,sigma factor
+SigA,BSU_02270,sigma factor
+SigA,BSU_40890,sigma factor
+SigA,BSU_19830,sigma factor
+SigA,BSU_15930,sigma factor
+SigA,BSU_01160,sigma factor
+SigA,BSU_03010,sigma factor
+SigA,BSU_00850,sigma factor
+SigA,BSU_34300,sigma factor
+SigA,BSU_33540,sigma factor
+SigA,BSU_06320,sigma factor
+SigA,BSU_39380,sigma factor
+SigA,BSU_08830,sigma factor
+SigA,BSU_12390,sigma factor
+SigA,BSU_27910,sigma factor
+SigA,BSU_37700,sigma factor
+SigA,BSU_32410,sigma factor
+SigA,BSU_35470,sigma factor
+SigA,BSU_35590,sigma factor
+SigA,BSU_13120,sigma factor
+SigA,BSU_19460,sigma factor
+SigA,BSU_15890,sigma factor
+SigA,BSU_03490,sigma factor
+SigA,BSU_40170,sigma factor
+SigA,BSU_25800,sigma factor
+SigA,BSU_15880,sigma factor
+SigA,BSU_15470,sigma factor
+SigA,BSU_03982,sigma factor
+SigA,BSU_28010,sigma factor
+SigA,BSU_35020,sigma factor
+SigA,BSU_19910,sigma factor
+SigA,BSU_35440,sigma factor
+SigA,BSU_28270,sigma factor
+SigA,BSU_34190,sigma factor
+SigA,BSU_09330,sigma factor
+SigA,BSU_17260,sigma factor
+SigA,BSU_16440,sigma factor
+SigA,BSU_31720,sigma factor
+SigA,BSU_16640,sigma factor
+SigA,BSU_16480,sigma factor
+SigA,BSU_02370,sigma factor
+SigA,BSU_05880,sigma factor
+SigA,BSU_34450,sigma factor
+SigA,BSU_36490,sigma factor
+SigA,BSU_32290,sigma factor
+SigA,BSU_25210,sigma factor
+SigA,BSU_40150,sigma factor
+SigA,BSU_39820,sigma factor
+SigA,BSU_14720,sigma factor
+SigA,BSU_11310,sigma factor
+SigA,BSU_25690,sigma factor
+SigA,BSU_00860,sigma factor
+SigA,BSU_38030,sigma factor
+SigA,BSU_16000,sigma factor
+SigA,BSU_35910,sigma factor
+SigA,BSU_16400,sigma factor
+SigA,BSU_23520,sigma factor
+SigA,BSU_35380,sigma factor
+SigA,BSU_01389,sigma factor
+SigA,BSU_34030,sigma factor
+SigA,BSU_05010,sigma factor
+SigA,BSU_28050,sigma factor
+SigA,BSU_31970,sigma factor
+SigA,BSU_39700,sigma factor
+SigA,BSU_16770,sigma factor
+SigA,BSU_00510,sigma factor
+SigA,BSU_39070,sigma factor
+SigA,BSU_03480,sigma factor
+SigA,BSU_19479,sigma factor
+SigA,BSU_17390,sigma factor
+SigA,BSU_34760,sigma factor
+SigA,BSU_19940,sigma factor
+SigA,BSU_02380,sigma factor
+SigA,BSU_39680,sigma factor
+SigA,BSU_34265,sigma factor
+SigA,BSU_00440,sigma factor
+SigA,BSU_31180,sigma factor
+SigA,BSU_16650,sigma factor
+SigA,BSU_10520,sigma factor
+SigA,BSU_00750,sigma factor
+SigA,BSU_15630,sigma factor
+SigA,BSU_18450,sigma factor
+SigA,BSU_28950,sigma factor
+SigA,BSU_12950,sigma factor
+SigA,BSU_23090,sigma factor
+SigA,BSU_25190,sigma factor
+SigA,BSU_15230,sigma factor
+SigA,BSU_18090,sigma factor
+SigA,BSU_33090,sigma factor
+SigA,BSU_35940,sigma factor
+SigA,BSU_31700,sigma factor
+SigA,BSU_07830,sigma factor
+SigA,BSU_09410,sigma factor
+SigA,BSU_03320,sigma factor
+SigA,BSU_33020,sigma factor
+SigA,BSU_01420,sigma factor
+SigA,BSU_24700,sigma factor
+SigA,BSU_36780,sigma factor
+SigA,BSU_08100,sigma factor
+SigA,BSU_37710,sigma factor
+SigA,BSU_07700,sigma factor
+SigA,BSU_13640,sigma factor
+SigA,BSU_35630,sigma factor
+SigA,BSU_16420,sigma factor
+SigA,BSU_13320,sigma factor
+SigA,BSU_28740,sigma factor
+SigA,BSU_23310,sigma factor
+SigA,BSU_13850,sigma factor
+SigA,BSU_36260,sigma factor
+SigA,BSU_29840,sigma factor
+SigA,BSU_22960,sigma factor
+SigA,BSU_34330,sigma factor
+SigA,BSU_01980,sigma factor
+SigA,BSU_34040,sigma factor
+SigA,BSU_05470,sigma factor
+SigA,BSU_02140,sigma factor
+SigA,BSU_31860,sigma factor
+SigA,BSU_06470,sigma factor
+SigA,BSU_38050,sigma factor
+SigA,BSU_19360,sigma factor
+SigA,BSU_34770,sigma factor
+SigA,BSU_06430,sigma factor
+SigA,BSU_34310,sigma factor
+SigA,BSU_08850,sigma factor
+SigA,BSU_29340,sigma factor
+SigA,BSU_29020,sigma factor
+SigA,BSU_33790,sigma factor
+SigA,BSU_04710,sigma factor
+SigA,BSU_34340,sigma factor
+SigA,BSU_38110,sigma factor
+SigA,BSU_12430,sigma factor
+SigA,BSU_05850,sigma factor
+SigA,BSU_14629,sigma factor
+SigA,BSU_03200,sigma factor
+SigA,BSU_15580,sigma factor
+SigA,BSU_38410,sigma factor
+SigA,BSU_31900,sigma factor
+SigA,BSU_10300,sigma factor
+SigA,BSU_15500,sigma factor
+SigA,BSU_39350,sigma factor
+SigA,BSU_37380,sigma factor
+SigA,BSU_21670,sigma factor
+SigA,BSU_34150,sigma factor
+SigA,BSU_39710,sigma factor
+SigA,BSU_02350,sigma factor
+SigA,BSU_37290,sigma factor
+SigA,BSU_07690,sigma factor
+SigA,BSU_10770,sigma factor
+SigA,BSU_15290,sigma factor
+SigA,BSU_29280,sigma factor
+SigA,BSU_07810,sigma factor
+SigA,BSU_24220,sigma factor
+SigA,BSU_22019,sigma factor
+SigA,BSU_12380,sigma factor
+SigA,BSU_21660,sigma factor
+SigA,BSU_05020,sigma factor
+SigA,BSU_33900,sigma factor
+SigA,BSU_34220,sigma factor
+SigA,BSU_13700,sigma factor
+SigA,BSU_28450,sigma factor
+SigA,BSU_36760,sigma factor
+SigA,BSU_37050,sigma factor
+SigA,BSU_31680,sigma factor
+SigA,BSU_04760,sigma factor
+SigA,BSU_07880,sigma factor
+SigA,BSU_06500,sigma factor
+SigA,BSU_29820,sigma factor
+SigA,BSU_28770,sigma factor
+SigA,BSU_01290,sigma factor
+SigA,BSU_02690,sigma factor
+SigA,BSU_18010,sigma factor
+SigA,BSU_22560,sigma factor
+SigA,BSU_32460,sigma factor
+SigA,BSU_10420,sigma factor
+SigA,BSU_13540,sigma factor
+SigA,BSU_34540,sigma factor
+SigA,BSU_11330,sigma factor
+SigA,BSU_28040,sigma factor
+SigA,BSU_40190,sigma factor
+SigA,BSU_00030,sigma factor
+SigA,BSU_33510,sigma factor
+SigA,BSU_07620,sigma factor
+SigA,BSU_25220,sigma factor
+SigA,BSU_00870,sigma factor
+SigA,BSU_28500,sigma factor
+SigA,BSU_40100,sigma factor
+SigA,BSU_00790,sigma factor
+SigA,BSU_02420,sigma factor
+SigA,BSU_11210,sigma factor
+SigA,BSU_38280,sigma factor
+SigA,BSU_02530,sigma factor
+SigA,BSU_26590,sigma factor
+SigA,BSU_28630,sigma factor
+SigA,BSU_24180,sigma factor
+SigA,BSU_22320,sigma factor
+SigA,BSU_39510,sigma factor
+SigA,BSU_01810,sigma factor
+SigA,BSU_00940,sigma factor
+SigA,BSU_37390,sigma factor
+SigA,BSU_13590,sigma factor
+SigA,BSU_03500,sigma factor
+SigA,BSU_37350,sigma factor
+SigA,BSU_19920,sigma factor
+SigA,BSU_03670,sigma factor
+SigA,BSU_31550,sigma factor
+SigA,BSU_38560,sigma factor
+SigA,BSU_40070,sigma factor
+SigA,BSU_30450,sigma factor
+SigA,BSU_29720,sigma factor
+SigA,BSU_31050,sigma factor
+SigA,BSU_36410,sigma factor
+SigA,BSU_34370,sigma factor
+SigA,BSU_03940,sigma factor
+SigA,BSU_31690,sigma factor
+SigA,BSU_30430,sigma factor
+SigA,BSU_26670,sigma factor
+SigA,BSU_15550,sigma factor
+SigA,BSU_13040,sigma factor
+SigA,BSU_32690,sigma factor
+SigA,BSU_09290,sigma factor
+SigA,BSU_15570,sigma factor
+SigA,BSU_34180,sigma factor
+SigA,BSU_17950,sigma factor
+SigA,BSU_36110,sigma factor
+SigA,BSU_28200,sigma factor
+SigA,BSU_09990,sigma factor
+SigA,BSU_15270,sigma factor
+SigA,BSU_13530,sigma factor
+SigA,BSU_17450,sigma factor
+SigA,BSU_25300,sigma factor
+SigA,BSU_40030,sigma factor
+SigA,BSU_26270,sigma factor
+SigA,BSU_36650,sigma factor
+SigA,BSU_35700,sigma factor
+SigA,BSU_27270,sigma factor
+SigA,BSU_10620,sigma factor
+SigA,BSU_37500,sigma factor
+SigA,BSU_02850,sigma factor
+SigA,BSU_25230,sigma factor
+SigA,BSU_00020,sigma factor
+SigA,BSU_15600,sigma factor
+SigA,BSU_30560,sigma factor
+SigA,BSU_14540,sigma factor
+SigA,BSU_32300,sigma factor
+SigA,BSU_14610,sigma factor
+SigA,BSU_28710,sigma factor
+SigA,BSU_16590,sigma factor
+SigA,BSU_26259,sigma factor
+SigA,BSU_31910,sigma factor
+SigA,BSU_29010,sigma factor
+SigA,BSU_19560,sigma factor
+SigA,BSU_36480,sigma factor
+SigA,BSU_39420,sigma factor
+SigA,BSU_02290,sigma factor
+SigA,BSU_34280,sigma factor
+SigA,BSU_23100,sigma factor
+SigA,BSU_07900,sigma factor
+SigA,BSU_32520,sigma factor
+SigA,BSU_11880,sigma factor
+SigA,BSU_24610,sigma factor
+SigA,BSU_35430,sigma factor
+SigA,BSU_07400,sigma factor
+SigA,BSU_22070,sigma factor
+SigA,BSU_29740,sigma factor
+SigA,BSU_11230,sigma factor
+SigA,BSU_17400,sigma factor
+SigA,BSU_36240,sigma factor
+SigA,BSU_01380,sigma factor
+SigA,BSU_32470,sigma factor
+SigA,BSU_30800,sigma factor
+SigA,BSU_14510,sigma factor
+SigA,BSU_23560,sigma factor
+SigA,BSU_01370,sigma factor
+SigA,BSU_35370,sigma factor
+SigA,BSU_08730,sigma factor
+SigA,BSU_16630,sigma factor
+SigA,BSU_00520,sigma factor
+SigA,BSU_41040,sigma factor
+SigA,BSU_27920,sigma factor
+SigA,BSU_17930,sigma factor
+SigA,BSU_23570,sigma factor
+SigA,BSU_29610,sigma factor
+SigA,BSU_12300,sigma factor
+SigA,BSU_31200,sigma factor
+SigA,BSU_05480,sigma factor
+SigA,BSU_15220,sigma factor
+SigA,BSU_06490,sigma factor
+SigA,BSU_02360,sigma factor
+SigA,BSU_14160,sigma factor
+SigA,BSU_16020,sigma factor
+SigA,BSU_33910,sigma factor
+SigA,BSU_32680,sigma factor
+SigA,BSU_36300,sigma factor
+SigA,BSU_33710,sigma factor
+SigA,BSU_24200,sigma factor
+SigA,BSU_22140,sigma factor
+SigA,BSU_08230,sigma factor
+SigA,BSU_39670,sigma factor
+SigA,BSU_40420,sigma factor
+SigA,BSU_23800,sigma factor
+SigA,BSU_33920,sigma factor
+SigA,BSU_28790,sigma factor
+SigA,BSU_34700,sigma factor
+SigA,BSU_29310,sigma factor
+SigA,BSU_27510,sigma factor
+SigA,BSU_13550,sigma factor
+SigA,BSU_19850,sigma factor
+SigA,BSU_38590,sigma factor
+SigA,BSU_25570,sigma factor
+SigA,BSU_02130,sigma factor
+SigA,BSU_32820,sigma factor
+SigA,BSU_36520,sigma factor
+SigA,BSU_31500,sigma factor
+SigA,BSU_16170,sigma factor
+SigA,BSU_25460,sigma factor
+SigA,BSU_36120,sigma factor
+SigA,BSU_01910,sigma factor
+SigA,BSU_03890,sigma factor
+SigA,BSU_35560,sigma factor
+SigA,BSU_03230,sigma factor
+SigA,BSU_07670,sigma factor
+SigA,BSU_13150,sigma factor
+SigA,BSU_39370,sigma factor
+SigA,BSU_02980,sigma factor
+SigA,BSU_37040,sigma factor
+SigA,BSU_11250,sigma factor
+SigA,BSU_18470,sigma factor
+SigA,BSU_24660,sigma factor
+SigA,BSU_03050,sigma factor
+SigA,BSU_40040,sigma factor
+SigA,BSU_22120,sigma factor
+SigA,BSU_16190,sigma factor
+SigA,BSU_09420,sigma factor
+SigA,BSU_25840,sigma factor
+SigA,BSU_00640,sigma factor
+SigA,BSU_31840,sigma factor
+SigA,BSU_06360,sigma factor
+SigA,BSU_39480,sigma factor
+SigA,BSU_00930,sigma factor
+SigA,BSU_00040,sigma factor
+SigA,BSU_29700,sigma factor
+SigA,BSU_36500,sigma factor
+SigA,BSU_29330,sigma factor
+SigA,BSU_31560,sigma factor
+SigA,BSU_10640,sigma factor
+SigA,BSU_40090,sigma factor
+SigA,BSU_16030,sigma factor
+SigA,BSU_00880,sigma factor
+SigA,BSU_03770,sigma factor
+SigA,BSU_25289,sigma factor
+SigA,BSU_02860,sigma factor
+SigA,BSU_11240,sigma factor
+SigA,BSU_21680,sigma factor
+SigA,BSU_08240,sigma factor
+SigA,BSU_13910,sigma factor
+SigA,BSU_37160,sigma factor
+SigA,BSU_31990,sigma factor
+SigA,BSU_30280,sigma factor
+SigA,BSU_35610,sigma factor
+SigA,BSU_27280,sigma factor
+SigA,BSU_00980,sigma factor
+SigA,BSU_24980,sigma factor
+SigA,BSU_37660,sigma factor
+SigA,BSU_24690,sigma factor
+SigA,BSU_28150,sigma factor
+SigA,BSU_15310,sigma factor
+SigA,BSU_35930,sigma factor
+SigA,BSU_28530,sigma factor
+SigA,BSU_28250,sigma factor
+SigA,BSU_00740,sigma factor
+SigA,BSU_16610,sigma factor
+SigA,BSU_09430,sigma factor
+SigA,BSU_04700,sigma factor
+SigA,BSU_01340,sigma factor
+SigA,BSU_23240,sigma factor
+SigA,BSU_38290,sigma factor
+SigA,BSU_06480,sigma factor
+SigA,BSU_01240,sigma factor
+SigA,BSU_11520,sigma factor
+SigA,BSU_39390,sigma factor
+SigA,BSU_01230,sigma factor
+SigA,BSU_37170,sigma factor
+SigA,BSU_19210,sigma factor
+SigA,BSU_39770,sigma factor
+SigA,BSU_35550,sigma factor
+SigA,BSU_01400,sigma factor
+SigA,BSU_38130,sigma factor
+SigA,BSU_15250,sigma factor
+SigA,BSU_35450,sigma factor
+SigA,BSU_26340,sigma factor
+SigA,BSU_27900,sigma factor
+SigA,BSU_37550,sigma factor
+SigA,BSU_30300,sigma factor
+SigA,BSU_39760,sigma factor
+SigA,BSU_25810,sigma factor
+SigA,BSU_00820,sigma factor
+SigA,BSU_29110,sigma factor
+SigA,BSU_01760,sigma factor
+SigA,BSU_32450,sigma factor
+SigA,BSU_01280,sigma factor
+SigA,BSU_22460,sigma factor
+SigA,BSU_28070,sigma factor
+SigA,BSU_32310,sigma factor
+SigA,BSU_00400,sigma factor
+SigA,BSU_16940,sigma factor
+SigA,BSU_15510,sigma factor
+SigA,BSU_28190,sigma factor
+SigA,BSU_01170,sigma factor
+SigA,BSU_39400,sigma factor
+SigA,BSU_38040,sigma factor
+SigA,BSU_35030,sigma factor
+SigA,BSU_28080,sigma factor
+SigA,BSU_35790,sigma factor
+SigA,BSU_27260,sigma factor
+SigA,BSU_16750,sigma factor
+SigA,BSU_29370,sigma factor
+SigA,BSU_30420,sigma factor
+SigA,BSU_28300,sigma factor
+SigA,BSU_29140,sigma factor
+SigA,BSU_24960,sigma factor
+SigA,BSU_13190,sigma factor
+SigA,BSU_32710,sigma factor
+SigA,BSU_25780,sigma factor
+SigA,BSU_35500,sigma factor
+SigA,BSU_32530,sigma factor
+SigA,BSU_16130,sigma factor
+SigA,BSU_02260,sigma factor
+SigA,BSU_37720,sigma factor
+SigA,BSU_00180,sigma factor
+SigA,BSU_38270,sigma factor
+SigA,BSU_24010,sigma factor
+SigA,BSU_31960,sigma factor
+SigA,BSU_40160,sigma factor
+SigA,BSU_22100,sigma factor
+SigA,BSU_35760,sigma factor
+SigA,BSU_35609,sigma factor
+SigA,BSU_07610,sigma factor
+SigA,BSU_34140,sigma factor
+SigA,BSU_00050,sigma factor
+SigA,BSU_35620,sigma factor
+SigA,BSU_06310,sigma factor
+SigA,BSU_22500,sigma factor
+SigA,BSU_05860,sigma factor
+SigA,BSU_04250,sigma factor
+SigA,BSU_35890,sigma factor
+SigA,BSU_01220,sigma factor
+SigA,BSU_29470,sigma factor
+SigA,BSU_33780,sigma factor
+SigA,BSU_22110,sigma factor
+SigA,BSU_06460,sigma factor
+SigA,BSU_31930,sigma factor
+SigA,BSU_10660,sigma factor
+SigA,BSU_11190,sigma factor
+SigA,BSU_09100,sigma factor
+SigA,BSU_03310,sigma factor
+SigA,BSU_07890,sigma factor
+SigA,BSU_39750,sigma factor
+SigA,BSU_13620,sigma factor
+SigA,BSU_13360,sigma factor
+SigA,BSU_16220,sigma factor
+SigA,BSU_13570,sigma factor
+SigA,BSU_32440,sigma factor
+SigA,BSU_01260,sigma factor
+SigA,BSU_40060,sigma factor
+SigA,BSU_04730,sigma factor
+SigA,BSU_05730,sigma factor
+SigA,BSU_34050,sigma factor
+SigA,BSU_22450,sigma factor
+SigA,BSU_38420,sigma factor
+SigA,BSU_32830,sigma factor
+SigA,BSU_15520,sigma factor
+SigA,BSU_36000,sigma factor
+SigA,BSU_04770,sigma factor
+SigA,BSU_23360,sigma factor
+SigA,BSU_34690,sigma factor
+SigA,BSU_25440,sigma factor
+SigA,BSU_33490,sigma factor
+SigA,BSU_14860,sigma factor
+SigA,BSU_23550,sigma factor
+SigA,BSU_15980,sigma factor
+SigA,BSU_35390,sigma factor
+SigA,BSU_12940,sigma factor
+SigA,BSU_13460,sigma factor
+SigA,BSU_29300,sigma factor
+SigA,BSU_28160,sigma factor
+SigA,BSU_25470,sigma factor
+SigA,BSU_07800,sigma factor
+SigA,BSU_34960,sigma factor
+SigA,BSU_25490,sigma factor
+SigA,BSU_35870,sigma factor
+SigA,BSU_23500,sigma factor
+SigA,BSU_03000,sigma factor
+SigA,BSU_26330,sigma factor
+SigA,BSU_22230,sigma factor
+SigA,BSU_32550,sigma factor
+YfmP,BSU_07400,repression
+YfmP,BSU_07390,repression
+GlpP,BSU_09300,antitermination
+GlpP,BSU_09290,antitermination
+GlpP,BSU_02140,antitermination
+GlpP,BSU_02130,antitermination
+GlpP,BSU_09280,antitermination
+LnrK,BSU_08310,activation
+LnrK,BSU_08330,activation
+LnrK,BSU_08320,activation
+SigE,BSU_27450,sigma factor
+SigE,BSU_36040,sigma factor
+SigE,BSU_15270,sigma factor
+SigE,BSU_08980,sigma factor
+SigE,BSU_38970,sigma factor
+SigE,BSU_32890,sigma factor
+SigE,BSU_17420,sigma factor
+SigE,BSU_29110,sigma factor
+SigE,BSU_04610,sigma factor
+SigE,BSU_06290,sigma factor
+SigE,BSU_40630,sigma factor
+SigE,BSU_15360,sigma factor
+SigE,BSU_19710,sigma factor
+SigE,BSU_14250,sigma factor
+SigE,BSU_30940,sigma factor
+SigE,BSU_36430,sigma factor
+SigE,BSU_15220,sigma factor
+SigE,BSU_38230,sigma factor
+SigE,BSU_37890,sigma factor
+SigE,BSU_29240,sigma factor
+SigE,BSU_26390,sigma factor
+SigE,BSU_00580,sigma factor
+SigE,BSU_37830,sigma factor
+SigE,BSU_00230,sigma factor
+SigE,BSU_30960,sigma factor
+SigE,BSU_18210,sigma factor
+SigE,BSU_15200,sigma factor
+SigE,BSU_07270,sigma factor
+SigE,BSU_29060,sigma factor
+SigE,BSU_04630,sigma factor
+SigE,BSU_15180,sigma factor
+SigE,BSU_24430,sigma factor
+SigE,BSU_00630,sigma factor
+SigE,BSU_05740,sigma factor
+SigE,BSU_33480,sigma factor
+SigE,BSU_37920,sigma factor
+SigE,BSU_08930,sigma factor
+SigE,BSU_09770,sigma factor
+SigE,BSU_25060,sigma factor
+SigE,BSU_27300,sigma factor
+SigE,BSU_19890,sigma factor
+SigE,BSU_24390,sigma factor
+SigE,BSU_10950,sigma factor
+SigE,BSU_06280,sigma factor
+SigE,BSU_27690,sigma factor
+SigE,BSU_06270,sigma factor
+SigE,BSU_08920,sigma factor
+SigE,BSU_35240,sigma factor
+SigE,BSU_39060,sigma factor
+SigE,BSU_25750,sigma factor
+SigE,BSU_01520,sigma factor
+SigE,BSU_37840,sigma factor
+SigE,BSU_15250,sigma factor
+SigE,BSU_17640,sigma factor
+SigE,BSU_37870,sigma factor
+SigE,BSU_29080,sigma factor
+SigE,BSU_36420,sigma factor
+SigE,BSU_12110,sigma factor
+SigE,BSU_28100,sigma factor
+SigE,BSU_12050,sigma factor
+SigE,BSU_10600,sigma factor
+SigE,BSU_22240,sigma factor
+SigE,BSU_10400,sigma factor
+SigE,BSU_19700,sigma factor
+SigE,BSU_29239,sigma factor
+SigE,BSU_30080,sigma factor
+SigE,BSU_24120,sigma factor
+SigE,BSU_07280,sigma factor
+SigE,BSU_06890,sigma factor
+SigE,BSU_25360,sigma factor
+SigE,BSU_19880,sigma factor
+SigE,BSU_37810,sigma factor
+SigE,BSU_37900,sigma factor
+SigE,BSU_37880,sigma factor
+SigE,BSU_27830,sigma factor
+SigE,BSU_37820,sigma factor
+SigE,BSU_38980,sigma factor
+SigE,BSU_25770,sigma factor
+SigE,BSU_12330,sigma factor
+SigE,BSU_18220,sigma factor
+SigE,BSU_19720,sigma factor
+SigE,BSU_24440,sigma factor
+SigE,BSU_11760,sigma factor
+SigE,BSU_06900,sigma factor
+SigE,BSU_29090,sigma factor
+SigE,BSU_09780,sigma factor
+SigE,BSU_28110,sigma factor
+SigE,BSU_18260,sigma factor
+SigE,BSU_19110,sigma factor
+SigE,BSU_15090,sigma factor
+SigE,BSU_36060,sigma factor
+SigE,BSU_15170,sigma factor
+SigE,BSU_37860,sigma factor
+SigE,BSU_03390,sigma factor
+SigE,BSU_36070,sigma factor
+SigE,BSU_27970,sigma factor
+SigE,BSU_00610,sigma factor
+SigE,BSU_24410,sigma factor
+SigE,BSU_33470,sigma factor
+SigE,BSU_10610,sigma factor
+SigE,BSU_19320,sigma factor
+SigE,BSU_24160,sigma factor
+SigE,BSU_27980,sigma factor
+SigE,BSU_11750,sigma factor
+SigE,BSU_19970,sigma factor
+SigE,BSU_25350,sigma factor
+SigE,BSU_15030,sigma factor
+SigE,BSU_12370,sigma factor
+SigE,BSU_12320,sigma factor
+SigE,BSU_18780,sigma factor
+SigE,BSU_30970,sigma factor
+SigE,BSU_07300,sigma factor
+SigE,BSU_12360,sigma factor
+SigE,BSU_28960,sigma factor
+SigE,BSU_10790,sigma factor
+SigE,BSU_16720,sigma factor
+SigE,BSU_19820,sigma factor
+SigE,BSU_15810,sigma factor
+SigE,BSU_09830,sigma factor
+SigE,BSU_37910,sigma factor
+SigE,BSU_15210,sigma factor
+SigE,BSU_09165,sigma factor
+SigE,BSU_05710,sigma factor
+SigE,BSU_19740,sigma factor
+SigE,BSU_02600,sigma factor
+SigE,BSU_23180,sigma factor
+SigE,BSU_32350,sigma factor
+SigE,BSU_24380,sigma factor
+SigE,BSU_14870,sigma factor
+SigE,BSU_18230,sigma factor
+SigE,BSU_29100,sigma factor
+SigE,BSU_17030,sigma factor
+SigE,BSU_08640,sigma factor
+SigE,BSU_19689,sigma factor
+SigE,BSU_19860,sigma factor
+SigE,BSU_25530,sigma factor
+SigE,BSU_31730,sigma factor
+SigE,BSU_11300,sigma factor
+SigE,BSU_19870,sigma factor
+SigE,BSU_03100,sigma factor
+SigE,BSU_11730,sigma factor
+SigE,BSU_15260,sigma factor
+SigE,BSU_01570,sigma factor
+SigE,BSU_38240,sigma factor
+SigE,BSU_17720,sigma factor
+SigE,BSU_19930,sigma factor
+SigE,BSU_23170,sigma factor
+SigE,BSU_18240,sigma factor
+SigE,BSU_11780,sigma factor
+SigE,BSU_15240,sigma factor
+SigE,BSU_00590,sigma factor
+SigE,BSU_19680,sigma factor
+SigE,BSU_11740,sigma factor
+SigE,BSU_06910,sigma factor
+SigE,BSU_00570,sigma factor
+SigE,BSU_27430,sigma factor
+SigE,BSU_28320,sigma factor
+SigE,BSU_10940,sigma factor
+SigE,BSU_07290,sigma factor
+SigE,BSU_09940,sigma factor
+SigE,BSU_13830,sigma factor
+SigE,BSU_25760,sigma factor
+SigE,BSU_12390,sigma factor
+SigE,BSU_18239,sigma factor
+SigE,BSU_22250,sigma factor
+SigE,BSU_12090,sigma factor
+SigE,BSU_10900,sigma factor
+SigE,BSU_27670,sigma factor
+SigE,BSU_11310,sigma factor
+SigE,BSU_06920,sigma factor
+SigE,BSU_28380,sigma factor
+SigE,BSU_36410,sigma factor
+SigE,BSU_27840,sigma factor
+SigE,BSU_24420,sigma factor
+SigE,BSU_19830,sigma factor
+SigE,BSU_15230,sigma factor
+SigE,BSU_13840,sigma factor
+SigE,BSU_31280,sigma factor
+SigE,BSU_19910,sigma factor
+SigE,BSU_25520,sigma factor
+SigE,BSU_00160,sigma factor
+SigE,BSU_31279,sigma factor
+SigE,BSU_37850,sigma factor
+SigE,BSU_11290,sigma factor
+SigE,BSU_19940,sigma factor
+SigE,BSU_23620,sigma factor
+SigE,BSU_00620,sigma factor
+SigE,BSU_23530,sigma factor
+SigE,BSU_24400,sigma factor
+SigE,BSU_23190,sigma factor
+SigE,BSU_27440,sigma factor
+SigE,BSU_29160,sigma factor
+SigE,BSU_38990,sigma factor
+SigE,BSU_12380,sigma factor
+SigE,BSU_13710,sigma factor
+SigE,BSU_19250,sigma factor
+SigE,BSU_36050,sigma factor
+SigE,BSU_24150,sigma factor
+SigE,BSU_23616,sigma factor
+SigE,BSU_31270,sigma factor
+SigE,BSU_19690,sigma factor
+SigE,BSU_39590,sigma factor
+SigE,BSU_09400,sigma factor
+SigE,BSU_22800,sigma factor
+SigE,BSU_27460,sigma factor
+SigE,BSU_22520,sigma factor
+SigE,BSU_32900,sigma factor
+SigE,BSU_17740,sigma factor
+SigE,BSU_25070,sigma factor
+SigE,BSU_08970,sigma factor
+SigE,BSU_12350,sigma factor
+SigE,BSU_36750,sigma factor
+SigE,BSU_32910,sigma factor
+SigE,BSU_19920,sigma factor
+SigE,BSU_01530,sigma factor
+SigE,BSU_24370,sigma factor
+SigE,BSU_19730,sigma factor
+SigE,BSU_39000,sigma factor
+SigE,BSU_19330,sigma factor
+SigE,BSU_00600,sigma factor
+SigE,BSU_11790,sigma factor
+SigE,BSU_05730,sigma factor
+SigE,BSU_24130,sigma factor
+SigE,BSU_27310,sigma factor
+SigE,BSU_07310,sigma factor
+SigE,BSU_30950,sigma factor
+SigE,BSU_24360,sigma factor
+SigE,BSU_12340,sigma factor
+SigE,BSU_06930,sigma factor
+SigE,BSU_30980,sigma factor
+SigE,BSU_15190,sigma factor
+SigE,BSU_19850,sigma factor
+SigE,BSU_18250,sigma factor
+SigE,BSU_11770,sigma factor
+SigE,BSU_17970,sigma factor
+SigE,BSU_24140,sigma factor
+SigE,BSU_29070,sigma factor
+SigE,BSU_24170,sigma factor
+SigE,BSU_40940,sigma factor
+SigW,BSU_00260,sigma factor
+SigW,BSU_18590,sigma factor
+SigW,BSU_35120,sigma factor
+SigW,BSU_02310,sigma factor
+SigW,BSU_02900,sigma factor
+SigW,BSU_27180,sigma factor
+SigW,BSU_36090,sigma factor
+SigW,BSU_00250,sigma factor
+SigW,BSU_38270,sigma factor
+SigW,BSU_02910,sigma factor
+SigW,BSU_08590,sigma factor
+SigW,BSU_06280,sigma factor
+SigW,BSU_06270,sigma factor
+SigW,BSU_29520,sigma factor
+SigW,BSU_00580,sigma factor
+SigW,BSU_38940,sigma factor
+SigW,BSU_25390,sigma factor
+SigW,BSU_04590,sigma factor
+SigW,BSU_31010,sigma factor
+SigW,BSU_00630,sigma factor
+SigW,BSU_14340,sigma factor
+SigW,BSU_31020,sigma factor
+SigW,BSU_38480,sigma factor
+SigW,BSU_23830,sigma factor
+SigW,BSU_30000,sigma factor
+SigW,BSU_11500,sigma factor
+SigW,BSU_06200,sigma factor
+SigW,BSU_27160,sigma factor
+SigW,BSU_04600,sigma factor
+SigW,BSU_01730,sigma factor
+SigW,BSU_11340,sigma factor
+SigW,BSU_00610,sigma factor
+SigW,BSU_19290,sigma factor
+SigW,BSU_35130,sigma factor
+SigW,BSU_25380,sigma factor
+SigW,BSU_14360,sigma factor
+SigW,BSU_28830,sigma factor
+SigW,BSU_18580,sigma factor
+SigW,BSU_30010,sigma factor
+SigW,BSU_38260,sigma factor
+SigW,BSU_36540,sigma factor
+SigW,BSU_27170,sigma factor
+SigW,BSU_08580,sigma factor
+SigW,BSU_02920,sigma factor
+SigW,BSU_02890,sigma factor
+SigW,BSU_00270,sigma factor
+SigW,BSU_02320,sigma factor
+SigW,BSU_17840,sigma factor
+SigW,BSU_02930,sigma factor
+SigW,BSU_29530,sigma factor
+SigW,BSU_06190,sigma factor
+SigW,BSU_00590,sigma factor
+SigW,BSU_00570,sigma factor
+SigW,BSU_34430,sigma factor
+SigW,BSU_06180,sigma factor
+SigW,BSU_34440,sigma factor
+SigW,BSU_11330,sigma factor
+SigW,BSU_11490,sigma factor
+SigW,BSU_31000,sigma factor
+SigW,BSU_00620,sigma factor
+SigW,BSU_12420,sigma factor
+SigW,BSU_25370,sigma factor
+SigW,BSU_38280,sigma factor
+SigW,BSU_02940,sigma factor
+SigW,BSU_38790,sigma factor
+SigW,BSU_14350,sigma factor
+SigW,BSU_14370,sigma factor
+SigW,BSU_06210,sigma factor
+SigW,BSU_35110,sigma factor
+SigW,BSU_02330,sigma factor
+SigW,BSU_00600,sigma factor
+SigW,BSU_38250,sigma factor
+SigW,BSU_36530,sigma factor
+SigW,BSU_18980,sigma factor
+SigW,BSU_01740,sigma factor
+SigW,BSU_06290,sigma factor
+SigW,BSU_08570,sigma factor
+SigW,BSU_08760,sigma factor
+SigW,BSU_35100,sigma factor
+FatR,BSU_27170,repression
+FatR,BSU_27160,repression
+SigI,BSU_14160,sigma factor
+SigI,BSU_31960,sigma factor
+SigI,BSU_13450,sigma factor
+SigI,BSU_14460,sigma factor
+SigI,BSU_14470,sigma factor
+SigI,BSU_14150,sigma factor
+SigI,BSU_31959,sigma factor
+SigI,BSU_14170,sigma factor
+SigI,BSU_04400,sigma factor
+SigI,BSU_11720,sigma factor
+SigI,BSU_31980,sigma factor
+SigI,BSU_32000,sigma factor
+SigI,BSU_31970,sigma factor
+SigI,BSU_13460,sigma factor
+SigI,BSU_36530,sigma factor
+SigI,BSU_09420,sigma factor
+SigI,BSU_31990,sigma factor
+FrlR,BSU_32600,repression
+FrlR,BSU_32580,repression
+FrlR,BSU_32590,repression
+FrlR,BSU_32550,repression
+FrlR,BSU_32610,repression
+FrlR,BSU_32570,repression
+Xpf,BSU_12590,sigma factor
+Xpf,BSU_12730,sigma factor
+Xpf,BSU_12710,sigma factor
+Xpf,BSU_12570,sigma factor
+Xpf,BSU_12740,sigma factor
+Xpf,BSU_12750,sigma factor
+Xpf,BSU_12630,sigma factor
+Xpf,BSU_12720,sigma factor
+Xpf,BSU_12800,sigma factor
+Xpf,BSU_12680,sigma factor
+Xpf,BSU_12749,sigma factor
+Xpf,BSU_12650,sigma factor
+Xpf,BSU_12700,sigma factor
+Xpf,BSU_12620,sigma factor
+Xpf,BSU_12672,sigma factor
+Xpf,BSU_12640,sigma factor
+Xpf,BSU_12660,sigma factor
+Xpf,BSU_12580,sigma factor
+Xpf,BSU_12770,sigma factor
+Xpf,BSU_12790,sigma factor
+Xpf,BSU_12780,sigma factor
+Xpf,BSU_12760,sigma factor
+Xpf,BSU_12810,sigma factor
+Xpf,BSU_12600,sigma factor
+Xpf,BSU_12690,sigma factor
+Xpf,BSU_12610,sigma factor
+Xpf,BSU_12671,sigma factor
+QdoR,BSU_39990,repression
+QdoR,BSU_39980,repression
+QdoR,BSU_39970,repression
+TilS,BSU_00680,activation
+TilS,BSU_00670,activation
+TilS,BSU_00690,activation
+LiaR,BSU_33120,activation
+LiaR,BSU_33080,activation
+LiaR,BSU_09320,activation
+LiaR,BSU_05720,activation
+LiaR,BSU_33110,activation
+LiaR,BSU_33100,activation
+LiaR,BSU_09340,activation
+LiaR,BSU_09330,activation
+LiaR,BSU_33090,activation
+LiaR,BSU_33130,activation
+BkdR,BSU_24030,activation
+BkdR,BSU_24080,activation
+BkdR,BSU_24050,activation
+BkdR,BSU_24040,activation
+BkdR,BSU_24090,activation
+BkdR,BSU_24060,activation
+BkdR,BSU_24070,activation
+GlnL,BSU_02430,activation
+GlnL,BSU_02420,activation
+BltR,BSU_26600,activation
+BltR,BSU_26590,activation
+CymR,BSU_39470,repression
+CymR,BSU_29290,repression
+CymR,BSU_29400,repression
+CymR,BSU_15590,repression
+CymR,BSU_15620,repression
+CymR,BSU_39500,repression
+CymR,BSU_08840,repression
+CymR,BSU_08870,repression
+CymR,BSU_39460,repression
+CymR,BSU_15610,repression
+CymR,BSU_00730,repression
+CymR,BSU_29320,repression
+CymR,BSU_39490,repression
+CymR,BSU_29340,repression
+CymR,BSU_07200,repression
+CymR,BSU_39520,repression
+CymR,BSU_09130,repression
+CymR,BSU_27250,repression
+CymR,BSU_07190,repression
+CymR,BSU_15630,repression
+CymR,BSU_08830,repression
+CymR,BSU_15580,repression
+CymR,BSU_29280,repression
+CymR,BSU_08850,repression
+CymR,BSU_15570,repression
+CymR,BSU_15600,repression
+CymR,BSU_39510,repression
+CymR,BSU_27270,repression
+CymR,BSU_29310,repression
+CymR,BSU_29330,repression
+CymR,BSU_27280,repression
+CymR,BSU_29380,repression
+CymR,BSU_39480,repression
+CymR,BSU_27260,repression
+CymR,BSU_29370,repression
+CymR,BSU_29300,repression
+CymR,BSU_29390,repression
+CymR,BSU_29360,repression
+CymR,BSU_29350,repression
+CymR,BSU_08860,repression
+CymR,BSU_27240,repression
+CymR,BSU_04520,repression
+NadR,BSU_27890,repression
+NadR,BSU_27870,repression
+NadR,BSU_27880,repression
+NadR,BSU_27850,repression
+NadR,BSU_02950,repression
+NadR,BSU_27860,repression
+PucR,BSU_32430,activation
+PucR,BSU_32440,auto-repression
+PucR,BSU_36640,activation
+PucR,BSU_32500,activation
+PucR,BSU_32490,activation
+PucR,BSU_32430,auto-repression
+PucR,BSU_36470,activation
+PucR,BSU_36660,activation
+PucR,BSU_32480,activation
+PucR,BSU_13170,activation
+PucR,BSU_32410,activation
+PucR,BSU_32510,activation
+PucR,BSU_32460,activation
+PucR,BSU_36650,activation
+PucR,BSU_32520,activation
+PucR,BSU_32460,auto-repression
+PucR,BSU_32420,auto-repression
+PucR,BSU_32450,activation
+PucR,BSU_32470,activation
+PucR,BSU_32530,activation
+PucR,BSU_32440,activation
+PucR,BSU_32450,auto-repression
+LmrA,BSU_39990,repression
+LmrA,BSU_39980,repression
+LmrA,BSU_02680,repression
+LmrA,BSU_39970,repression
+LmrA,BSU_02670,repression
+LytT,BSU_28910,activation
+LytT,BSU_28900,activation
+YlaC,BSU_14710,sigma factor
+YlaC,BSU_14740,sigma factor
+YlaC,BSU_14730,sigma factor
+YlaC,BSU_14720,sigma factor
+GltR,BSU_26670,negative autoregulation
+SigB,BSU_30670,sigma factor
+SigB,BSU_08590,sigma factor
+SigB,BSU_07890,sigma factor
+SigB,BSU_06590,sigma factor
+SigB,BSU_08600,sigma factor
+SigB,BSU_04730,sigma factor
+SigB,BSU_24500,sigma factor
+SigB,BSU_29420,sigma factor
+SigB,BSU_07790,sigma factor
+SigB,BSU_37220,sigma factor
+SigB,BSU_02100,sigma factor
+SigB,BSU_11839,sigma factor
+SigB,BSU_07770,sigma factor
+SigB,BSU_19240,sigma factor
+SigB,BSU_04690,sigma factor
+SigB,BSU_07930,sigma factor
+SigB,BSU_03130,sigma factor
+SigB,BSU_05500,sigma factor
+SigB,BSU_09540,sigma factor
+SigB,BSU_29780,sigma factor
+SigB,BSU_02110,sigma factor
+SigB,BSU_38940,sigma factor
+SigB,BSU_19150,sigma factor
+SigB,BSU_40210,sigma factor
+SigB,BSU_23830,sigma factor
+SigB,BSU_33620,sigma factor
+SigB,BSU_07760,sigma factor
+SigB,BSU_23340,sigma factor
+SigB,BSU_02830,sigma factor
+SigB,BSU_04180,sigma factor
+SigB,BSU_02900,sigma factor
+SigB,BSU_35830,sigma factor
+SigB,BSU_35310,sigma factor
+SigB,BSU_04380,sigma factor
+SigB,BSU_02910,sigma factor
+SigB,BSU_38430,sigma factor
+SigB,BSU_04200,sigma factor
+SigB,BSU_04270,sigma factor
+SigB,BSU_36960,sigma factor
+SigB,BSU_37230,sigma factor
+SigB,BSU_35180,sigma factor
+SigB,BSU_00890,sigma factor
+SigB,BSU_04340,sigma factor
+SigB,BSU_04310,sigma factor
+SigB,BSU_00170,sigma factor
+SigB,BSU_30930,sigma factor
+SigB,BSU_06400,sigma factor
+SigB,BSU_04680,sigma factor
+SigB,BSU_23300,sigma factor
+SigB,BSU_30070,sigma factor
+SigB,BSU_40450,sigma factor
+SigB,BSU_06410,sigma factor
+SigB,BSU_07680,sigma factor
+SigB,BSU_04440,sigma factor
+SigB,BSU_37210,sigma factor
+SigB,BSU_09390,sigma factor
+SigB,BSU_17240,sigma factor
+SigB,BSU_07920,sigma factor
+SigB,BSU_05790,sigma factor
+SigB,BSU_33530,sigma factor
+SigB,BSU_38180,sigma factor
+SigB,BSU_12170,sigma factor
+SigB,BSU_25290,sigma factor
+SigB,BSU_23329,sigma factor
+SigB,BSU_39810,sigma factor
+SigB,BSU_10810,sigma factor
+SigB,BSU_04210,sigma factor
+SigB,BSU_36680,sigma factor
+SigB,BSU_09450,sigma factor
+SigB,BSU_11500,sigma factor
+SigB,BSU_24770,sigma factor
+SigB,BSU_40259,sigma factor
+SigB,BSU_30700,sigma factor
+SigB,BSU_04430,sigma factor
+SigB,BSU_27750,sigma factor
+SigB,BSU_04740,sigma factor
+SigB,BSU_28830,sigma factor
+SigB,BSU_31380,sigma factor
+SigB,BSU_35699,sigma factor
+SigB,BSU_00840,sigma factor
+SigB,BSU_39050,sigma factor
+SigB,BSU_35670,sigma factor
+SigB,BSU_33850,sigma factor
+SigB,BSU_38830,sigma factor
+SigB,BSU_29100,sigma factor
+SigB,BSU_16600,sigma factor
+SigB,BSU_35970,sigma factor
+SigB,BSU_18510,sigma factor
+SigB,BSU_25280,sigma factor
+SigB,BSU_05490,sigma factor
+SigB,BSU_30790,sigma factor
+SigB,BSU_24020,sigma factor
+SigB,BSU_09140,sigma factor
+SigB,BSU_08580,sigma factor
+SigB,BSU_04300,sigma factor
+SigB,BSU_12220,sigma factor
+SigB,BSU_07750,sigma factor
+SigB,BSU_05140,sigma factor
+SigB,BSU_11130,sigma factor
+SigB,BSU_16620,sigma factor
+SigB,BSU_08610,sigma factor
+SigB,BSU_25020,sigma factor
+SigB,BSU_07850,sigma factor
+SigB,BSU_30780,sigma factor
+SigB,BSU_04280,sigma factor
+SigB,BSU_18530,sigma factor
+SigB,BSU_17250,sigma factor
+SigB,BSU_03910,sigma factor
+SigB,BSU_33400,sigma factor
+SigB,BSU_13170,sigma factor
+SigB,BSU_33200,sigma factor
+SigB,BSU_40529,sigma factor
+SigB,BSU_24750,sigma factor
+SigB,BSU_38620,sigma factor
+SigB,BSU_24760,sigma factor
+SigB,BSU_30060,sigma factor
+SigB,BSU_04720,sigma factor
+SigB,BSU_00540,sigma factor
+SigB,BSU_04670,sigma factor
+SigB,BSU_02590,sigma factor
+SigB,BSU_00830,sigma factor
+SigB,BSU_29770,sigma factor
+SigB,BSU_30650,sigma factor
+SigB,BSU_04400,sigma factor
+SigB,BSU_02920,sigma factor
+SigB,BSU_31279,sigma factor
+SigB,BSU_12160,sigma factor
+SigB,BSU_07735,sigma factor
+SigB,BSU_12150,sigma factor
+SigB,BSU_02890,sigma factor
+SigB,BSU_27020,sigma factor
+SigB,BSU_37240,sigma factor
+SigB,BSU_31280,sigma factor
+SigB,BSU_38630,sigma factor
+SigB,BSU_08510,sigma factor
+SigB,BSU_02930,sigma factor
+SigB,BSU_04370,sigma factor
+SigB,BSU_16640,sigma factor
+SigB,BSU_28340,sigma factor
+SigB,BSU_12210,sigma factor
+SigB,BSU_00860,sigma factor
+SigB,BSU_38930,sigma factor
+SigB,BSU_18350,sigma factor
+SigB,BSU_16650,sigma factor
+SigB,BSU_36670,sigma factor
+SigB,BSU_04220,sigma factor
+SigB,BSU_00910,sigma factor
+SigB,BSU_13640,sigma factor
+SigB,BSU_23330,sigma factor
+SigB,BSU_29410,sigma factor
+SigB,BSU_04190,sigma factor
+SigB,BSU_13160,sigma factor
+SigB,BSU_36720,sigma factor
+SigB,BSU_10430,sigma factor
+SigB,BSU_08490,sigma factor
+SigB,BSU_04710,sigma factor
+SigB,BSU_13020,sigma factor
+SigB,BSU_02840,sigma factor
+SigB,BSU_09530,sigma factor
+SigB,BSU_07690,sigma factor
+SigB,BSU_24740,sigma factor
+SigB,BSU_40030,sigma factor
+SigB,BSU_18520,sigma factor
+SigB,BSU_07880,sigma factor
+SigB,BSU_08500,sigma factor
+SigB,BSU_34540,sigma factor
+SigB,BSU_40000,sigma factor
+SigB,BSU_04290,sigma factor
+SigB,BSU_00530,sigma factor
+SigB,BSU_00870,sigma factor
+SigB,BSU_28500,sigma factor
+SigB,BSU_00160,sigma factor
+SigB,BSU_07550,sigma factor
+SigB,BSU_13169,sigma factor
+SigB,BSU_39040,sigma factor
+SigB,BSU_24000,sigma factor
+SigB,BSU_00850,sigma factor
+SigB,BSU_33630,sigma factor
+SigB,BSU_25300,sigma factor
+SigB,BSU_38610,sigma factor
+SigB,BSU_27760,sigma factor
+SigB,BSU_14670,sigma factor
+SigB,BSU_16590,sigma factor
+SigB,BSU_05150,sigma factor
+SigB,BSU_07900,sigma factor
+SigB,BSU_11490,sigma factor
+SigB,BSU_07780,sigma factor
+SigB,BSU_16630,sigma factor
+SigB,BSU_33610,sigma factor
+SigB,BSU_00520,sigma factor
+SigB,BSU_24010,sigma factor
+SigB,BSU_07720,sigma factor
+SigB,BSU_40570,sigma factor
+SigB,BSU_35980,sigma factor
+SigB,BSU_14210,sigma factor
+SigB,BSU_06660,sigma factor
+SigB,BSU_14660,sigma factor
+SigB,BSU_14680,sigma factor
+SigB,BSU_07670,sigma factor
+SigB,BSU_24490,sigma factor
+SigB,BSU_38720,sigma factor
+SigB,BSU_04039,sigma factor
+SigB,BSU_40040,sigma factor
+SigB,BSU_08570,sigma factor
+SigB,BSU_33410,sigma factor
+SigB,BSU_09690,sigma factor
+SigB,BSU_00880,sigma factor
+SigB,BSU_02940,sigma factor
+SigB,BSU_25289,sigma factor
+SigB,BSU_11120,sigma factor
+SigB,BSU_16610,sigma factor
+SigB,BSU_04700,sigma factor
+SigB,BSU_30640,sigma factor
+SigB,BSU_30690,sigma factor
+SigB,BSU_29760,sigma factor
+SigB,BSU_33600,sigma factor
+SigB,BSU_29110,sigma factor
+SigB,BSU_39840,sigma factor
+SigB,BSU_13010,sigma factor
+SigB,BSU_00900,sigma factor
+SigB,BSU_18360,sigma factor
+MelR,BSU_30290,repression
+MelR,BSU_30260,repression
+MelR,BSU_30270,repression
+MelR,BSU_30280,repression
+MelR,BSU_30300,repression
+Abh,BSU_19410,repression
+Abh,BSU_14900,repression
+Abh,BSU_14750,repression
+Abh,BSU_03510,repression
+Abh,BSU_03520,repression
+Abh,BSU_36460,repression
+Abh,BSU_14930,repression
+Abh,BSU_07750,repression
+Abh,BSU_03480,repression
+Abh,BSU_03490,repression
+Abh,BSU_21460,activation
+Abh,BSU_03500,repression
+Abh,BSU_14910,repression
+Abh,BSU_21450,activation
+Abh,BSU_34380,activation
+Abh,BSU_21470,activation
+Abh,BSU_02780,repression
+Abh,BSU_34390,activation
+Abh,BSU_21480,activation
+Abh,BSU_14920,repression
+Abh,BSU_14890,repression
+Abh,BSU_21440,activation
+Abh,BSU_14880,repression
+SinR,BSU_35620,repression
+SinR,BSU_23450,repression
+SinR,BSU_34050,repression
+SinR,BSU_24640,repression
+SinR,BSU_15320,repression
+SinR,BSU_00490,repression
+SinR,BSU_34350,anti-activation
+SinR,BSU_15330,repression
+SinR,BSU_24630,repression
+SinR,BSU_34240,anti-activation
+SinR,BSU_24600,repression
+SinR,BSU_31460,repression
+SinR,BSU_40300,repression
+SinR,BSU_34320,anti-activation
+SinR,BSU_38360,repression
+SinR,BSU_35490,repression
+SinR,BSU_31322,repression
+SinR,BSU_34250,anti-activation
+SinR,BSU_10300,repression
+SinR,BSU_35500,repression
+SinR,BSU_14240,repression
+SinR,BSU_33400,repression
+SinR,BSU_34290,anti-activation
+SinR,BSU_34230,anti-activation
+SinR,BSU_34300,anti-activation
+SinR,BSU_31450,repression
+SinR,BSU_34265,anti-activation
+SinR,BSU_35640,repression
+SinR,BSU_34330,anti-activation
+SinR,BSU_34310,anti-activation
+SinR,BSU_34340,anti-activation
+SinR,BSU_34220,anti-activation
+SinR,BSU_23460,repression
+SinR,BSU_34030,repression
+SinR,BSU_09370,repression
+SinR,BSU_34370,anti-activation
+SinR,BSU_35630,repression
+SinR,BSU_34040,repression
+SinR,BSU_34280,anti-activation
+SinR,BSU_40310,repression
+SinR,BSU_34380,repression
+SinR,BSU_15310,repression
+SinR,BSU_31321,repression
+SinR,BSU_24610,repression
+SinR,BSU_34390,repression
+SinR,BSU_23470,repression
+SinR,BSU_34360,anti-activation
+SinR,BSU_38400,repression
+SinR,BSU_24620,repression
+CatR,BSU_08240,repression
+CatR,BSU_08230,repression
+GbsR,BSU_33730,repression
+GbsR,BSU_31060,repression
+GbsR,BSU_33710,repression
+GbsR,BSU_31050,repression
+GbsR,BSU_33720,repression
+GbsR,BSU_33700,repression
+SwrA,BSU_16450,activation
+SwrA,BSU_16220,activation
+SwrA,BSU_16390,activation
+SwrA,BSU_16230,activation
+SwrA,BSU_16360,activation
+SwrA,BSU_16330,activation
+SwrA,BSU_16430,activation
+SwrA,BSU_16270,activation
+SwrA,BSU_16410,activation
+SwrA,BSU_16320,activation
+SwrA,BSU_16440,activation
+SwrA,BSU_16400,activation
+SwrA,BSU_16350,activation
+SwrA,BSU_16240,activation
+SwrA,BSU_16260,activation
+SwrA,BSU_16310,activation
+SwrA,BSU_16470,activation
+SwrA,BSU_16210,activation
+SwrA,BSU_16380,activation
+SwrA,BSU_16290,activation
+SwrA,BSU_16480,activation
+SwrA,BSU_16180,activation
+SwrA,BSU_16300,activation
+SwrA,BSU_16460,activation
+SwrA,BSU_16370,activation
+SwrA,BSU_16299,activation
+SwrA,BSU_16420,activation
+SwrA,BSU_16280,activation
+SwrA,BSU_16340,activation
+SwrA,BSU_16200,activation
+SwrA,BSU_16250,activation
+SwrA,BSU_16190,activation
+RplJ,BSU_01050,termination
+RplJ,BSU_01040,termination
+SigG,BSU_15310,sigma factor
+SigG,BSU_32859,sigma factor
+SigG,BSU_11139,sigma factor
+SigG,BSU_08110,sigma factor
+SigG,BSU_17750,sigma factor
+SigG,BSU_07760,sigma factor
+SigG,BSU_17980,sigma factor
+SigG,BSU_00450,sigma factor
+SigG,BSU_29570,sigma factor
+SigG,BSU_09180,sigma factor
+SigG,BSU_18600,sigma factor
+SigG,BSU_23410,sigma factor
+SigG,BSU_32860,sigma factor
+SigG,BSU_23380,sigma factor
+SigG,BSU_25080,sigma factor
+SigG,BSU_22290,sigma factor
+SigG,BSU_10970,sigma factor
+SigG,BSU_23930,sigma factor
+SigG,BSU_13380,sigma factor
+SigG,BSU_05540,sigma factor
+SigG,BSU_07930,sigma factor
+SigG,BSU_10110,sigma factor
+SigG,BSU_21950,sigma factor
+SigG,BSU_30470,sigma factor
+SigG,BSU_03720,sigma factor
+SigG,BSU_23470,sigma factor
+SigG,BSU_08660,sigma factor
+SigG,BSU_34470,sigma factor
+SigG,BSU_08630,sigma factor
+SigG,BSU_09150,sigma factor
+SigG,BSU_33060,sigma factor
+SigG,BSU_07980,sigma factor
+SigG,BSU_23450,sigma factor
+SigG,BSU_24230,sigma factor
+SigG,BSU_35240,sigma factor
+SigG,BSU_10980,sigma factor
+SigG,BSU_23430,sigma factor
+SigG,BSU_01520,sigma factor
+SigG,BSU_35800,sigma factor
+SigG,BSU_16880,sigma factor
+SigG,BSU_27750,sigma factor
+SigG,BSU_08650,sigma factor
+SigG,BSU_22000,sigma factor
+SigG,BSU_31380,sigma factor
+SigG,BSU_10900,sigma factor
+SigG,BSU_23401,sigma factor
+SigG,BSU_13510,sigma factor
+SigG,BSU_07920,sigma factor
+SigG,BSU_33050,sigma factor
+SigG,BSU_23440,sigma factor
+SigG,BSU_09750,sigma factor
+SigG,BSU_27470,sigma factor
+SigG,BSU_11140,sigma factor
+SigG,BSU_15330,sigma factor
+SigG,BSU_05530,sigma factor
+SigG,BSU_09140,sigma factor
+SigG,BSU_23390,sigma factor
+SigG,BSU_34520,sigma factor
+SigG,BSU_13410,sigma factor
+SigG,BSU_19639,sigma factor
+SigG,BSU_03710,sigma factor
+SigG,BSU_02080,sigma factor
+SigG,BSU_25540,sigma factor
+SigG,BSU_40870,sigma factor
+SigG,BSU_17990,sigma factor
+SigG,BSU_03690,sigma factor
+SigG,BSU_17760,sigma factor
+SigG,BSU_23420,sigma factor
+SigG,BSU_23480,sigma factor
+SigG,BSU_26990,sigma factor
+SigG,BSU_23460,sigma factor
+SigG,BSU_15320,sigma factor
+SigG,BSU_00560,sigma factor
+SigG,BSU_13400,sigma factor
+SigG,BSU_03400,sigma factor
+SigG,BSU_26619,sigma factor
+SigG,BSU_26620,sigma factor
+SigG,BSU_38620,sigma factor
+SigG,BSU_34510,sigma factor
+SigG,BSU_23402,sigma factor
+SigG,BSU_16799,sigma factor
+SigG,BSU_33540,sigma factor
+SigG,BSU_16790,sigma factor
+SigG,BSU_22930,sigma factor
+SigG,BSU_08310,sigma factor
+SigG,BSU_08330,sigma factor
+SigG,BSU_37620,sigma factor
+SigG,BSU_13470,sigma factor
+SigG,BSU_03700,sigma factor
+SigG,BSU_35820,sigma factor
+SigG,BSU_27469,sigma factor
+SigG,BSU_13830,sigma factor
+SigG,BSU_18720,sigma factor
+SigG,BSU_13290,sigma factor
+SigG,BSU_02070,sigma factor
+SigG,BSU_19430,sigma factor
+SigG,BSU_09410,sigma factor
+SigG,BSU_13840,sigma factor
+SigG,BSU_00540,sigma factor
+SigG,BSU_26950,sigma factor
+SigG,BSU_13930,sigma factor
+SigG,BSU_08550,sigma factor
+SigG,BSU_22920,sigma factor
+SigG,BSU_22169,sigma factor
+SigG,BSU_26980,sigma factor
+SigG,BSU_26970,sigma factor
+SigG,BSU_18030,sigma factor
+SigG,BSU_17770,sigma factor
+SigG,BSU_22869,sigma factor
+SigG,BSU_22019,sigma factor
+SigG,BSU_27760,sigma factor
+SigG,BSU_25530,sigma factor
+SigG,BSU_28660,sigma factor
+SigG,BSU_08510,sigma factor
+SigG,BSU_35810,sigma factor
+SigG,BSU_09350,sigma factor
+SigG,BSU_07780,sigma factor
+SigG,BSU_09230,sigma factor
+SigG,BSU_14800,sigma factor
+SigG,BSU_40360,sigma factor
+SigG,BSU_13390,sigma factor
+SigG,BSU_23940,sigma factor
+SigG,BSU_13509,sigma factor
+SigG,BSU_13920,sigma factor
+SigG,BSU_18020,sigma factor
+SigG,BSU_39590,sigma factor
+SigG,BSU_08490,sigma factor
+SigG,BSU_03930,sigma factor
+SigG,BSU_26960,sigma factor
+SigG,BSU_08320,sigma factor
+SigG,BSU_38610,sigma factor
+SigG,BSU_19950,sigma factor
+SigG,BSU_30840,sigma factor
+SigG,BSU_30739,sigma factor
+SigG,BSU_08500,sigma factor
+SigG,BSU_33070,sigma factor
+SigG,BSU_27468,sigma factor
+SigG,BSU_01530,sigma factor
+SigG,BSU_01550,sigma factor
+SigG,BSU_40880,sigma factor
+SigG,BSU_37510,sigma factor
+SigG,BSU_33340,sigma factor
+SigG,BSU_32320,sigma factor
+SigG,BSU_07790,sigma factor
+SigG,BSU_03920,sigma factor
+SigG,BSU_15440,sigma factor
+SigG,BSU_07770,sigma factor
+IolR,BSU_39740,repression
+IolR,BSU_39730,repression
+IolR,BSU_39780,repression
+IolR,BSU_06230,repression
+IolR,BSU_39700,repression
+IolR,BSU_39680,repression
+IolR,BSU_39710,repression
+IolR,BSU_39670,repression
+IolR,BSU_39760,repression
+IolR,BSU_39770,repression
+IolR,BSU_39750,repression
+IolR,BSU_39690,repression
+IolR,BSU_39720,repression
+TagU,BSU_35650,auto-repression
+AhrC,BSU_29440,repression
+AhrC,BSU_11200,repression
+AhrC,BSU_40320,activation
+AhrC,BSU_11220,repression
+AhrC,BSU_37770,activation
+AhrC,BSU_37790,activation
+AhrC,BSU_11210,repression
+AhrC,BSU_11230,repression
+AhrC,BSU_11250,repression
+AhrC,BSU_40330,activation
+AhrC,BSU_11240,repression
+AhrC,BSU_40340,activation
+AhrC,BSU_11190,repression
+AhrC,BSU_37760,activation
+AhrC,BSU_29450,repression
+AhrC,BSU_37780,activation
+SigO,BSU_33250,sigma factor
+SigO,BSU_33239,sigma factor
+SigO,BSU_33230,sigma factor
+SigO,BSU_33240,sigma factor
+SigO,BSU_33222,sigma factor
+PhoP,BSU_07820,activation
+PhoP,BSU_32540,activation
+PhoP,BSU_02620,activation
+PhoP,BSU_23150,activation
+PhoP,BSU_01960,activation
+PhoP,BSU_35310,activation
+PhoP,BSU_03520,activation
+PhoP,BSU_05740,activation
+PhoP,BSU_01970,activation
+PhoP,BSU_35600,activation
+PhoP,BSU_35710,repression
+PhoP,BSU_40280,activation
+PhoP,BSU_29630,activation
+PhoP,BSU_18920,activation
+PhoP,BSU_06260,activation
+PhoP,BSU_24950,activation
+PhoP,BSU_03480,activation
+PhoP,BSU_02640,activation
+PhoP,BSU_02630,activation
+PhoP,BSU_03490,activation
+PhoP,BSU_13330,activation
+PhoP,BSU_01920,activation
+PhoP,BSU_35740,repression
+PhoP,BSU_29100,activation
+PhoP,BSU_35580,activation
+PhoP,BSU_23140,activation
+PhoP,BSU_35720,repression
+PhoP,BSU_01950,activation
+PhoP,BSU_03500,activation
+PhoP,BSU_35750,repression
+PhoP,BSU_06250,activation
+PhoP,BSU_39100,activation
+PhoP,BSU_11990,activation
+PhoP,BSU_35730,repression
+PhoP,BSU_40270,activation
+PhoP,BSU_24990,activation
+PhoP,BSU_35570,activation
+PhoP,BSU_24970,activation
+PhoP,BSU_09410,activation
+PhoP,BSU_01980,activation
+PhoP,BSU_35540,activation
+PhoP,BSU_07810,activation
+PhoP,BSU_35590,activation
+PhoP,BSU_38090,activation
+PhoP,BSU_07840,activation
+PhoP,BSU_35700,repression
+PhoP,BSU_13320,activation
+PhoP,BSU_01910,activation
+PhoP,BSU_02140,activation
+PhoP,BSU_35760,repression
+PhoP,BSU_29110,activation
+PhoP,BSU_05730,activation
+PhoP,BSU_03510,activation
+PhoP,BSU_35560,activation
+PhoP,BSU_18910,activation
+PhoP,BSU_23130,activation
+PhoP,BSU_07800,activation
+PhoP,BSU_35610,activation
+PhoP,BSU_24980,activation
+PhoP,BSU_35609,activation
+PhoP,BSU_35550,activation
+PhoP,BSU_02130,activation
+PhoP,BSU_23120,activation
+PhoP,BSU_40260,activation
+PhoP,BSU_24960,activation
+PhoP,BSU_23110,activation
+PhoP,BSU_01935,activation
+GlnR,BSU_36660,repression
+GlnR,BSU_18120,repression
+GlnR,BSU_17460,repression
+GlnR,BSU_36650,repression
+GlnR,BSU_17450,repression
+GlnR,BSU_13310,repression
+GlnR,BSU_36640,repression
+GmuR,BSU_05870,repression
+GmuR,BSU_05810,repression
+GmuR,BSU_05880,repression
+GmuR,BSU_05850,repression
+GmuR,BSU_05860,repression
+GmuR,BSU_05820,repression
+GmuR,BSU_05840,repression
+GmuR,BSU_05830,repression
+Kre,BSU_13360,repression
+Kre,BSU_14150,repression
+Kre,BSU_28910,repression
+Kre,BSU_14170,repression
+Kre,BSU_31959,repression
+Kre,BSU_28900,repression
+Kre,BSU_32000,repression
+Kre,BSU_31980,repression
+Kre,BSU_31970,repression
+Kre,BSU_14160,repression
+Kre,BSU_31990,repression
+Kre,BSU_31960,repression
+DnaA,BSU_40230,repression
+DnaA,BSU_21440,repression
+DnaA,BSU_38080,repression
+DnaA,BSU_39950,repression
+DnaA,BSU_38070,repression
+DnaA,BSU_36950,repression
+DnaA,BSU_40610,repression
+DnaA,BSU_41020,repression
+DnaA,BSU_25690,activation
+DnaA,BSU_40600,repression
+DnaA,BSU_39940,repression
+DnaA,BSU_40590,repression
+DnaA,BSU_41010,repression
+DnaA,BSU_40580,repression
+DnaA,BSU_40990,repression
+DnaA,BSU_41000,repression
+DnaA,BSU_21460,repression
+DnaA,BSU_21450,repression
+DnaA,BSU_40620,repression
+DnaA,BSU_38090,repression
+DnaA,BSU_21470,repression
+DnaA,BSU_21480,repression
+SacT,BSU_38030,antitermination
+SacT,BSU_38050,antitermination
+SacT,BSU_38040,antitermination
+MalR,BSU_31580,activation
+MalR,BSU_07570,activation
+MalR,BSU_37050,activation
+MalR,BSU_37040,activation
+CsoR,BSU_33500,repression
+CsoR,BSU_19890,repression
+CsoR,BSU_19880,repression
+CsoR,BSU_19970,repression
+CsoR,BSU_19820,repression
+CsoR,BSU_19860,repression
+CsoR,BSU_19870,repression
+CsoR,BSU_19930,repression
+CsoR,BSU_19830,repression
+CsoR,BSU_19910,repression
+CsoR,BSU_33510,repression
+CsoR,BSU_19940,repression
+CsoR,BSU_19920,repression
+CsoR,BSU_19850,repression
+ExuR,BSU_12350,repression
+ExuR,BSU_12340,repression
+ExuR,BSU_12330,repression
+ExuR,BSU_12370,repression
+ExuR,BSU_12320,repression
+ExuR,BSU_12360,repression
+ExuR,BSU_12310,repression
+ExuR,BSU_12390,repression
+ExuR,BSU_12380,repression
+ExuR,BSU_12300,repression
+SenS,BSU_09990,positive regulation
+YtrA,BSU_30460,repression
+YtrA,BSU_30410,repression
+YtrA,BSU_30440,repression
+YtrA,BSU_36490,repression
+YtrA,BSU_30450,repression
+YtrA,BSU_30430,repression
+YtrA,BSU_36480,repression
+YtrA,BSU_36500,repression
+YtrA,BSU_30420,repression
+MgsR,BSU_24770,activation
+RemA,BSU_34240,activation
+RemA,BSU_24620,activation
+RemA,BSU_33720,activation
+RemA,BSU_33700,activation
+RemA,BSU_34320,activation
+RemA,BSU_24630,activation
+RemA,BSU_24640,activation
+RemA,BSU_34250,activation
+RemA,BSU_33730,activation
+RemA,BSU_02990,activation
+RemA,BSU_34290,activation
+RemA,BSU_34230,activation
+RemA,BSU_34300,activation
+RemA,BSU_34265,activation
+RemA,BSU_34330,activation
+RemA,BSU_34310,activation
+RemA,BSU_34340,activation
+RemA,BSU_34220,activation
+RemA,BSU_33830,activation
+RemA,BSU_34370,activation
+RemA,BSU_33820,activation
+RemA,BSU_34280,activation
+RemA,BSU_33710,activation
+RemA,BSU_02980,activation
+RemA,BSU_34360,activation
+RemA,BSU_33800,activation
+RemA,BSU_33810,activation
+RemA,BSU_03000,activation
+RemA,BSU_34350,activation
+NagR,BSU_07680,repression
+NagR,BSU_35010,repression
+NagR,BSU_35020,repression
+NagR,BSU_07700,repression
+NagR,BSU_07690,repression
+NagR,BSU_07670,repression
+NagR,BSU_35030,repression
+PyrR,BSU_15520,termination/ antitermination
+PyrR,BSU_15560,termination/ antitermination
+PyrR,BSU_15490,termination/ antitermination
+PyrR,BSU_15530,termination/ antitermination
+PyrR,BSU_15540,termination/ antitermination
+PyrR,BSU_15480,termination/ antitermination
+PyrR,BSU_15470,termination/ antitermination
+PyrR,BSU_15500,termination/ antitermination
+PyrR,BSU_15550,termination/ antitermination
+PyrR,BSU_15510,termination/ antitermination
+GlcR,BSU_36290,repression
+GlcR,BSU_36300,repression
+CzrA,BSU_26640,repression
+CzrA,BSU_26650,repression
+CzrA,BSU_33490,repression
+YofA,BSU_14850,activation
+YofA,BSU_14860,activation
+SigD,BSU_00600,sigma factor
+SigD,BSU_03440,sigma factor
+SigD,BSU_35350,sigma factor
+SigD,BSU_16420,sigma factor
+SigD,BSU_11570,sigma factor
+SigD,BSU_35390,sigma factor
+SigD,BSU_35370,sigma factor
+SigD,BSU_16280,sigma factor
+SigD,BSU_38510,sigma factor
+SigD,BSU_18610,sigma factor
+SigD,BSU_35620,sigma factor
+SigD,BSU_12500,sigma factor
+SigD,BSU_35239,sigma factor
+SigD,BSU_35320,sigma factor
+SigD,BSU_16220,sigma factor
+SigD,BSU_02050,sigma factor
+SigD,BSU_35330,sigma factor
+SigD,BSU_29940,sigma factor
+SigD,BSU_11940,sigma factor
+SigD,BSU_16480,sigma factor
+SigD,BSU_38850,sigma factor
+SigD,BSU_07360,sigma factor
+SigD,BSU_35319,sigma factor
+SigD,BSU_31230,sigma factor
+SigD,BSU_16300,sigma factor
+SigD,BSU_16460,sigma factor
+SigD,BSU_16230,sigma factor
+SigD,BSU_38400,sigma factor
+SigD,BSU_16320,sigma factor
+SigD,BSU_16330,sigma factor
+SigD,BSU_16299,sigma factor
+SigD,BSU_00580,sigma factor
+SigD,BSU_35340,sigma factor
+SigD,BSU_16430,sigma factor
+SigD,BSU_16270,sigma factor
+SigD,BSU_16410,sigma factor
+SigD,BSU_35310,sigma factor
+SigD,BSU_16350,sigma factor
+SigD,BSU_21940,sigma factor
+SigD,BSU_00630,sigma factor
+SigD,BSU_16340,sigma factor
+SigD,BSU_31250,sigma factor
+SigD,BSU_19750,sigma factor
+SigD,BSU_35400,sigma factor
+SigD,BSU_33690,sigma factor
+SigD,BSU_16240,sigma factor
+SigD,BSU_16260,sigma factor
+SigD,BSU_13690,sigma factor
+SigD,BSU_16450,sigma factor
+SigD,BSU_16310,sigma factor
+SigD,BSU_36400,sigma factor
+SigD,BSU_35460,sigma factor
+SigD,BSU_16470,sigma factor
+SigD,BSU_16210,sigma factor
+SigD,BSU_38100,sigma factor
+SigD,BSU_16380,sigma factor
+SigD,BSU_16370,sigma factor
+SigD,BSU_35220,sigma factor
+SigD,BSU_16290,sigma factor
+SigD,BSU_16080,sigma factor
+SigD,BSU_29960,sigma factor
+SigD,BSU_33870,sigma factor
+SigD,BSU_00610,sigma factor
+SigD,BSU_16180,sigma factor
+SigD,BSU_13420,sigma factor
+SigD,BSU_11910,sigma factor
+SigD,BSU_09370,sigma factor
+SigD,BSU_35360,sigma factor
+SigD,BSU_35410,sigma factor
+SigD,BSU_35420,sigma factor
+SigD,BSU_19770,sigma factor
+SigD,BSU_25200,sigma factor
+SigD,BSU_36390,sigma factor
+SigD,BSU_26210,sigma factor
+SigD,BSU_35780,sigma factor
+SigD,BSU_35470,sigma factor
+SigD,BSU_16390,sigma factor
+SigD,BSU_35640,sigma factor
+SigD,BSU_35440,sigma factor
+SigD,BSU_16200,sigma factor
+SigD,BSU_38530,sigma factor
+SigD,BSU_13680,sigma factor
+SigD,BSU_16250,sigma factor
+SigD,BSU_31240,sigma factor
+SigD,BSU_35380,sigma factor
+SigD,BSU_16360,sigma factor
+SigD,BSU_07350,sigma factor
+SigD,BSU_16070,sigma factor
+SigD,BSU_16060,sigma factor
+SigD,BSU_16440,sigma factor
+SigD,BSU_00590,sigma factor
+SigD,BSU_26200,sigma factor
+SigD,BSU_12120,sigma factor
+SigD,BSU_15960,sigma factor
+SigD,BSU_19749,sigma factor
+SigD,BSU_16400,sigma factor
+SigD,BSU_38110,sigma factor
+SigD,BSU_00570,sigma factor
+SigD,BSU_38520,sigma factor
+SigD,BSU_29930,sigma factor
+SigD,BSU_38540,sigma factor
+SigD,BSU_35630,sigma factor
+SigD,BSU_14010,sigma factor
+SigD,BSU_29950,sigma factor
+SigD,BSU_10380,sigma factor
+SigD,BSU_38800,sigma factor
+SigD,BSU_38499,sigma factor
+SigD,BSU_35430,sigma factor
+SigD,BSU_13950,sigma factor
+SigD,BSU_35860,sigma factor
+SigD,BSU_19410,sigma factor
+SigD,BSU_00620,sigma factor
+SigD,BSU_11950,sigma factor
+SigD,BSU_28890,sigma factor
+SigD,BSU_31260,sigma factor
+SigD,BSU_35450,sigma factor
+SigD,BSU_16190,sigma factor
+SigD,BSU_19760,sigma factor
+SigD,BSU_38500,sigma factor
+SigD,BSU_35230,sigma factor
+AcoR,BSU_08070,activation
+AcoR,BSU_08060,activation
+AcoR,BSU_08090,activation
+AcoR,BSU_08080,activation
+YclJ,BSU_18170,activation
+YclJ,BSU_07990,activation
+YclJ,BSU_12880,activation
+YclJ,BSU_12890,activation
+YclJ,BSU_18190,activation
+YclJ,BSU_03740,activation
+YclJ,BSU_03730,activation
+YclJ,BSU_40490,activation
+YclJ,BSU_18180,activation
+YvrHb,BSU_21480,activation
+YvrHb,BSU_33230,activation
+YvrHb,BSU_21440,activation
+YvrHb,BSU_35620,repression
+YvrHb,BSU_39220,activation
+YvrHb,BSU_38530,activation
+YvrHb,BSU_23090,activation
+YvrHb,BSU_10770,activation
+YvrHb,BSU_38520,activation
+YvrHb,BSU_33222,activation
+YvrHb,BSU_35640,repression
+YvrHb,BSU_38540,activation
+YvrHb,BSU_23100,activation
+YvrHb,BSU_38499,activation
+YvrHb,BSU_21460,activation
+YvrHb,BSU_21450,activation
+YvrHb,BSU_39230,activation
+YvrHb,BSU_35630,repression
+YvrHb,BSU_38500,activation
+YvrHb,BSU_21470,activation
+YvrHb,BSU_38510,activation
+Fnr,BSU_37280,activation
+Fnr,BSU_37310,activation
+Fnr,BSU_08070,indirect positive regulation
+Fnr,BSU_08060,indirect positive regulation
+Fnr,BSU_37260,activation
+Fnr,BSU_37320,activation
+Fnr,BSU_37290,activation
+Fnr,BSU_08090,indirect positive regulation
+Fnr,BSU_08080,indirect positive regulation
+Fnr,BSU_37250,activation
+Fnr,BSU_37270,activation
+YkrK,BSU_13480,autoregulation
+YkrK,BSU_13490,repression
+YodB,BSU_19230,repression
+YodB,BSU_19550,repression
+YodB,BSU_08240,repression
+YodB,BSU_08230,repression
+YodB,BSU_19540,repression
+AscR,BSU_29360,activation
+AscR,BSU_29350,activation
+AscR,BSU_29380,activation
+AscR,BSU_29290,activation
+AscR,BSU_29320,activation
+AscR,BSU_29340,activation
+AscR,BSU_29280,activation
+AscR,BSU_29310,activation
+AscR,BSU_29330,activation
+AscR,BSU_29370,activation
+AscR,BSU_29300,activation
+AscR,BSU_29390,activation
+ComA,BSU_03510,activation
+ComA,BSU_15920,activation
+ComA,BSU_37470,activation
+ComA,BSU_03530,activation
+ComA,BSU_03520,activation
+ComA,BSU_37480,activation
+ComA,BSU_25840,activation
+ComA,BSU_25830,activation
+ComA,BSU_03780,activation
+ComA,BSU_15910,activation
+ComA,BSU_03480,activation
+ComA,BSU_12440,activation
+ComA,BSU_03490,activation
+ComA,BSU_15900,activation
+ComA,BSU_07560,activation
+ComA,BSU_31720,activation
+ComA,BSU_05010,activation
+ComA,BSU_03500,activation
+ComA,BSU_15890,activation
+ComA,BSU_37460,activation
+ComA,BSU_34190,activation
+ComA,BSU_05020,activation
+ComA,BSU_15880,activation
+ComA,BSU_12430,activation
+ComA,BSU_03770,activation
+MdtR,BSU_32870,repression
+MdtR,BSU_32880,repression
+OhrR,BSU_13140,repression
+RsfA,BSU_38630,activation
+RsfA,BSU_37620,repression
+KipR,BSU_04060,repression
+KipR,BSU_04100,repression
+KipR,BSU_04050,repression
+KipR,BSU_04070,repression
+KipR,BSU_04090,repression
+KipR,BSU_04080,repression
+KipR,BSU_04110,repression
+WalR,BSU_13820,activation
+WalR,BSU_14460,activation
+WalR,BSU_13450,activation
+WalR,BSU_12100,repression
+WalR,BSU_14470,activation
+WalR,BSU_06260,activation
+WalR,BSU_35710,activation
+WalR,BSU_06250,activation
+WalR,BSU_15280,activation
+WalR,BSU_35740,activation
+WalR,BSU_39220,repression
+WalR,BSU_35720,activation
+WalR,BSU_13819,activation
+WalR,BSU_34800,activation
+WalR,BSU_35750,activation
+WalR,BSU_35730,activation
+WalR,BSU_09420,activation
+WalR,BSU_18380,repression
+WalR,BSU_35700,activation
+WalR,BSU_15290,activation
+WalR,BSU_19210,activation
+WalR,BSU_35760,activation
+WalR,BSU_39230,repression
+WalR,BSU_13460,activation
+FruR,BSU_14390,repression
+FruR,BSU_14380,repression
+FruR,BSU_14400,repression
+SigY,BSU_38690,sigma factor
+SigY,BSU_38650,sigma factor
+SigY,BSU_38680,sigma factor
+SigY,BSU_38700,sigma factor
+SigY,BSU_02380,sigma factor
+SigY,BSU_38660,sigma factor
+SigY,BSU_38670,sigma factor
+RplT,BSU_28840,termination
+RplT,BSU_28860,termination
+RplT,BSU_28850,termination
+RplT,BSU_28870,termination
+SknR,BSU_26310,repression
+SknR,BSU_26320,repression
+SknR,BSU_26290,repression
+SknR,BSU_26260,repression
+SknR,BSU_26300,repression
+SknR,BSU_26250,repression
+SknR,BSU_26280,repression
+SknR,BSU_26270,repression
+SknR,BSU_26259,repression
+SknR,BSU_26330,repression
+SknR,BSU_26340,repression
+TnrA,BSU_03310,activation
+TnrA,BSU_14860,repression
+TnrA,BSU_40480,repression
+TnrA,BSU_35500,repression
+TnrA,BSU_11390,activation
+TnrA,BSU_11400,activation
+TnrA,BSU_04060,activation
+TnrA,BSU_04100,activation
+TnrA,BSU_11430,activation
+TnrA,BSU_32440,activation
+TnrA,BSU_38850,activation
+TnrA,BSU_27810,activation
+TnrA,BSU_19579,repression
+TnrA,BSU_13330,activation
+TnrA,BSU_36660,activation
+TnrA,BSU_03280,activation
+TnrA,BSU_35490,repression
+TnrA,BSU_28280,repression
+TnrA,BSU_40470,repression
+TnrA,BSU_28260,repression
+TnrA,BSU_11370,activation
+TnrA,BSU_17460,repression
+TnrA,BSU_32430,activation
+TnrA,BSU_32450,activation
+TnrA,BSU_11360,activation
+TnrA,BSU_18120,repression
+TnrA,BSU_28290,repression
+TnrA,BSU_14850,repression
+TnrA,BSU_04070,activation
+TnrA,BSU_03300,activation
+TnrA,BSU_36920,repression
+TnrA,BSU_03290,activation
+TnrA,BSU_37930,repression
+TnrA,BSU_36100,activation
+TnrA,BSU_11440,activation
+TnrA,BSU_08380,activation
+TnrA,BSU_33460,repression
+TnrA,BSU_04090,activation
+TnrA,BSU_18440,repression
+TnrA,BSU_11460,activation
+TnrA,BSU_07560,repression
+TnrA,BSU_19580,repression
+TnrA,BSU_36510,activation
+TnrA,BSU_36910,repression
+TnrA,BSU_32090,repression
+TnrA,BSU_08370,activation
+TnrA,BSU_03330,activation
+TnrA,BSU_32240,repression
+TnrA,BSU_04050,activation
+TnrA,BSU_40490,repression
+TnrA,BSU_04080,activation
+TnrA,BSU_27430,activation
+TnrA,BSU_28320,activation
+TnrA,BSU_28310,repression
+TnrA,BSU_02690,activation
+TnrA,BSU_13320,activation
+TnrA,BSU_32460,activation
+TnrA,BSU_11381,activation
+TnrA,BSU_32250,repression
+TnrA,BSU_32080,repression
+TnrA,BSU_36650,activation
+TnrA,BSU_28270,repression
+TnrA,BSU_18450,repression
+TnrA,BSU_27440,activation
+TnrA,BSU_17450,repression
+TnrA,BSU_03320,activation
+TnrA,BSU_27460,activation
+TnrA,BSU_04110,activation
+TnrA,BSU_36520,activation
+TnrA,BSU_03670,activation
+TnrA,BSU_11470,activation
+TnrA,BSU_06310,activation
+TnrA,BSU_30360,repression
+TnrA,BSU_37950,repression
+TnrA,BSU_13310,activation
+TnrA,BSU_37940,repression
+TnrA,BSU_11382,activation
+TnrA,BSU_32420,activation
+TnrA,BSU_11450,activation
+TnrA,BSU_32260,repression
+TnrA,BSU_27450,activation
+TnrA,BSU_28250,repression
+TnrA,BSU_28300,repression
+TnrA,BSU_36640,activation
+GltC,BSU_18460,auto-repression
+GltC,BSU_18440,activation
+GltC,BSU_18450,activation
+SR6,BSU_21000,antisense RNA
+SalA,BSU_09990,negative regulation
+SalA,BSU_01540,repression
+NusA,BSU_16610,attenuation
+NusA,BSU_16620,attenuation
+NusA,BSU_16600,attenuation
+NusA,BSU_16640,attenuation
+NusA,BSU_16650,attenuation
+NusA,BSU_16590,attenuation
+NusA,BSU_16630,attenuation
+KdgR,BSU_22090,repression
+KdgR,BSU_22130,repression
+KdgR,BSU_22140,repression
+KdgR,BSU_22120,repression
+KdgR,BSU_22100,repression
+KdgR,BSU_22110,repression
+FadR,BSU_32830,repression
+FadR,BSU_14072,repression
+FadR,BSU_28540,repression
+FadR,BSU_28520,repression
+FadR,BSU_14071,repression
+FadR,BSU_32820,repression
+FadR,BSU_32840,repression
+FadR,BSU_28560,repression
+FadR,BSU_37180,repression
+FadR,BSU_14060,repression
+FadR,BSU_28550,repression
+FadR,BSU_32850,repression
+FadR,BSU_37170,repression
+FadR,BSU_37160,repression
+FadR,BSU_28530,repression
+FadR,BSU_10270,repression
+SplA,BSU_13930,negative autoregulation
+SplA,BSU_13920,negative autoregulation
+AlsR,BSU_36010,activation
+AlsR,BSU_36000,activation
+CtsR,BSU_28220,repression
+CtsR,BSU_00840,repression
+CtsR,BSU_13700,repression
+CtsR,BSU_00830,repression
+CtsR,BSU_34540,repression
+CtsR,BSU_28500,repression
+CtsR,BSU_28200,repression
+CtsR,BSU_00860,repression
+CtsR,BSU_28190,repression
+CtsR,BSU_00870,repression
+CtsR,BSU_00850,repression
+CtsR,BSU_00880,repression
+CodY,BSU_39900,repression
+CodY,BSU_16299,repression
+CodY,BSU_28250,repression
+CodY,BSU_39890,repression
+CodY,BSU_16160,repression
+CodY,BSU_16190,repression
+CodY,BSU_02250,repression
+CodY,BSU_28300,repression
+CodY,BSU_12940,repression
+CodY,BSU_16360,repression
+CodY,BSU_10450,repression
+CodY,BSU_12930,repression
+CodY,BSU_16340,repression
+CodY,BSU_02240,repression
+CodY,BSU_17140,activation
+CodY,BSU_16440,repression
+CodY,BSU_16400,repression
+CodY,BSU_17220,activation
+CodY,BSU_17200,activation
+CodY,BSU_16280,repression
+CodY,BSU_36640,repression
+CodY,BSU_11390,repression
+CodY,BSU_29680,repression
+CodY,BSU_03520,repression
+CodY,BSU_37690,repression
+CodY,BSU_11400,repression
+CodY,BSU_37730,repression
+CodY,BSU_32580,repression
+CodY,BSU_38550,repression
+CodY,BSU_24030,repression
+CodY,BSU_11430,repression
+CodY,BSU_29670,repression
+CodY,BSU_25830,repression
+CodY,BSU_03780,repression
+CodY,BSU_16220,repression
+CodY,BSU_32590,repression
+CodY,BSU_31570,repression
+CodY,BSU_39910,repression
+CodY,BSU_10460,repression
+CodY,BSU_12980,repression
+CodY,BSU_03790,repression
+CodY,BSU_39930,repression
+CodY,BSU_16150,repression
+CodY,BSU_03220,repression
+CodY,BSU_25840,repression
+CodY,BSU_24080,repression
+CodY,BSU_37680,repression
+CodY,BSU_11200,repression
+CodY,BSU_16230,repression
+CodY,BSU_16320,repression
+CodY,BSU_09460,repression
+CodY,BSU_28280,repression
+CodY,BSU_16330,repression
+CodY,BSU_28260,repression
+CodY,BSU_39360,repression
+CodY,BSU_03480,repression
+CodY,BSU_40320,repression
+CodY,BSU_16430,repression
+CodY,BSU_11370,repression
+CodY,BSU_03210,repression
+CodY,BSU_16480,repression
+CodY,BSU_21760,repression
+CodY,BSU_24100,repression
+CodY,BSU_11360,repression
+CodY,BSU_16270,repression
+CodY,BSU_16300,repression
+CodY,BSU_03490,repression
+CodY,BSU_16460,repression
+CodY,BSU_24050,repression
+CodY,BSU_28290,repression
+CodY,BSU_16410,repression
+CodY,BSU_39920,repression
+CodY,BSU_16350,repression
+CodY,BSU_31450,repression
+CodY,BSU_37770,repression
+CodY,BSU_16420,repression
+CodY,BSU_37700,repression
+CodY,BSU_39880,repression
+CodY,BSU_32090,repression
+CodY,BSU_10420,repression
+CodY,BSU_39340,repression
+CodY,BSU_11440,repression
+CodY,BSU_17100,activation
+CodY,BSU_31540,repression
+CodY,BSU_17160,activation
+CodY,BSU_03500,repression
+CodY,BSU_35360,repression
+CodY,BSU_16240,repression
+CodY,BSU_29600,repression
+CodY,BSU_11460,repression
+CodY,BSU_11220,repression
+CodY,BSU_32240,repression
+CodY,BSU_00090,activation
+CodY,BSU_16260,repression
+CodY,BSU_12440,repression
+CodY,BSU_16140,repression
+CodY,BSU_16450,repression
+CodY,BSU_16310,repression
+CodY,BSU_32730,activation
+CodY,BSU_36660,repression
+CodY,BSU_16470,repression
+CodY,BSU_16210,repression
+CodY,BSU_17170,activation
+CodY,BSU_12920,repression
+CodY,BSU_03010,repression
+CodY,BSU_39380,repression
+CodY,BSU_37710,repression
+CodY,BSU_16380,repression
+CodY,BSU_13000,repression
+CodY,BSU_17180,activation
+CodY,BSU_16370,repression
+CodY,BSU_18010,repression
+CodY,BSU_16290,repression
+CodY,BSU_24040,repression
+CodY,BSU_32250,repression
+CodY,BSU_32080,repression
+CodY,BSU_16180,repression
+CodY,BSU_12960,repression
+CodY,BSU_17210,activation
+CodY,BSU_03200,repression
+CodY,BSU_10300,repression
+CodY,BSU_39350,repression
+CodY,BSU_38090,repression
+CodY,BSU_28310,repression
+CodY,BSU_02690,repression
+CodY,BSU_39870,repression
+CodY,BSU_17130,activation
+CodY,BSU_11210,repression
+CodY,BSU_11381,repression
+CodY,BSU_31550,repression
+CodY,BSU_12950,repression
+CodY,BSU_09990,negative regulation
+CodY,BSU_16390,repression
+CodY,BSU_28270,repression
+CodY,BSU_37760,repression
+CodY,BSU_16200,repression
+CodY,BSU_16250,repression
+CodY,BSU_11230,repression
+CodY,BSU_24090,repression
+CodY,BSU_03770,repression
+CodY,BSU_37720,repression
+CodY,BSU_36650,repression
+CodY,BSU_17110,activation
+CodY,BSU_16170,repression
+CodY,BSU_32070,repression
+CodY,BSU_39370,repression
+CodY,BSU_11250,repression
+CodY,BSU_40330,repression
+CodY,BSU_31560,repression
+CodY,BSU_21870,repression
+CodY,BSU_15340,repression
+CodY,BSU_14700,repression
+CodY,BSU_11240,repression
+CodY,BSU_32550,repression
+CodY,BSU_29470,activation
+CodY,BSU_39390,repression
+CodY,BSU_24060,repression
+CodY,BSU_40340,repression
+CodY,BSU_13190,repression
+CodY,BSU_18000,repression
+CodY,BSU_12990,repression
+CodY,BSU_16130,repression
+CodY,BSU_32260,repression
+CodY,BSU_37780,repression
+CodY,BSU_32130,activation
+CodY,BSU_11470,repression
+CodY,BSU_17190,activation
+CodY,BSU_06310,repression
+CodY,BSU_02390,repression
+CodY,BSU_11190,repression
+CodY,BSU_32740,activation
+CodY,BSU_17120,activation
+CodY,BSU_32570,repression
+CodY,BSU_37740,repression
+CodY,BSU_12970,repression
+CodY,BSU_11382,repression
+CodY,BSU_17150,activation
+CodY,BSU_03020,repression
+CodY,BSU_24070,repression
+CodY,BSU_32610,repression
+CodY,BSU_32600,repression
+CodY,BSU_03510,repression
+CodY,BSU_11450,repression
+CodY,BSU_32750,activation
+CodY,BSU_31460,repression
+CodY,BSU_12430,repression
+CodY,BSU_21770,repression
+SpoIIID,BSU_15220,repression
+SpoIIID,BSU_26390,activation
+SpoIIID,BSU_15250,repression
+SpoIIID,BSU_11770,activation
+SpoIIID,BSU_00230,repression
+SpoIIID,BSU_15200,repression
+SpoIIID,BSU_11760,activation
+SpoIIID,BSU_15180,repression
+SpoIIID,BSU_24430,repression
+SpoIIID,BSU_36040,activation
+SpoIIID,BSU_25060,repression
+SpoIIID,BSU_24390,repression
+SpoIIID,BSU_06890,activation
+SpoIIID,BSU_25360,repression
+SpoIIID,BSU_09770,activation
+SpoIIID,BSU_25770,activation
+SpoIIID,BSU_27690,repression
+SpoIIID,BSU_24440,repression
+SpoIIID,BSU_06900,activation
+SpoIIID,BSU_15090,activation
+SpoIIID,BSU_15170,repression
+SpoIIID,BSU_27970,repression
+SpoIIID,BSU_24410,repression
+SpoIIID,BSU_27980,repression
+SpoIIID,BSU_15030,repression
+SpoIIID,BSU_15810,activation
+SpoIIID,BSU_09830,repression
+SpoIIID,BSU_15210,repression
+SpoIIID,BSU_25350,repression
+SpoIIID,BSU_02600,activation
+SpoIIID,BSU_09780,activation
+SpoIIID,BSU_36060,activation
+SpoIIID,BSU_24380,repression
+SpoIIID,BSU_12090,activation
+SpoIIID,BSU_01570,repression
+SpoIIID,BSU_25760,activation
+SpoIIID,BSU_06910,activation
+SpoIIID,BSU_17700,repression
+SpoIIID,BSU_15260,repression
+SpoIIID,BSU_06920,activation
+SpoIIID,BSU_28380,repression
+SpoIIID,BSU_24420,repression
+SpoIIID,BSU_11780,activation
+SpoIIID,BSU_15240,repression
+SpoIIID,BSU_00160,repression
+SpoIIID,BSU_31279,repression
+SpoIIID,BSU_24400,repression
+SpoIIID,BSU_31280,repression
+SpoIIID,BSU_27670,repression
+SpoIIID,BSU_22800,repression
+SpoIIID,BSU_22520,repression
+SpoIIID,BSU_15230,repression
+SpoIIID,BSU_28410,activation
+SpoIIID,BSU_25070,repression
+SpoIIID,BSU_36750,repression
+SpoIIID,BSU_40530,activation
+SpoIIID,BSU_24370,repression
+SpoIIID,BSU_36050,activation
+SpoIIID,BSU_24360,repression
+SpoIIID,BSU_15270,repression
+SpoIIID,BSU_06930,activation
+SpoIIID,BSU_15190,repression
+SpoIIID,BSU_22200,repression
+SpoIIID,BSU_17420,activation
+SpoIIID,BSU_15360,repression
+SpoIIID,BSU_14250,activation
+HypR,BSU_40540,activation
+HypR,BSU_07830,activation
+NtdR,BSU_10530,positive regulation
+NtdR,BSU_10550,positive regulation
+NtdR,BSU_10520,positive regulation
+NtdR,BSU_10540,positive regulation
+SlrR,BSU_35620,repression
+SlrR,BSU_09370,repression
+SlrR,BSU_35640,repression
+SlrR,BSU_35630,repression
+GutR,BSU_06160,activation
+GutR,BSU_06150,activation
+GutR,BSU_06170,activation
+RghR,BSU_36380,repression
+RghR,BSU_40300,repression
+RghR,BSU_06830,repression
+RghR,BSU_06839,repression
+RghR,BSU_40310,repression
+RghR,BSU_33640,repression
+PsdR,BSU_34690,activation
+PsdR,BSU_34720,activation
+PsdR,BSU_34710,activation
+PsdR,BSU_34700,activation
+YcnK,BSU_03950,repression
+YcnK,BSU_03960,repression
+YcnK,BSU_03940,repression
+MhqR,BSU_19570,repression
+MhqR,BSU_05500,repression
+MhqR,BSU_12870,repression
+MhqR,BSU_33540,repression
+MhqR,BSU_05490,repression
+MhqR,BSU_19560,repression
+MhqR,BSU_05480,repression
+BmrR,BSU_24020,activation
+BmrR,BSU_24010,activation
+OpcR,BSU_33720,repression
+OpcR,BSU_33700,repression
+OpcR,BSU_33730,repression
+OpcR,BSU_33830,repression
+OpcR,BSU_33820,repression
+OpcR,BSU_33710,repression
+OpcR,BSU_33800,repression
+OpcR,BSU_33810,repression
+Zur,BSU_03359,repression
+Zur,BSU_26830,repression
+Zur,BSU_03360,repression
+Zur,BSU_30700,repression
+Zur,BSU_02870,repression
+Zur,BSU_08880,repression
+Zur,BSU_02850,repression
+Zur,BSU_02860,repression
+Zur,BSU_03350,repression
+Zur,BSU_03340,repression
+CssR,BSU_33010,activation
+CssR,BSU_33000,activation
+CssR,BSU_33029,activation
+CssR,BSU_33020,activation
+CssR,BSU_12900,activation
+ThrR,BSU_03790,repression
+ThrR,BSU_32240,repression
+ThrR,BSU_32250,repression
+ThrR,BSU_32260,repression
+AraR,BSU_28760,repression
+AraR,BSU_33960,repression
+AraR,BSU_28780,repression
+AraR,BSU_28720,repression
+AraR,BSU_28810,repression
+AraR,BSU_28730,repression
+AraR,BSU_28800,repression
+AraR,BSU_33970,repression
+AraR,BSU_28510,repression
+AraR,BSU_28740,repression
+AraR,BSU_28770,repression
+AraR,BSU_28790,repression
+AraR,BSU_28750,repression
+Mta,BSU_05450,activation
+Mta,BSU_26600,activation
+Mta,BSU_16825,activation
+Mta,BSU_36600,activation
+Mta,BSU_24020,activation
+Mta,BSU_16845,activation
+Mta,BSU_26590,activation
+Mta,BSU_24010,activation
+Mta,BSU_16860,activation
+PadR,BSU_34400,repression
+PadR,BSU_34420,repression
+PadR,BSU_34410,repression
+PurR,BSU_06460,repression
+PurR,BSU_00480,repression
+PurR,BSU_06510,repression
+PurR,BSU_06370,repression
+PurR,BSU_06420,repression
+PurR,BSU_29990,repression
+PurR,BSU_06450,repression
+PurR,BSU_06440,repression
+PurR,BSU_06530,repression
+PurR,BSU_24320,repression
+PurR,BSU_22060,repression
+PurR,BSU_24310,repression
+PurR,BSU_06520,repression
+PurR,BSU_00470,repression
+PurR,BSU_06470,repression
+PurR,BSU_06430,repression
+PurR,BSU_40420,repression
+PurR,BSU_06500,repression
+PurR,BSU_00460,repression
+PurR,BSU_22070,repression
+PurR,BSU_06490,repression
+PurR,BSU_36900,repression
+PurR,BSU_32130,repression
+PurR,BSU_06480,repression
+AdeR,BSU_31930,activation
+GlvR,BSU_08200,activation
+GlvR,BSU_08180,activation
+GlvR,BSU_08190,activation
+CggR,BSU_33930,repression
+CggR,BSU_33940,repression
+CggR,BSU_33950,repression
+CggR,BSU_33900,repression
+CggR,BSU_33910,repression
+CggR,BSU_33920,repression
+RsoA,BSU_33250,sigma factor
+RsoA,BSU_33239,sigma factor
+RsoA,BSU_33230,sigma factor
+RsoA,BSU_33240,sigma factor
+RsoA,BSU_33222,sigma factor
+XylR,BSU_17610,repression
+XylR,BSU_17570,repression
+XylR,BSU_17600,repression
+XylR,BSU_17580,repression
+AdhR,BSU_27010,activation
+AdhR,BSU_27020,activation
+ArsR,BSU_25790,repression
+ArsR,BSU_25800,repression
+ArsR,BSU_25810,repression
+ArsR,BSU_25780,repression
+Rex,BSU_09840,repression
+Rex,BSU_38730,repression
+Rex,BSU_36010,repression
+Rex,BSU_03060,repression
+Rex,BSU_03050,repression
+Rex,BSU_38760,repression
+Rex,BSU_36000,repression
+Rex,BSU_38060,repression
+Rex,BSU_12290,repression
+Rex,BSU_38740,repression
+Rex,BSU_38750,repression
+Rex,BSU_12280,repression
+HprT,BSU_00680,activation
+HprT,BSU_00670,activation
+HprT,BSU_00690,activation
+PamR,BSU_04750,repression
+PamR,BSU_04760,repression
+PamR,BSU_04770,repression
+YfhP,BSU_08630,repression
+YfhP,BSU_08660,repression
+YfhP,BSU_08650,repression
+GlcT,BSU_13910,antitermination
+GlcT,BSU_13900,antitermination
+GlcT,BSU_13890,antitermination
+HutP,BSU_39360,antitermination
+HutP,BSU_39340,antitermination
+HutP,BSU_39380,antitermination
+HutP,BSU_39350,antitermination
+HutP,BSU_39370,antitermination
+HutP,BSU_39390,antitermination
+RocR,BSU_17850,autorepression
+RocR,BSU_40350,autorepression
+RocR,BSU_40320,activation
+RocR,BSU_37770,activation
+RocR,BSU_37790,activation
+RocR,BSU_37760,activation
+RocR,BSU_40330,activation
+RocR,BSU_40340,activation
+RocR,BSU_37780,activation
+RhgR,BSU_07080,activation
+RhgR,BSU_07040,activation
+RhgR,BSU_07010,activation
+RhgR,BSU_07070,activation
+RhgR,BSU_07030,activation
+RhgR,BSU_07060,activation
+RhgR,BSU_07020,activation
+RhgR,BSU_07050,activation
+YetL,BSU_07230,repression
+ChrS,BSU_36130,repression
+ChrS,BSU_36110,repression
+ChrS,BSU_36120,repression
+BceR,BSU_30370,activation
+BceR,BSU_30380,activation
+PutR,BSU_03220,activation
+PutR,BSU_03210,activation
+PutR,BSU_03200,activation
+YwcC,BSU_38229,repression
+MifM,BSU_23890,attenuation
+MifM,BSU_23880,attenuation
+GabR,BSU_03900,activation
+GabR,BSU_03910,activation
+GabR,BSU_03890,negative autoregulation
+YwbI,BSU_38330,activation
+YwbI,BSU_38320,activation
+SigF,BSU_35609,sigma factor
+SigF,BSU_37510,sigma factor
+SigF,BSU_35550,sigma factor
+SigF,BSU_24580,sigma factor
+SigF,BSU_10280,sigma factor
+SigF,BSU_00880,sigma factor
+SigF,BSU_38740,sigma factor
+SigF,BSU_15310,sigma factor
+SigF,BSU_30470,sigma factor
+SigF,BSU_38750,sigma factor
+SigF,BSU_23470,sigma factor
+SigF,BSU_24500,sigma factor
+SigF,BSU_09150,sigma factor
+SigF,BSU_00650,sigma factor
+SigF,BSU_23450,sigma factor
+SigF,BSU_24230,sigma factor
+SigF,BSU_35600,sigma factor
+SigF,BSU_11410,sigma factor
+SigF,BSU_24590,sigma factor
+SigF,BSU_27300,sigma factor
+SigF,BSU_16880,sigma factor
+SigF,BSU_07130,sigma factor
+SigF,BSU_24670,sigma factor
+SigF,BSU_27750,sigma factor
+SigF,BSU_00240,sigma factor
+SigF,BSU_28210,sigma factor
+SigF,BSU_38730,sigma factor
+SigF,BSU_39060,sigma factor
+SigF,BSU_33060,sigma factor
+SigF,BSU_00660,sigma factor
+SigF,BSU_24710,sigma factor
+SigF,BSU_14950,sigma factor
+SigF,BSU_09140,sigma factor
+SigF,BSU_22900,sigma factor
+SigF,BSU_35580,sigma factor
+SigF,BSU_36540,sigma factor
+SigF,BSU_15670,sigma factor
+SigF,BSU_15330,sigma factor
+SigF,BSU_10390,sigma factor
+SigF,BSU_25540,sigma factor
+SigF,BSU_33050,sigma factor
+SigF,BSU_36550,sigma factor
+SigF,BSU_30630,sigma factor
+SigF,BSU_00670,sigma factor
+SigF,BSU_23480,sigma factor
+SigF,BSU_15680,sigma factor
+SigF,BSU_23460,sigma factor
+SigF,BSU_22850,sigma factor
+SigF,BSU_00560,sigma factor
+SigF,BSU_00690,sigma factor
+SigF,BSU_03400,sigma factor
+SigF,BSU_26619,sigma factor
+SigF,BSU_00680,sigma factor
+SigF,BSU_26620,sigma factor
+SigF,BSU_24680,sigma factor
+SigF,BSU_00840,sigma factor
+SigF,BSU_35570,sigma factor
+SigF,BSU_25790,sigma factor
+SigF,BSU_08310,sigma factor
+SigF,BSU_25530,sigma factor
+SigF,BSU_08330,sigma factor
+SigF,BSU_24730,sigma factor
+SigF,BSU_37620,sigma factor
+SigF,BSU_15320,sigma factor
+SigF,BSU_36770,sigma factor
+SigF,BSU_27469,sigma factor
+SigF,BSU_24720,sigma factor
+SigF,BSU_24700,sigma factor
+SigF,BSU_00540,sigma factor
+SigF,BSU_25800,sigma factor
+SigF,BSU_36970,sigma factor
+SigF,BSU_35540,sigma factor
+SigF,BSU_18030,sigma factor
+SigF,BSU_22869,sigma factor
+SigF,BSU_35590,sigma factor
+SigF,BSU_38630,sigma factor
+SigF,BSU_36780,sigma factor
+SigF,BSU_08510,sigma factor
+SigF,BSU_00830,sigma factor
+SigF,BSU_24650,sigma factor
+SigF,BSU_14960,sigma factor
+SigF,BSU_27760,sigma factor
+SigF,BSU_36760,sigma factor
+SigF,BSU_15660,sigma factor
+SigF,BSU_18020,sigma factor
+SigF,BSU_25520,sigma factor
+SigF,BSU_00860,sigma factor
+SigF,BSU_08490,sigma factor
+SigF,BSU_07140,sigma factor
+SigF,BSU_08320,sigma factor
+SigF,BSU_30739,sigma factor
+SigF,BSU_08500,sigma factor
+SigF,BSU_32070,sigma factor
+SigF,BSU_27468,sigma factor
+SigF,BSU_40950,sigma factor
+SigF,BSU_24690,sigma factor
+SigF,BSU_29500,sigma factor
+SigF,BSU_22860,sigma factor
+SigF,BSU_00870,sigma factor
+SigF,BSU_24660,sigma factor
+SigF,BSU_15690,sigma factor
+SigF,BSU_00640,sigma factor
+SigF,BSU_00850,sigma factor
+SigF,BSU_01550,sigma factor
+SigF,BSU_29510,sigma factor
+SigF,BSU_38760,sigma factor
+SigF,BSU_35560,sigma factor
+SigF,BSU_25810,sigma factor
+SigF,BSU_24490,sigma factor
+SigF,BSU_33070,sigma factor
+SigF,BSU_27310,sigma factor
+SigF,BSU_25780,sigma factor
+SigF,BSU_35610,sigma factor
+SigV,BSU_38499,sigma factor
+SigV,BSU_06380,sigma factor
+SigV,BSU_16950,sigma factor
+SigV,BSU_14480,sigma factor
+SigV,BSU_36530,sigma factor
+SigV,BSU_38500,sigma factor
+SigV,BSU_38510,sigma factor
+SigV,BSU_27150,sigma factor
+SigV,BSU_28060,sigma factor
+SigV,BSU_38480,sigma factor
+SigV,BSU_23830,sigma factor
+SigV,BSU_27130,sigma factor
+SigV,BSU_04560,sigma factor
+SigV,BSU_04570,sigma factor
+SigV,BSU_03240,sigma factor
+SigV,BSU_27120,sigma factor
+SigV,BSU_38530,sigma factor
+SigV,BSU_03250,sigma factor
+SigV,BSU_38520,sigma factor
+SigV,BSU_38540,sigma factor
+SigV,BSU_27140,sigma factor
+NhaX,BSU_09680,activation
+AseR,BSU_05344,repression
+AseR,BSU_05340,repression
+AseR,BSU_05343,repression
+AseR,BSU_05330,repression
+LexA,BSU_09810,repression
+LexA,BSU_12500,repression
+LexA,BSU_23680,repression
+LexA,BSU_17870,repression
+LexA,BSU_05640,repression
+LexA,BSU_17880,repression
+LexA,BSU_06060,repression
+LexA,BSU_35160,repression
+LexA,BSU_23720,repression
+LexA,BSU_40350,autorepression
+LexA,BSU_23300,repression
+LexA,BSU_18960,repression
+LexA,BSU_06610,repression
+LexA,BSU_22790,repression
+LexA,BSU_10470,repression
+LexA,BSU_09930,repression
+LexA,BSU_10490,repression
+LexA,BSU_17860,repression
+LexA,BSU_23650,repression
+LexA,BSU_05650,repression
+LexA,BSU_29230,repression
+LexA,BSU_20440,repression
+LexA,BSU_23670,repression
+LexA,BSU_01520,repression
+LexA,BSU_06620,repression
+LexA,BSU_18100,repression
+LexA,BSU_23710,repression
+LexA,BSU_23690,repression
+LexA,BSU_24750,repression
+LexA,BSU_06630,repression
+LexA,BSU_17260,repression
+LexA,BSU_25690,repression
+LexA,BSU_18090,repression
+LexA,BSU_06070,repression
+LexA,BSU_10480,repression
+LexA,BSU_23700,repression
+LexA,BSU_21500,repression
+LexA,BSU_24740,repression
+LexA,BSU_06600,repression
+LexA,BSU_27730,repression
+LexA,BSU_38090,repression
+LexA,BSU_23660,repression
+LexA,BSU_09910,repression
+LexA,BSU_09920,repression
+LexA,BSU_16940,repression
+LexA,BSU_35170,repression
+LexA,BSU_21520,repression
+LexA,BSU_28490,repression
+LexA,BSU_13800,repression
+LexA,BSU_29220,repression
+LexA,BSU_27740,repression
+LexA,BSU_05630,repression
+LexA,BSU_17850,repression
+LexA,BSU_20430,repression
+LexA,BSU_18950,repression
+LexA,BSU_35770,repression
+LexA,BSU_01530,repression
+DegU,BSU_16390,regulation
+DegU,BSU_35239,activation
+DegU,BSU_35450,activation
+DegU,BSU_38420,activation
+DegU,BSU_16300,repression
+DegU,BSU_16460,repression
+DegU,BSU_35900,activation
+DegU,BSU_16299,repression
+DegU,BSU_31890,activation
+DegU,BSU_35490,activation
+DegU,BSU_16190,repression
+DegU,BSU_35390,activation
+DegU,BSU_34470,activation
+DegU,BSU_16360,regulation
+DegU,BSU_16340,repression
+DegU,BSU_16440,regulation
+DegU,BSU_16400,regulation
+DegU,BSU_16280,repression
+DegU,BSU_38400,activation
+DegU,BSU_31080,activation
+DegU,BSU_38940,repression
+DegU,BSU_16220,repression
+DegU,BSU_34850,activation
+DegU,BSU_39220,repression
+DegU,BSU_36250,activation
+DegU,BSU_36230,activation
+DegU,BSU_16230,repression
+DegU,BSU_16410,repression
+DegU,BSU_16320,repression
+DegU,BSU_35880,activation
+DegU,BSU_16330,repression
+DegU,BSU_16430,repression
+DegU,BSU_16480,regulation
+DegU,BSU_16270,repression
+DegU,BSU_16300,regulation
+DegU,BSU_16460,regulation
+DegU,BSU_16350,repression
+DegU,BSU_31875,activation
+DegU,BSU_35400,activation
+DegU,BSU_16299,regulation
+DegU,BSU_16420,regulation
+DegU,BSU_34840,activation
+DegU,BSU_16310,repression
+DegU,BSU_16280,regulation
+DegU,BSU_35460,activation
+DegU,BSU_16240,repression
+DegU,BSU_16340,regulation
+DegU,BSU_16260,repression
+DegU,BSU_31850,activation
+DegU,BSU_16450,repression
+DegU,BSU_15300,activation
+DegU,BSU_16380,repression
+DegU,BSU_31720,activation
+DegU,BSU_35220,activation
+DegU,BSU_16470,repression
+DegU,BSU_16210,repression
+DegU,BSU_10300,activation
+DegU,BSU_16370,repression
+DegU,BSU_10420,activation
+DegU,BSU_16290,repression
+DegU,BSU_34460,activation
+DegU,BSU_35410,activation
+DegU,BSU_35420,activation
+DegU,BSU_16180,repression
+DegU,BSU_16270,regulation
+DegU,BSU_16410,regulation
+DegU,BSU_16320,regulation
+DegU,BSU_34450,activation
+DegU,BSU_16330,regulation
+DegU,BSU_16430,regulation
+DegU,BSU_35470,activation
+DegU,BSU_16390,repression
+DegU,BSU_35440,activation
+DegU,BSU_36260,activation
+DegU,BSU_02780,activation
+DegU,BSU_16350,regulation
+DegU,BSU_31860,activation
+DegU,BSU_35380,activation
+DegU,BSU_38930,repression
+DegU,BSU_38410,activation
+DegU,BSU_31900,activation
+DegU,BSU_15640,repression
+DegU,BSU_16260,regulation
+DegU,BSU_39230,repression
+DegU,BSU_16310,regulation
+DegU,BSU_16200,repression
+DegU,BSU_16250,repression
+DegU,BSU_14410,activation
+DegU,BSU_16360,repression
+DegU,BSU_16380,regulation
+DegU,BSU_31910,activation
+DegU,BSU_16440,repression
+DegU,BSU_16480,repression
+DegU,BSU_36240,activation
+DegU,BSU_16400,repression
+DegU,BSU_16470,regulation
+DegU,BSU_34830,activation
+DegU,BSU_35890,activation
+DegU,BSU_16420,repression
+DegU,BSU_16370,regulation
+DegU,BSU_35430,activation
+DegU,BSU_16290,regulation
+DegU,BSU_31840,activation
+DegU,BSU_35370,activation
+DegU,BSU_35870,activation
+DegU,BSU_35230,activation
+DegU,BSU_16450,regulation
+DegU,BSU_35500,activation
+NatR,BSU_02760,activation
+NatR,BSU_02750,activation
+AzlB,BSU_26720,repression
+AzlB,BSU_26710,repression
+AzlB,BSU_26680,repression
+AzlB,BSU_26690,repression
+AzlB,BSU_26700,repression
+HxlR,BSU_03460,activation
+HxlR,BSU_03450,activation
+SigH,BSU_29760,sigma factor
+SigH,BSU_16980,sigma factor
+SigH,BSU_18910,sigma factor
+SigH,BSU_37470,sigma factor
+SigH,BSU_29780,sigma factor
+SigH,BSU_28030,sigma factor
+SigH,BSU_40310,sigma factor
+SigH,BSU_35310,sigma factor
+SigH,BSU_36640,sigma factor
+SigH,BSU_10750,sigma factor
+SigH,BSU_00490,sigma factor
+SigH,BSU_15280,sigma factor
+SigH,BSU_18920,sigma factor
+SigH,BSU_22790,sigma factor
+SigH,BSU_28000,sigma factor
+SigH,BSU_33040,sigma factor
+SigH,BSU_37130,sigma factor
+SigH,BSU_03780,sigma factor
+SigH,BSU_39330,sigma factor
+SigH,BSU_25200,sigma factor
+SigH,BSU_40300,sigma factor
+SigH,BSU_37030,sigma factor
+SigH,BSU_05010,sigma factor
+SigH,BSU_37460,sigma factor
+SigH,BSU_36660,sigma factor
+SigH,BSU_23460,sigma factor
+SigH,BSU_18350,sigma factor
+SigH,BSU_05020,sigma factor
+SigH,BSU_29770,sigma factor
+SigH,BSU_27990,sigma factor
+SigH,BSU_25210,sigma factor
+SigH,BSU_15290,sigma factor
+SigH,BSU_24220,sigma factor
+SigH,BSU_28020,sigma factor
+SigH,BSU_10760,sigma factor
+SigH,BSU_36650,sigma factor
+SigH,BSU_25230,sigma factor
+SigH,BSU_28010,sigma factor
+SigH,BSU_38090,sigma factor
+SigH,BSU_13990,sigma factor
+SigH,BSU_23470,sigma factor
+SigH,BSU_09420,sigma factor
+SigH,BSU_25840,sigma factor
+SigH,BSU_08760,sigma factor
+SigH,BSU_19410,sigma factor
+SigH,BSU_18360,sigma factor
+SigH,BSU_23450,sigma factor
+SigH,BSU_03770,sigma factor
+TreR,BSU_07810,repression
+TreR,BSU_07800,repression
+TreR,BSU_07820,repression
+ImmR,BSU_04890,repression
+ImmR,BSU_04870,repression
+ImmR,BSU_04920,repression
+ImmR,BSU_04839,repression
+ImmR,BSU_04960,repression
+ImmR,BSU_04840,repression
+ImmR,BSU_04950,repression
+ImmR,BSU_04910,repression
+ImmR,BSU_04930,repression
+ImmR,BSU_04830,repression
+ImmR,BSU_04970,repression
+ImmR,BSU_04850,repression
+ImmR,BSU_04990,repression
+ImmR,BSU_04900,repression
+ImmR,BSU_04940,repression
+ImmR,BSU_04880,repression
+ImmR,BSU_04860,repression
+ImmR,BSU_04980,repression
+MtrB,BSU_22670,termination/antitermination
+MtrB,BSU_22610,termination/antitermination
+MtrB,BSU_22600,termination/antitermination
+MtrB,BSU_22630,termination/antitermination
+MtrB,BSU_22680,termination/antitermination
+MtrB,BSU_22660,termination/antitermination
+MtrB,BSU_22620,termination/antitermination
+MtrB,BSU_22650,termination/antitermination
+MtrB,BSU_22640,termination/antitermination
+LicR,BSU_38580,activation
+LicR,BSU_38570,activation
+LicR,BSU_38560,activation
+LicR,BSU_38590,activation
+CitB,BSU_38150,mRNA binding
+CitB,BSU_38170,mRNA binding
+CitB,BSU_38160,mRNA binding
+CitB,BSU_29130,mRNA destabilization
+CitB,BSU_38140,mRNA binding
+CitB,BSU_29120,mRNA destabilization
+CitB,BSU_28410,mRNA binding
+CitB,BSU_29140,mRNA destabilization
+Thi-box,BSU_13240,RNA switch
+Thi-box,BSU_11660,RNA switch
+Thi-box,BSU_11670,RNA switch
+Thi-box,BSU_13230,RNA switch
+Thi-box,BSU_13210,RNA switch
+Thi-box,BSU_11680,RNA switch
+Thi-box,BSU_11690,RNA switch
+Thi-box,BSU_15350,RNA switch
+Thi-box,BSU_11650,RNA switch
+Thi-box,BSU_08790,RNA switch
+Thi-box,BSU_11710,RNA switch
+Thi-box,BSU_11700,RNA switch
+Thi-box,BSU_30990,RNA switch
+Thi-box,BSU_13220,RNA switch
+CcpA,BSU_12340,repression
+CcpA,BSU_10270,repression
+CcpA,BSU_07610,repression
+CcpA,BSU_31190,repression
+CcpA,BSU_34140,repression
+CcpA,BSU_37470,repression
+CcpA,BSU_28530,repression
+CcpA,BSU_12380,repression
+CcpA,BSU_04700,repression
+CcpA,BSU_14880,repression
+CcpA,BSU_29630,repression
+CcpA,BSU_39690,repression
+CcpA,BSU_08070,repression
+CcpA,BSU_08190,repression
+CcpA,BSU_02130,repression
+CcpA,BSU_28760,repression
+CcpA,BSU_05830,repression
+CcpA,BSU_23120,repression
+CcpA,BSU_30290,repression
+CcpA,BSU_34730,repression
+CcpA,BSU_12430,repression
+CcpA,BSU_38040,repression
+CcpA,BSU_38810,repression
+CcpA,BSU_39720,repression
+CcpA,BSU_23490,repression
+CcpA,BSU_29680,repression
+CcpA,BSU_23110,repression
+CcpA,BSU_35080,repression
+CcpA,BSU_33960,repression
+CcpA,BSU_15100,repression
+CcpA,BSU_35950,repression
+CcpA,BSU_22090,repression
+CcpA,BSU_28250,activation
+CcpA,BSU_17610,repression
+CcpA,BSU_29670,repression
+CcpA,BSU_08110,repression
+CcpA,BSU_28780,repression
+CcpA,BSU_18960,repression
+CcpA,BSU_04730,repression
+CcpA,BSU_23150,repression
+CcpA,BSU_32830,repression
+CcpA,BSU_38580,repression
+CcpA,BSU_38820,repression
+CcpA,BSU_28300,activation
+CcpA,BSU_28720,repression
+CcpA,BSU_38730,repression
+CcpA,BSU_22550,repression
+CcpA,BSU_08060,repression
+CcpA,BSU_14140,repression
+CcpA,BSU_14900,repression
+CcpA,BSU_39730,repression
+CcpA,BSU_04690,repression
+CcpA,BSU_12350,repression
+CcpA,BSU_25890,repression
+CcpA,BSU_29100,repression
+CcpA,BSU_28910,repression
+CcpA,BSU_39740,repression
+CcpA,BSU_22130,repression
+CcpA,BSU_24120,repression
+CcpA,BSU_27750,repression
+CcpA,BSU_38190,repression
+CcpA,BSU_28540,repression
+CcpA,BSU_05870,repression
+CcpA,BSU_14110,repression
+CcpA,BSU_39360,repression
+CcpA,BSU_35490,activation
+CcpA,BSU_40310,repression
+CcpA,BSU_38980,repression
+CcpA,BSU_28730,repression
+CcpA,BSU_30260,repression
+CcpA,BSU_29710,repression
+CcpA,BSU_35010,repression
+CcpA,BSU_39270,repression
+CcpA,BSU_28520,repression
+CcpA,BSU_27030,repression
+CcpA,BSU_34780,repression
+CcpA,BSU_40080,repression
+CcpA,BSU_31220,repression
+CcpA,BSU_34160,repression
+CcpA,BSU_28800,repression
+CcpA,BSU_09300,repression
+CcpA,BSU_34750,repression
+CcpA,BSU_05810,repression
+CcpA,BSU_04680,repression
+CcpA,BSU_32840,repression
+CcpA,BSU_19370,repression
+CcpA,BSU_08200,repression
+CcpA,BSU_14040,repression
+CcpA,BSU_24160,repression
+CcpA,BSU_07560,repression
+CcpA,BSU_06960,repression
+CcpA,BSU_19030,repression
+CcpA,BSU_28810,repression
+CcpA,BSU_17570,repression
+CcpA,BSU_35500,activation
+CcpA,BSU_27050,repression
+CcpA,BSU_39340,repression
+CcpA,BSU_17600,repression
+CcpA,BSU_29690,repression
+CcpA,BSU_39250,repression
+CcpA,BSU_28280,activation
+CcpA,BSU_28260,activation
+CcpA,BSU_38570,repression
+CcpA,BSU_35050,repression
+CcpA,BSU_35960,repression
+CcpA,BSU_16120,repression
+CcpA,BSU_34200,repression
+CcpA,BSU_03040,repression
+CcpA,BSU_03780,repression
+CcpA,BSU_30270,repression
+CcpA,BSU_34120,repression
+CcpA,BSU_23140,repression
+CcpA,BSU_35920,repression
+CcpA,BSU_28290,activation
+CcpA,BSU_39260,repression
+CcpA,BSU_27060,repression
+CcpA,BSU_28510,repression
+CcpA,BSU_09880,repression
+CcpA,BSU_08180,repression
+CcpA,BSU_28900,repression
+CcpA,BSU_06940,repression
+CcpA,BSU_22540,repression
+CcpA,BSU_34130,repression
+CcpA,BSU_39330,repression
+CcpA,BSU_29130,repression
+CcpA,BSU_28560,repression
+CcpA,BSU_39380,repression
+CcpA,BSU_12330,repression
+CcpA,BSU_37460,repression
+CcpA,BSU_31210,repression
+CcpA,BSU_22570,repression
+CcpA,BSU_23070,activation
+CcpA,BSU_04740,repression
+CcpA,BSU_05880,repression
+CcpA,BSU_35910,repression
+CcpA,BSU_04160,repression
+CcpA,BSU_16110,repression
+CcpA,BSU_39070,repression
+CcpA,BSU_25190,repression
+CcpA,BSU_29120,repression
+CcpA,BSU_35940,repression
+CcpA,BSU_12440,repression
+CcpA,BSU_35020,repression
+CcpA,BSU_27040,repression
+CcpA,BSU_28740,repression
+CcpA,BSU_12370,repression
+CcpA,BSU_12320,repression
+CcpA,BSU_14930,repression
+CcpA,BSU_12360,repression
+CcpA,BSU_05850,repression
+CcpA,BSU_39700,repression
+CcpA,BSU_39350,repression
+CcpA,BSU_34760,repression
+CcpA,BSU_39680,repression
+CcpA,BSU_31180,repression
+CcpA,BSU_20850,repression
+CcpA,BSU_10770,repression
+CcpA,BSU_09290,repression
+CcpA,BSU_07810,repression
+CcpA,BSU_28770,repression
+CcpA,BSU_40300,repression
+CcpA,BSU_37790,repression
+CcpA,BSU_22560,repression
+CcpA,BSU_06950,repression
+CcpA,BSU_19360,repression
+CcpA,BSU_34770,repression
+CcpA,BSU_38560,repression
+CcpA,BSU_40070,repression
+CcpA,BSU_12310,repression
+CcpA,BSU_39710,repression
+CcpA,BSU_07840,repression
+CcpA,BSU_04720,repression
+CcpA,BSU_14120,repression
+CcpA,BSU_08100,repression
+CcpA,BSU_04670,repression
+CcpA,BSU_18010,repression
+CcpA,BSU_39420,repression
+CcpA,BSU_25840,repression
+CcpA,BSU_28550,repression
+CcpA,BSU_28310,activation
+CcpA,BSU_38990,repression
+CcpA,BSU_27760,repression
+CcpA,BSU_28790,repression
+CcpA,BSU_38590,repression
+CcpA,BSU_28710,repression
+CcpA,BSU_24150,repression
+CcpA,BSU_39370,repression
+CcpA,BSU_29110,repression
+CcpA,BSU_38030,repression
+CcpA,BSU_23560,repression
+CcpA,BSU_29140,repression
+CcpA,BSU_34150,repression
+CcpA,BSU_31200,repression
+CcpA,BSU_22140,repression
+CcpA,BSU_12390,repression
+CcpA,BSU_14910,repression
+CcpA,BSU_39390,repression
+CcpA,BSU_28270,activation
+CcpA,BSU_38760,repression
+CcpA,BSU_07620,repression
+CcpA,BSU_39400,repression
+CcpA,BSU_22120,repression
+CcpA,BSU_04710,repression
+CcpA,BSU_29700,repression
+CcpA,BSU_17580,repression
+CcpA,BSU_30280,repression
+CcpA,BSU_08090,repression
+CcpA,BSU_37660,activation
+CcpA,BSU_35930,repression
+CcpA,BSU_39670,repression
+CcpA,BSU_08080,repression
+CcpA,BSU_06660,activation
+CcpA,BSU_05860,repression
+CcpA,BSU_30300,repression
+CcpA,BSU_16090,repression
+CcpA,BSU_39760,repression
+CcpA,BSU_40060,repression
+CcpA,BSU_09280,repression
+CcpA,BSU_02140,repression
+CcpA,BSU_38770,repression
+CcpA,BSU_24130,repression
+CcpA,BSU_35030,repression
+CcpA,BSU_07800,repression
+CcpA,BSU_25880,repression
+CcpA,BSU_27070,repression
+CcpA,BSU_38740,repression
+CcpA,BSU_22100,repression
+CcpA,BSU_28460,mechanism unknown
+CcpA,BSU_39000,repression
+CcpA,BSU_29470,activation
+CcpA,BSU_22110,repression
+CcpA,BSU_38200,repression
+CcpA,BSU_04470,repression
+CcpA,BSU_38750,repression
+CcpA,BSU_39750,repression
+CcpA,BSU_05820,repression
+CcpA,BSU_24140,repression
+CcpA,BSU_40050,repression
+CcpA,BSU_28750,repression
+CcpA,BSU_24170,repression
+CcpA,BSU_23550,repression
+CcpA,BSU_14100,repression
+CcpA,BSU_03770,repression
+CcpA,BSU_12300,repression
+CcpA,BSU_23500,repression
+CcpA,BSU_14890,repression
+CcpA,BSU_05840,repression
+CcpA,BSU_38970,repression
+CcpA,BSU_28700,repression
+CcpA,BSU_39410,repression
+CcpA,BSU_32820,repression
+CcpA,BSU_12000,repression
+CcpA,BSU_14130,repression
+CcpA,BSU_35090,repression
+CcpA,BSU_38050,repression
+CcpA,BSU_14920,repression
+CcpA,BSU_23130,repression
+CcpA,BSU_19410,repression
+CcpA,BSU_34740,repression
+CcpA,BSU_16100,repression
+CcpA,BSU_18000,repression
+CcpA,BSU_07820,repression
+AbrB,BSU_24640,repression
+AbrB,BSU_14890,repression
+AbrB,BSU_34390,repression
+AbrB,BSU_40180,repression
+AbrB,BSU_02330,repression
+AbrB,BSU_17140,repression
+AbrB,BSU_34350,repression
+AbrB,BSU_14920,repression
+AbrB,BSU_01970,repression
+AbrB,BSU_33750,repression
+AbrB,BSU_23470,repression
+AbrB,BSU_07480,repression
+AbrB,BSU_17220,repression
+AbrB,BSU_17200,repression
+AbrB,BSU_07450,repression
+AbrB,BSU_02050,repression
+AbrB,BSU_24630,repression
+AbrB,BSU_37780,repression
+AbrB,BSU_39900,repression
+AbrB,BSU_32540,repression
+AbrB,BSU_23450,repression
+AbrB,BSU_31080,repression
+AbrB,BSU_39890,repression
+AbrB,BSU_14880,repression
+AbrB,BSU_21480,repression
+AbrB,BSU_34240,repression
+AbrB,BSU_05830,activation
+AbrB,BSU_02310,repression
+AbrB,BSU_18330,repression
+AbrB,BSU_09890,repression
+AbrB,BSU_19410,repression
+AbrB,BSU_14900,repression
+AbrB,BSU_12040,repression
+AbrB,BSU_14340,repression
+AbrB,BSU_14750,repression
+AbrB,BSU_35950,activation
+AbrB,BSU_19800,repression
+AbrB,BSU_21440,repression
+AbrB,BSU_37400,repression
+AbrB,BSU_00490,repression
+AbrB,BSU_26820,repression
+AbrB,BSU_37410,repression
+AbrB,BSU_05200,repression
+AbrB,BSU_34850,repression
+AbrB,BSU_34320,repression
+AbrB,BSU_22550,repression
+AbrB,BSU_05840,activation
+AbrB,BSU_37690,repression
+AbrB,BSU_37430,repression
+AbrB,BSU_37730,repression
+AbrB,BSU_17240,repression
+AbrB,BSU_00370,repression
+AbrB,BSU_20580,repression
+AbrB,BSU_00990,repression
+AbrB,BSU_02490,repression
+AbrB,BSU_25890,repression
+AbrB,BSU_01920,repression
+AbrB,BSU_02480,repression
+AbrB,BSU_24600,repression
+AbrB,BSU_39910,repression
+AbrB,BSU_37800,repression
+AbrB,BSU_18920,repression
+AbrB,BSU_31250,repression
+AbrB,BSU_05870,activation
+AbrB,BSU_02470,repression
+AbrB,BSU_17690,repression
+AbrB,BSU_01950,repression
+AbrB,BSU_09720,repression
+AbrB,BSU_34250,repression
+AbrB,BSU_39930,repression
+AbrB,BSU_36460,repression
+AbrB,BSU_09990,activation
+AbrB,BSU_33280,repression
+AbrB,BSU_15330,repression
+AbrB,BSU_31959,repression
+AbrB,BSU_40080,activation
+AbrB,BSU_03950,repression
+AbrB,BSU_01730,repression
+AbrB,BSU_18780,repression
+AbrB,BSU_37370,repression
+AbrB,BSU_39950,repression
+AbrB,BSU_09300,activation
+AbrB,BSU_36250,repression
+AbrB,BSU_17100,repression
+AbrB,BSU_06200,repression
+AbrB,BSU_05810,activation
+AbrB,BSU_17160,repression
+AbrB,BSU_07460,repression
+AbrB,BSU_36230,repression
+AbrB,BSU_14940,repression
+AbrB,BSU_19030,repression
+AbrB,BSU_21580,repression
+AbrB,BSU_34840,repression
+AbrB,BSU_39880,repression
+AbrB,BSU_01000,repression
+AbrB,BSU_39920,repression
+AbrB,BSU_18320,repression
+AbrB,BSU_14360,repression
+AbrB,BSU_40140,repression
+AbrB,BSU_23480,repression
+AbrB,BSU_23460,repression
+AbrB,BSU_17170,repression
+AbrB,BSU_32000,repression
+AbrB,BSU_34290,repression
+AbrB,BSU_35050,repression
+AbrB,BSU_34230,repression
+AbrB,BSU_35960,activation
+AbrB,BSU_21560,repression
+AbrB,BSU_03040,activation
+AbrB,BSU_21340,repression
+AbrB,BSU_06830,repression
+AbrB,BSU_34300,repression
+AbrB,BSU_01510,repression
+AbrB,BSU_37700,repression
+AbrB,BSU_33260,repression
+AbrB,BSU_17250,repression
+AbrB,BSU_37360,repression
+AbrB,BSU_31980,repression
+AbrB,BSU_35920,activation
+AbrB,BSU_09700,repression
+AbrB,BSU_10420,repression
+AbrB,BSU_09900,repression
+AbrB,BSU_11910,repression
+AbrB,BSU_11990,repression
+AbrB,BSU_09710,repression
+AbrB,BSU_15320,repression
+AbrB,BSU_10300,repression
+AbrB,BSU_37420,repression
+AbrB,BSU_34265,repression
+AbrB,BSU_22540,repression
+AbrB,BSU_21550,repression
+AbrB,BSU_17180,repression
+AbrB,BSU_04990,repression
+AbrB,BSU_13640,repression
+AbrB,BSU_32010,repression
+AbrB,BSU_34330,repression
+AbrB,BSU_01980,repression
+AbrB,BSU_05880,activation
+AbrB,BSU_17210,repression
+AbrB,BSU_18310,repression
+AbrB,BSU_40150,repression
+AbrB,BSU_37770,repression
+AbrB,BSU_34310,repression
+AbrB,BSU_33790,repression
+AbrB,BSU_35910,activation
+AbrB,BSU_34340,repression
+AbrB,BSU_18150,repression
+AbrB,BSU_31970,repression
+AbrB,BSU_07735,repression
+AbrB,BSU_02520,repression
+AbrB,BSU_25190,repression
+AbrB,BSU_35940,activation
+AbrB,BSU_34220,repression
+AbrB,BSU_21540,repression
+AbrB,BSU_37710,repression
+AbrB,BSU_40170,repression
+AbrB,BSU_35060,repression
+AbrB,BSU_21530,repression
+AbrB,BSU_14220,repression
+AbrB,BSU_21570,repression
+AbrB,BSU_35070,repression
+AbrB,BSU_17130,repression
+AbrB,BSU_31240,repression
+AbrB,BSU_14240,repression
+AbrB,BSU_07750,repression
+AbrB,BSU_39940,repression
+AbrB,BSU_14930,repression
+AbrB,BSU_02460,repression
+AbrB,BSU_05850,activation
+AbrB,BSU_13980,repression
+AbrB,BSU_20420,repression
+AbrB,BSU_37380,repression
+AbrB,BSU_34370,repression
+AbrB,BSU_02320,repression
+AbrB,BSU_02500,repression
+AbrB,BSU_06190,repression
+AbrB,BSU_37790,repression
+AbrB,BSU_22560,repression
+AbrB,BSU_34280,repression
+AbrB,BSU_25220,repression
+AbrB,BSU_15960,repression
+AbrB,BSU_33270,repression
+AbrB,BSU_17920,repression
+AbrB,BSU_37390,repression
+AbrB,BSU_37350,repression
+AbrB,BSU_33140,repression
+AbrB,BSU_24650,repression
+AbrB,BSU_40070,activation
+AbrB,BSU_38350,repression
+AbrB,BSU_03960,repression
+AbrB,BSU_09290,activation
+AbrB,BSU_25860,repression
+AbrB,BSU_40030,repression
+AbrB,BSU_01910,repression
+AbrB,BSU_25870,repression
+AbrB,BSU_39590,repression
+AbrB,BSU_18300,repression
+AbrB,BSU_06839,repression
+AbrB,BSU_14700,repression
+AbrB,BSU_06640,repression
+AbrB,BSU_10560,repression
+AbrB,BSU_06180,repression
+AbrB,BSU_17110,repression
+AbrB,BSU_15640,repression
+AbrB,BSU_18160,repression
+AbrB,BSU_19210,repression
+AbrB,BSU_36260,repression
+AbrB,BSU_02700,repression
+AbrB,BSU_40040,repression
+AbrB,BSU_25840,repression
+AbrB,BSU_26230,repression
+AbrB,BSU_37720,repression
+AbrB,BSU_07720,repression
+AbrB,BSU_31990,repression
+AbrB,BSU_00980,repression
+AbrB,BSU_17190,repression
+AbrB,BSU_34830,repression
+AbrB,BSU_35930,activation
+AbrB,BSU_22810,repression
+AbrB,BSU_38790,repression
+AbrB,BSU_14910,repression
+AbrB,BSU_33780,repression
+AbrB,BSU_14350,repression
+AbrB,BSU_38130,repression
+AbrB,BSU_21460,repression
+AbrB,BSU_38340,repression
+AbrB,BSU_17120,repression
+AbrB,BSU_14370,repression
+AbrB,BSU_28890,repression
+AbrB,BSU_18340,repression
+AbrB,BSU_33760,repression
+AbrB,BSU_34380,repression
+AbrB,BSU_17150,repression
+AbrB,BSU_21520,repression
+AbrB,BSU_03940,repression
+AbrB,BSU_02040,repression
+AbrB,BSU_27190,repression
+AbrB,BSU_31960,repression
+AbrB,BSU_40160,repression
+AbrB,BSU_05860,activation
+AbrB,BSU_21450,repression
+AbrB,BSU_22820,repression
+AbrB,BSU_39870,repression
+AbrB,BSU_37760,repression
+AbrB,BSU_02780,repression
+AbrB,BSU_40060,activation
+AbrB,BSU_24610,repression
+AbrB,BSU_01740,repression
+AbrB,BSU_36240,repression
+AbrB,BSU_34360,repression
+AbrB,BSU_26890,repression
+AbrB,BSU_25880,repression
+AbrB,BSU_24620,repression
+AbrB,BSU_01935,repression
+AbrB,BSU_05220,repression
+AbrB,BSU_12080,repression
+AbrB,BSU_15310,repression
+AbrB,BSU_14230,repression
+AbrB,BSU_19170,repression
+AbrB,BSU_21470,repression
+AbrB,BSU_05820,activation
+AbrB,BSU_02510,repression
+AbrB,BSU_33770,repression
+AbrB,BSU_09280,activation
+AbrB,BSU_40050,activation
+AbrB,BSU_37740,repression
+AbrB,BSU_33410,repression
+AbrB,BSU_18910,repression
+AbrB,BSU_01960,repression
+AbrB,BSU_06240,repression
+AbrB,BSU_06210,repression
+LutR,BSU_34050,repression
+LutR,BSU_24620,activation
+LutR,BSU_31080,activation
+LutR,BSU_24630,activation
+LutR,BSU_24640,activation
+LutR,BSU_34190,repression
+LutR,BSU_34030,repression
+LutR,BSU_34040,repression
+RplL,BSU_01050,termination
+RplL,BSU_01040,termination
+SigX,BSU_16950,sigma factor
+SigX,BSU_38250,sigma factor
+SigX,BSU_36530,sigma factor
+SigX,BSU_00600,sigma factor
+SigX,BSU_02280,sigma factor
+SigX,BSU_08600,sigma factor
+SigX,BSU_38500,sigma factor
+SigX,BSU_38270,sigma factor
+SigX,BSU_38510,sigma factor
+SigX,BSU_02900,sigma factor
+SigX,BSU_27180,sigma factor
+SigX,BSU_02910,sigma factor
+SigX,BSU_36380,sigma factor
+SigX,BSU_00580,sigma factor
+SigX,BSU_35650,sigma factor
+SigX,BSU_00630,sigma factor
+SigX,BSU_11500,sigma factor
+SigX,BSU_08610,sigma factor
+SigX,BSU_00610,sigma factor
+SigX,BSU_38260,sigma factor
+SigX,BSU_36540,sigma factor
+SigX,BSU_02270,sigma factor
+SigX,BSU_27170,sigma factor
+SigX,BSU_27160,sigma factor
+SigX,BSU_02920,sigma factor
+SigX,BSU_02890,sigma factor
+SigX,BSU_23090,sigma factor
+SigX,BSU_02930,sigma factor
+SigX,BSU_38530,sigma factor
+SigX,BSU_00590,sigma factor
+SigX,BSU_00570,sigma factor
+SigX,BSU_02290,sigma factor
+SigX,BSU_23100,sigma factor
+SigX,BSU_38520,sigma factor
+SigX,BSU_38540,sigma factor
+SigX,BSU_11490,sigma factor
+SigX,BSU_38280,sigma factor
+SigX,BSU_00620,sigma factor
+SigX,BSU_14480,sigma factor
+SigX,BSU_38499,sigma factor
+SigX,BSU_02940,sigma factor
+SigX,BSU_02260,sigma factor
+CitR,BSU_09440,repression
+CitR,BSU_09450,repression
+YkkC riboswitch,BSU_13100,antitermination
+YkkC riboswitch,BSU_13090,antitermination
+BmrB,BSU_09720,attenuation
+BmrB,BSU_09700,attenuation
+BmrB,BSU_09710,attenuation
+DeoR,BSU_39410,repression
+DeoR,BSU_39420,repression
+DeoR,BSU_39400,repression
+Btr,BSU_01610,activation
+Btr,BSU_01620,activation
+Btr,BSU_01630,activation
+Btr,BSU_01600,activation
+SacY,BSU_38420,antitermination
+SacY,BSU_34460,antitermination
+SacY,BSU_34450,antitermination
+SacY,BSU_38410,antitermination
+NsrR,BSU_37310,repression
+NsrR,BSU_03310,repression
+NsrR,BSU_03280,repression
+NsrR,BSU_14150,repression
+NsrR,BSU_37320,repression
+NsrR,BSU_03300,repression
+NsrR,BSU_14170,repression
+NsrR,BSU_03290,repression
+NsrR,BSU_13040,repression
+NsrR,BSU_03320,repression
+NsrR,BSU_13360,repression
+NsrR,BSU_14160,repression
+RatA,BSU_26050,antisense RNA
+YdfI,BSU_05430,activation
+DesR,BSU_19180,activation
+ManR,BSU_12030,activation
+ManR,BSU_12020,activation
+ManR,BSU_12010,activation
+ManR,BSU_12000,activation
+YxdJ,BSU_39630,activation
+YxdJ,BSU_39620,activation
+YxdJ,BSU_39640,activation
+YlxR,BSU_32550,regulation
+YlxR,BSU_11190,regulation
+YlxR,BSU_32610,regulation
+YlxR,BSU_32570,regulation
+YlxR,BSU_23960,regulation
+YlxR,BSU_11240,regulation
+YlxR,BSU_32600,regulation
+YlxR,BSU_29440,regulation
+YlxR,BSU_10230,regulation
+YlxR,BSU_13130,regulation
+YlxR,BSU_34900,regulation
+YlxR,BSU_23980,regulation
+YlxR,BSU_32580,regulation
+YlxR,BSU_32590,regulation
+YlxR,BSU_19639,regulation
+YlxR,BSU_11200,regulation
+YlxR,BSU_31590,regulation
+YlxR,BSU_34910,regulation
+YlxR,BSU_08880,regulation
+YlxR,BSU_34870,regulation
+YlxR,BSU_34860,regulation
+YlxR,BSU_11220,regulation
+YlxR,BSU_33830,regulation
+YlxR,BSU_34920,regulation
+YlxR,BSU_23970,regulation
+YlxR,BSU_13120,regulation
+YlxR,BSU_33820,regulation
+YlxR,BSU_11210,regulation
+YlxR,BSU_34930,regulation
+YlxR,BSU_34880,regulation
+YlxR,BSU_11230,regulation
+YlxR,BSU_34890,regulation
+YlxR,BSU_33800,regulation
+YlxR,BSU_33810,regulation
+YlxR,BSU_29450,regulation
+YlxR,BSU_11250,regulation
+RhaR,BSU_31220,repression
+RhaR,BSU_31210,repression
+RhaR,BSU_31180,repression
+RhaR,BSU_31200,repression
+RhaR,BSU_31190,repression
+BirA,BSU_32030,repression
+BirA,BSU_30220,repression
+BirA,BSU_10360,repression
+BirA,BSU_10370,repression
+BirA,BSU_30200,repression
+BirA,BSU_30230,repression
+BirA,BSU_30210,repression
+BirA,BSU_30180,repression
+BirA,BSU_30240,repression
+BirA,BSU_10350,repression
+BirA,BSU_10340,repression
+BirA,BSU_30190,repression
+ScoC,BSU_11450,repression
+ScoC,BSU_37740,repression
+ScoC,BSU_38400,repression
+ScoC,BSU_35450,repression
+ScoC,BSU_35390,repression
+ScoC,BSU_11390,repression
+ScoC,BSU_11400,repression
+ScoC,BSU_11430,repression
+ScoC,BSU_29100,repression
+ScoC,BSU_37690,repression
+ScoC,BSU_37730,repression
+ScoC,BSU_24600,repression
+ScoC,BSU_11370,repression
+ScoC,BSU_11360,repression
+ScoC,BSU_10300,repression
+ScoC,BSU_11440,repression
+ScoC,BSU_35400,repression
+ScoC,BSU_35360,repression
+ScoC,BSU_29600,repression
+ScoC,BSU_11460,repression
+ScoC,BSU_37700,repression
+ScoC,BSU_35460,repression
+ScoC,BSU_25760,repression
+ScoC,BSU_37710,repression
+ScoC,BSU_14700,repression
+ScoC,BSU_03670,repression
+ScoC,BSU_35410,repression
+ScoC,BSU_35420,repression
+ScoC,BSU_35470,repression
+ScoC,BSU_11381,repression
+ScoC,BSU_35440,repression
+ScoC,BSU_29110,repression
+ScoC,BSU_35380,repression
+ScoC,BSU_37720,repression
+ScoC,BSU_11470,repression
+ScoC,BSU_24610,repression
+ScoC,BSU_35430,repression
+ScoC,BSU_11382,repression
+ScoC,BSU_35370,repression
+Fur,BSU_08450,repression
+Fur,BSU_03820,repression
+Fur,BSU_05899,repression
+Fur,BSU_01610,repression
+Fur,BSU_37230,repression
+Fur,BSU_03310,repression
+Fur,BSU_18630,repression
+Fur,BSU_01620,repression
+Fur,BSU_07520,repression
+Fur,BSU_31959,repression
+Fur,BSU_07500,repression
+Fur,BSU_03280,repression
+Fur,BSU_33300,repression
+Fur,BSU_01630,repression
+Fur,BSU_14150,repression
+Fur,BSU_38260,repression
+Fur,BSU_01600,repression
+Fur,BSU_32000,repression
+Fur,BSU_10330,repression
+Fur,BSU_03800,repression
+Fur,BSU_37240,repression
+Fur,BSU_31980,repression
+Fur,BSU_32940,repression
+Fur,BSU_03300,repression
+Fur,BSU_14170,repression
+Fur,BSU_07850,repression
+Fur,BSU_03290,repression
+Fur,BSU_33320,repression
+Fur,BSU_32010,repression
+Fur,BSU_31970,repression
+Fur,BSU_18440,indirect effect
+Fur,BSU_04530,repression
+Fur,BSU_03270,repression
+Fur,BSU_07490,repression
+Fur,BSU_07530,repression
+Fur,BSU_38280,repression
+Fur,BSU_33310,repression
+Fur,BSU_03810,repression
+Fur,BSU_13850,repression
+Fur,BSU_31990,repression
+Fur,BSU_08460,repression
+Fur,BSU_39610,repression
+Fur,BSU_03320,repression
+Fur,BSU_13360,repression
+Fur,BSU_07150,repression
+Fur,BSU_31960,repression
+Fur,BSU_33290,repression
+Fur,BSU_18450,indirect effect
+Fur,BSU_05890,repression
+Fur,BSU_03830,repression
+Fur,BSU_38270,repression
+Fur,BSU_07510,repression
+Fur,BSU_08230,repression
+Fur,BSU_01640,repression
+Fur,BSU_37220,repression
+Fur,BSU_32930,repression
+Fur,BSU_08480,repression
+Fur,BSU_08240,repression
+Fur,BSU_08440,repression
+Fur,BSU_14160,repression
+Fur,BSU_04470,indirect effect
+LicT,BSU_39270,anti-termination
+LicT,BSU_39250,anti-termination
+LicT,BSU_39260,anti-termination
+LicT,BSU_39070,antitermination
+GamR,BSU_02370,repression
+GamR,BSU_02380,repression
+GamR,BSU_02350,repression
+GamR,BSU_02360,repression
+CysL,BSU_33440,activation
+CysL,BSU_33430,activation
+CysL,BSU_37650,auto-repression
+FapR,BSU_11340,repression
+FapR,BSU_09540,repression
+FapR,BSU_15910,repression
+FapR,BSU_15900,repression
+FapR,BSU_15890,repression
+FapR,BSU_11720,repression
+FapR,BSU_15880,repression
+FapR,BSU_10170,repression
+FapR,BSU_11330,repression
+FapR,BSU_09530,repression
+FapR,BSU_15920,repression
+NrdR,BSU_17370,repression
+NrdR,BSU_17380,repression
+NrdR,BSU_17390,repression
+NrdR,BSU_17400,repression
+CcpC,BSU_14140,repression
+CcpC,BSU_29130,repression
+CcpC,BSU_29120,repression
+CcpC,BSU_18010,repression
+CcpC,BSU_29140,repression
+CcpC,BSU_18000,repression
+MntR,BSU_30770,repression
+MntR,BSU_30740,repression
+MntR,BSU_04360,repression
+MntR,BSU_06320,transcription activation
+MntR,BSU_30760,repression
+MntR,BSU_30750,repression
+MntR,BSU_05470,transcription activation
+a-box,BSU_05800,termination/antitermination
+B12 riboswitch,BSU_33160,termination
+B12 riboswitch,BSU_33150,termination
+B12 riboswitch,BSU_33180,termination
+B12 riboswitch,BSU_33170,termination
+EAR riboswitch,BSU_34360,processive antitermination
+EAR riboswitch,BSU_34350,processive antitermination
+EAR riboswitch,BSU_34240,processive antitermination
+EAR riboswitch,BSU_34250,processive antitermination
+EAR riboswitch,BSU_34320,processive antitermination
+EAR riboswitch,BSU_34290,processive antitermination
+EAR riboswitch,BSU_34230,processive antitermination
+EAR riboswitch,BSU_34300,processive antitermination
+EAR riboswitch,BSU_34265,processive antitermination
+EAR riboswitch,BSU_34330,processive antitermination
+EAR riboswitch,BSU_34310,processive antitermination
+EAR riboswitch,BSU_34340,processive antitermination
+EAR riboswitch,BSU_34220,processive antitermination
+EAR riboswitch,BSU_34370,processive antitermination
+EAR riboswitch,BSU_34280,processive antitermination
+FMN-box,BSU_23260,transcription termination
+FMN-box,BSU_23270,transcription termination
+FMN-box,BSU_23250,transcription termination
+FMN-box,BSU_23280,transcription termination
+FMN-box,BSU_23050,transcription termination
+FMN-box,BSU_23240,transcription termination
+G-box,BSU_06510,termination
+G-box,BSU_06420,termination
+G-box,BSU_06450,termination
+G-box,BSU_39020,termination
+G-box,BSU_06530,termination
+G-box,BSU_06370,termination
+G-box,BSU_22060,termination
+G-box,BSU_06440,termination
+G-box,BSU_06520,termination
+G-box,BSU_06470,termination
+G-box,BSU_06430,termination
+G-box,BSU_06500,termination
+G-box,BSU_22070,termination
+G-box,BSU_06490,termination
+G-box,BSU_06480,termination
+G-box,BSU_06460,termination
+Gly-box,BSU_24550,termination
+Gly-box,BSU_24560,termination
+Gly-box,BSU_24570,termination
+L-box,BSU_33330,transcription termination/antitermination
+L-box,BSU_28470,transcription termination/antitermination
+M-box,BSU_13300,termination/antitermination
+preQ1 riboswitch,BSU_13730,antitermination
+preQ1 riboswitch,BSU_13750,antitermination
+preQ1 riboswitch,BSU_13740,antitermination
+preQ1 riboswitch,BSU_13720,antitermination
+RNA switch,BSU_37150,termination
+RNA switch,BSU_12030,termination/antitermination
+RNA switch,BSU_12020,termination/antitermination
+RNA switch,BSU_12010,termination/antitermination
+RNA switch,BSU_05610,
+S-box,BSU_13600,termination
+S-box,BSU_38960,termination
+S-box,BSU_13560,termination
+S-box,BSU_15590,termination
+S-box,BSU_15620,termination
+S-box,BSU_11870,transcription termination/ antitermination
+S-box,BSU_15610,termination
+S-box,BSU_30550,transcription termination
+S-box,BSU_13610,termination
+S-box,BSU_13180,termination
+S-box,BSU_38950,termination
+S-box,BSU_32730,transcription termination/ antitermination
+S-box,BSU_18550,termination
+S-box,BSU_15630,termination
+S-box,BSU_15580,termination
+S-box,BSU_13590,termination
+S-box,BSU_18560,termination
+S-box,BSU_15570,termination
+S-box,BSU_15600,termination
+S-box,BSU_11880,transcription termination/ antitermination
+S-box,BSU_13550,termination
+S-box,BSU_32740,transcription termination/ antitermination
+S-box,BSU_13620,termination
+S-box,BSU_32750,transcription termination/ antitermination
+S-box,BSU_11010,termination/antitermination
+S-box,BSU_18540,termination
+stringent response,BSU_12280,negative regulation
+stringent response,BSU_01220,negative regulation
+stringent response,BSU_38540,negative regulation
+stringent response,BSU_01020,negative regulation
+stringent response,BSU_01260,negative regulation
+stringent response,BSU_14600,negative regulation
+stringent response,BSU_16490,negative regulation
+stringent response,BSU_01360,negative regulation
+stringent response,BSU_15250,negative regulation
+stringent response,BSU_28860,negative regulation
+stringent response,BSU_31460,positive regulation
+stringent response,BSU_38499,negative regulation
+stringent response,BSU_36830,negative regulation
+stringent response,BSU_01500,negative regulation
+stringent response,BSU_24240,negative regulation
+stringent response,BSU_01250,negative regulation
+stringent response,BSU_14850,positive regulation
+stringent response,BSU_27960,negative regulation
+stringent response,BSU_01050,negative regulation
+stringent response,BSU_24270,negative regulation
+stringent response,BSU_14590,negative regulation
+stringent response,BSU_01120,negative regulation
+stringent response,BSU_00500,negative regulation
+stringent response,BSU_15820,negative regulation
+stringent response,BSU_14580,negative regulation
+stringent response,BSU_36820,negative regulation
+stringent response,BSU_15940,negative regulation
+stringent response,BSU_27610,negative regulation
+stringent response,BSU_01150,negative regulation
+stringent response,BSU_16040,negative regulation
+stringent response,BSU_27620,negative regulation
+stringent response,BSU_01490,negative regulation
+stringent response,BSU_38500,negative regulation
+stringent response,BSU_01080,negative regulation
+stringent response,BSU_38150,negative regulation
+stringent response,BSU_01390,negative regulation
+stringent response,BSU_01320,negative regulation
+stringent response,BSU_38510,negative regulation
+stringent response,BSU_01410,negative regulation
+stringent response,BSU_36860,negative regulation
+stringent response,BSU_40920,negative regulation
+stringent response,BSU_01330,negative regulation
+stringent response,BSU_01440,negative regulation
+stringent response,BSU_16600,negative regulation
+stringent response,BSU_15210,negative regulation
+stringent response,BSU_01200,negative regulation
+stringent response,BSU_01190,negative regulation
+stringent response,BSU_16620,negative regulation
+stringent response,BSU_15080,negative regulation
+stringent response,BSU_01480,negative regulation
+stringent response,BSU_27500,negative regulation
+stringent response,BSU_27520,negative regulation
+stringent response,BSU_36880,negative regulation
+stringent response,BSU_16690,negative regulation
+stringent response,BSU_29660,negative regulation
+stringent response,BSU_13890,negative regulation
+stringent response,BSU_01270,negative regulation
+stringent response,BSU_01430,negative regulation
+stringent response,BSU_16520,negative regulation
+stringent response,BSU_27950,negative regulation
+stringent response,BSU_01300,negative regulation
+stringent response,BSU_36010,positive regulation
+stringent response,BSU_31450,positive regulation
+stringent response,BSU_38170,negative regulation
+stringent response,BSU_28850,negative regulation
+stringent response,BSU_01310,negative regulation
+stringent response,BSU_28870,negative regulation
+stringent response,BSU_01210,negative regulation
+stringent response,BSU_36850,negative regulation
+stringent response,BSU_01070,negative regulation
+stringent response,BSU_16640,negative regulation
+stringent response,BSU_15990,negative regulation
+stringent response,BSU_00510,negative regulation
+stringent response,BSU_16650,negative regulation
+stringent response,BSU_01030,negative regulation
+stringent response,BSU_01350,negative regulation
+stringent response,BSU_40910,negative regulation
+stringent response,BSU_38160,negative regulation
+stringent response,BSU_24320,negative regulation
+stringent response,BSU_40900,negative regulation
+stringent response,BSU_15950,negative regulation
+stringent response,BSU_40890,negative regulation
+stringent response,BSU_15930,negative regulation
+stringent response,BSU_01160,negative regulation
+stringent response,BSU_38140,negative regulation
+stringent response,BSU_01420,negative regulation
+stringent response,BSU_16680,negative regulation
+stringent response,BSU_24310,negative regulation
+stringent response,BSU_01090,negative regulation
+stringent response,BSU_01130,negative regulation
+stringent response,BSU_16000,negative regulation
+stringent response,BSU_01389,negative regulation
+stringent response,BSU_15260,negative regulation
+stringent response,BSU_14780,negative regulation
+stringent response,BSU_01100,negative regulation
+stringent response,BSU_37070,negative regulation
+stringent response,BSU_01180,negative regulation
+stringent response,BSU_14610,negative regulation
+stringent response,BSU_16590,negative regulation
+stringent response,BSU_15240,negative regulation
+stringent response,BSU_36870,negative regulation
+stringent response,BSU_16630,negative regulation
+stringent response,BSU_00520,negative regulation
+stringent response,BSU_24250,negative regulation
+stringent response,BSU_27940,negative regulation
+stringent response,BSU_01290,negative regulation
+stringent response,BSU_16500,negative regulation
+stringent response,BSU_01110,negative regulation
+stringent response,BSU_23200,negative regulation
+stringent response,BSU_31390,negative regulation
+stringent response,BSU_36410,negative regulation
+stringent response,BSU_15230,negative regulation
+stringent response,BSU_16610,negative regulation
+stringent response,BSU_15190,negative regulation
+stringent response,BSU_14770,negative regulation
+stringent response,BSU_23220,negative regulation
+stringent response,BSU_01380,negative regulation
+stringent response,BSU_15070,negative regulation
+stringent response,BSU_01040,negative regulation
+stringent response,BSU_01370,negative regulation
+stringent response,BSU_36840,negative regulation
+stringent response,BSU_15270,negative regulation
+stringent response,BSU_27510,negative regulation
+stringent response,BSU_36800,negative regulation
+stringent response,BSU_38530,negative regulation
+stringent response,BSU_28230,negative regulation
+stringent response,BSU_36000,positive regulation
+stringent response,BSU_14860,positive regulation
+stringent response,BSU_13910,negative regulation
+stringent response,BSU_38520,negative regulation
+stringent response,BSU_28840,negative regulation
+stringent response,BSU_01340,negative regulation
+stringent response,BSU_01240,negative regulation
+stringent response,BSU_01230,negative regulation
+stringent response,BSU_13990,positive regulation
+stringent response,BSU_01400,negative regulation
+stringent response,BSU_36810,negative regulation
+stringent response,BSU_12290,negative regulation
+stringent response,BSU_01280,negative regulation
+stringent response,BSU_15200,negative regulation
+stringent response,BSU_01170,negative regulation
+stringent response,BSU_24260,negative regulation
+stringent response,BSU_13900,negative regulation
+stringent response,BSU_16510,negative regulation
+stringent response,BSU_15180,negative regulation
+stringent response,BSU_23210,negative regulation
+stringent response,BSU_15220,negative regulation
+T-box,BSU_28280,termination/antitermination
+T-box,BSU_28260,termination/antitermination
+T-box,BSU_38450,anti-termination
+T-box,BSU_15430,antitermination
+T-box,BSU_13130,anti-termination
+T-box,BSU_28290,termination/antitermination
+T-box,BSU_28090,transcription termination/antitermination
+T-box,BSU_38460,anti-termination
+T-box,BSU_30320,transcription antitermination
+T-box,BSU_00950,transcription antitermination
+T-box,BSU_37560,anti-termination
+T-box,BSU_02540,transcription termination/ antitermination
+T-box,BSU_27390,antitermination
+T-box,BSU_27380,antitermination
+T-box,BSU_25270,anti-termination
+T-box,BSU_00970,transcription antitermination
+T-box,BSU_28640,transcriptional antitermination
+T-box,BSU_27400,antitermination
+T-box,BSU_27550,transcriptional antitermination
+T-box,BSU_00920,transcription antitermination
+T-box,BSU_25260,anti-termination
+T-box,BSU_00960,transcription antitermination
+T-box,BSU_28310,termination/antitermination
+T-box,BSU_34010,anti-termination
+T-box,BSU_13120,anti-termination
+T-box,BSU_28270,termination/antitermination
+T-box,BSU_00130,anti-termination
+T-box,BSU_28950,anti-termination
+T-box,BSU_02530,transcription termination/ antitermination
+T-box,BSU_00940,transcription antitermination
+T-box,BSU_27410,antitermination
+T-box,BSU_23800,anti-termination
+T-box,BSU_28630,transcriptional antitermination
+T-box,BSU_00930,transcription antitermination
+T-box,BSU_28250,termination/antitermination
+T-box,BSU_37550,anti-termination
+T-box,BSU_28080,transcription termination/antitermination
+T-box,BSU_28300,termination/antitermination
+T-box,BSU_27560,transcriptional antitermination
+T-box,BSU_36900,anti-termination
+T-box,BSU_29670,anti-termination
+ydaO riboswitch,BSU_31100,termination/antitermination
+ydaO riboswitch,BSU_31090,termination/antitermination
+ydaO riboswitch,BSU_04320,termination/antitermination
+yybP-ykoY motif,BSU_13440,antitermination
+yybP-ykoY motif,BSU_40560,antitermination
+YonO,BSU_21060,RNAP
+YonO,BSU_21070,RNAP
+YonO,BSU_21080,RNAP
+YonO,BSU_21090,RNAP
+YonO,BSU_21100,RNAP
+YonO,BSU_21110,RNAP
+YonO,BSU_21120,RNAP
+YonO,BSU_21130,RNAP
+YonO,BSU_21140,RNAP
+YonO,BSU_21150,RNAP
+YonO,BSU_21160,RNAP
+YonO,BSU_21170,RNAP
+YonO,BSU_21180,RNAP
+YonO,BSU_21190,RNAP
+YonO,BSU_21200,RNAP
+YonO,BSU_21210,RNAP
+YonO,BSU_21220,RNAP
+YonO,BSU_21229,RNAP
+YonO,BSU_21230,RNAP
+YonO,BSU_21240,RNAP
+YonO,BSU_21250,RNAP
+YonO,BSU_21260,RNAP
+YonO,BSU_21270,RNAP
+YonO,BSU_21280,RNAP
+YonO,BSU_21290,RNAP
+YonO,BSU_21300,RNAP
+YonO,BSU_21310,RNAP
+YonO,BSU_21320,RNAP
+YonO,BSU_21329,RNAP
+YonO,BSU_21330,RNAP
+YonO,BSU_21340,RNAP
+YonO,BSU_21350,RNAP
+YonO,BSU_21360,RNAP
+YonO,BSU_21370,RNAP
+YonO,BSU_21380,RNAP
+YonO,BSU_21390,RNAP
+YonO,BSU_21400,RNAP
+YonO,BSU_21409,RNAP
+YonO,BSU_21410,RNAP
+YonO,BSU_21420,RNAP
+YonO,BSU_21430,RNAP
+Zur,BSU_23836,repression
+Zur,BSU_23837,repression
