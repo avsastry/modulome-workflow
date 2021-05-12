@@ -45,6 +45,7 @@ Required Arguments:
 Optional Arguments:
   --outdir              Directory to place outputs
   --force               Overwrite existing processed data
+
 ```
 
 ### Running Nextflow locally
@@ -64,6 +65,9 @@ nextflow run main.nf -profile local --organism bacillus_subtilis --metadata ../t
 1. Run `nextflow run main.nf -profile [NEW PROFILE] [ARGS]`
 
 ## Common errors
+
+### Exceeding requirements
+If you get the error `Process requirement exceed available CPUs` or `Process requirements exceed available memory` when using `-profile local`, then edit `conf/local.config` and change the CPU and memory requirements to ensure these are within your local computer's parameters.
 
 ### Missing R1/R2 columns
 If you get the error `Cannot invoke method split() on null object`, this means you are missing the R1 and R2 columns from your metadata file.
