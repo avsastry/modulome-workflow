@@ -4,9 +4,10 @@ def helpMessage() {
     log.info"""
     Usage:
 
-    nextflow run main.nf [ARGS]
+    nextflow run main.nf -profile [PROFILE] [ARGS]
 
     Required Arguments:
+      -profile              Executor profile name (e.g. local)
       --organism            Name of organism
       --metadata            Path to metadata file
       --sequence_dir        Directory containing *.fasta and *.gff3 files
