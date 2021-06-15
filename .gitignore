@@ -1,6 +1,9 @@
 # Motifs
 */motifs/*
 
+# iModulonDB
+iModulonDB/*
+
 # Nextflow
 test/nf_results/
 test/ica_test_results/
