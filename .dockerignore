@@ -1,0 +1,16 @@
+.dockerignore
+**/.git
+
+build
+dist
+*.egg-info
+*.egg/
+*.pyc
+*.swp
+**/__pycache__
+
+**/.DS_Store
+**/.vscode
+
+figures/raw_figures/*
+iModulonDB/*
