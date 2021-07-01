@@ -18,26 +18,31 @@ LABEL maintainer="Anand Sastry <avsastry@eng.ucsd.edu>"
 # Change to root user for installation
 USER root
 
-# Update apt packages (only required if you are installing a new apt package)
-RUN apt-get update --yes
-
-# Install R and R dependencies
-RUN apt-get install --yes --no-install-recommends software-properties-common \
-    gpg-agent dirmngr gfortran liblapack-dev libopenblas-dev && \
-    apt-key adv --keyserver keyserver.ubuntu.com --recv-keys E298A3A825C0D65DFD57CBB651716619E084DAB9 && \
-    add-apt-repository "deb https://cloud.r-project.org/bin/linux/ubuntu $(lsb_release -cs)-cran40/" && \
-    apt-get install --yes --no-install-recommends r-base
+# Install R
+RUN apt-get update --yes && \
+    # Install R dependencies
+    apt-get install --yes --no-install-recommends \
+    gfortran \
+    liblapack-dev \
+    libopenblas-dev && \
+    # Clean up
+    apt-get clean && rm -rf /var/lib/apt/lists/*
 
 # Install R libraries
-RUN Rscript -e 'install.packages(c("treemap","VennDiagram"))'
+RUN conda install --quiet --yes -c conda-forge -c bioconda \
+    'r-base=4.1.0' \
+    'r-irkernel=1.2*' \
+    'r-treemap=2.4*' \
+    'r-venndiagram=1.6*' && \
+    conda clean --all -f -y && \
+    fix-permissions "${CONDA_DIR}" && \
+    fix-permissions "/home/${NB_USER}"
+
 
 # Change user back to NB_USER
 USER $NB_USER
 
-# Copy the relevant folders with jupyter notebooks to the container
-COPY 3_quality_control /home/${NB_USER}/modulome-workflow/3_quality_control
-COPY 5_characterize_iModulons /home/${NB_USER}/modulome-workflow/5_characterize_iModulons
-COPY data /home/${NB_USER}/modulome-workflow/data
-COPY figures /home/${NB_USER}/modulome-workflow/figures
+# Copy the repository to the container. Make sure your .dockerignore file skips any unnecessarily large files
+COPY --chown=$NB_USER:$NB_GID . /home/${NB_USER}/modulome-nextflow
 
 # Make sure to test your container and ensure that everything runs!
