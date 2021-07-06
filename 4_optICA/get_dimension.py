@@ -1,3 +1,5 @@
+#!/bin/python
+
 """
 Searches for the optimal dimensionality of indpendent components
 
