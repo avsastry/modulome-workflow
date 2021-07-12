@@ -10,6 +10,7 @@ function usage {
     printf "  -t|--tolerance <tol>        Tolerance (default: 1e-7)\n"
     printf "  -n|--n-cores <n_cores>      Number of cores to use (default: 8)\n"
     printf "  -d|--max-dim <max_dim>      Maximum dimensionality for search (default: n_samples)\n"
+    printf "  -m|--min-dim <min_dim>      Minimum dimensionality for search (default: 20)\n"
     printf "  -s|--step-size <step_size>  Dimensionality step size\n"
     printf "  -o|--outdir <path>          Output directory for files (default: current directory)\n"
     printf "  -l|--logfile                Name of log file to use if verbose is off (default: ica.log)\n"
@@ -26,6 +27,7 @@ TOL="1e-7"
 ITER=100
 STEP=0
 MAXDIM=0
+MINDIM=20
 CORES=8
 VERBOSE=false
 LOGFILE="ica.log"
@@ -44,6 +46,10 @@ while [[ $# -gt 0 ]]; do
             shift;;
         -t|--tolerance)
             TOL=$2
+            shift;
+            shift;;
+        -m|--min-dim)
+            MINDIM=$2
             shift;
             shift;;
         -d|--max-dim)
@@ -103,9 +109,22 @@ if [ "$STEP" -eq 0 ]; then
     STEP=$((($n_samples / 250 + 1) * 10))
 fi
 
+# Verbosity wrapper
+
+redirect_cmd() {
+    # if verbose, write to std and log else only write to log 
+	if [ "$VERBOSE" = true ]; then
+        "$@" | tee -a $LOGFILE
+    else
+        "$@"&>>$LOGFILE
+    fi
+}
+
+echo "" > $LOGFILE
+
 # Run code
 
-for dim in $(seq $STEP $STEP $MAXDIM); do
+for dim in $(seq $MINDIM $STEP $MAXDIM); do
 
     bar="############################${dim//[0-9]/'#'}${MAXDIM//[0-9]/'#'}"
 
@@ -116,33 +135,18 @@ for dim in $(seq $STEP $STEP $MAXDIM); do
         mkdir -p $outsubdir
     fi
 
-    if [ "$VERBOSE" = true ]; then
-        echo ""
-        echo $bar
-        echo "# Computing dimension $dim of $MAXDIM #"
-        echo $bar
-        echo ""
+    redirect_cmd echo ""
+    redirect_cmd echo $bar
+    redirect_cmd echo "# Computing dimension $dim of $MAXDIM #"
+    redirect_cmd echo $bar
+    redirect_cmd echo ""
 
-        mpiexec -n $CORES python -u random_restart_ica.py -f $FILE -i $ITER -o $outsubdir -t $TOL -d $dim 2>&1
-        mpiexec -n $CORES python -u compute_distance.py -i $ITER -o $outsubdir 2>&1
-        mpiexec -n $CORES python -u cluster_components.py -i $ITER -o $outsubdir 2>&1
+    redirect_cmd mpiexec -n $CORES python -u random_restart_ica.py -f $FILE -i $ITER -o $outsubdir -t $TOL -d $dim 2>&1
+    redirect_cmd mpiexec -n $CORES python -u compute_distance.py -i $ITER -o $outsubdir 2>&1
+    redirect_cmd mpiexec -n $CORES python -u cluster_components.py -i $ITER -o $outsubdir 2>&1
 
-        echo ""
+    redirect_cmd echo ""
 
-    else
-        echo "" >> $LOGFILE
-        echo $bar >> $LOGFILE
-        echo "# Computing dimension $dim of $MAXDIM #" > $LOGFILE
-        echo $bar >> $LOGFILE
-        echo "" >> $LOGFILE
-
-        mpiexec -n $CORES python -u random_restart_ica.py -f $FILE -i $ITER -o $outsubdir -t $TOL -d $dim >> $LOGFILE 2>&1
-        mpiexec -n $CORES python -u compute_distance.py -i $ITER -o $outsubdir >> $LOGFILE 2>&1
-        mpiexec -n $CORES python -u cluster_components.py -i $ITER -o $outsubdir >> $LOGFILE 2>&1
-
-        echo "" >> $LOGFILE
-
-    fi
 done
 
 # Identify best dimension
