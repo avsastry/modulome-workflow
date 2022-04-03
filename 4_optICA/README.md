@@ -23,6 +23,7 @@ Arguments
   -t|--tolerance <tol>        Tolerance (default: 1e-7)
   -n|--n-cores <n_cores>      Number of cores to use (default: 8)
   -d|--max-dim <max_dim>      Maximum dimensionality for search (default: n_samples)
+  -m|--min-dim <min_dim>      Minimum dimensionality for search (default: 20)
   -s|--step-size <step_size>  Dimensionality step size
   -o|--outdir <path>          Output directory for files (default: current directory)
   -l|--logfile                Name of log file to use if verbose is off (default: ica.log)
