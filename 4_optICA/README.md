@@ -32,5 +32,5 @@ Arguments
 ```
 ## Example Usage
 ```bash
-./run_ica.sh -n 8 -o ../data/interim/ica_runs/ -v ../data/processed_data/log_tpm_norm.csv
+./run_ica.sh -n 8 -o ../data/interim/ -v ../data/processed_data/log_tpm_norm.csv
 ```
