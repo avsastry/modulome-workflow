@@ -14,7 +14,7 @@ docker run --rm -it avsastry/get-all-rnaseq:latest "Bacillus subtilis" > Bacillu
 
 ### Local Installation
 
-Local installation requires Entrez direct and Python 3.6 or higher with Pandas. These are included in the conda environment file in the home directory.
+Local installation requires [Entrez direct](https://www.ncbi.nlm.nih.gov/books/NBK179288/) and Python 3.6 or higher with Pandas. These are included in the conda environment file in the home directory.
 
 ```bash
 ./download_metadata.sh "Bacillus subtilis" > Bacillus_subtilis.tsv
