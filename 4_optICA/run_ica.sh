@@ -11,7 +11,7 @@ function usage {
     printf "  -n|--n-cores <n_cores>      Number of cores to use (default: 8)\n"
     printf "  -d|--max-dim <max_dim>      Maximum dimensionality for search (default: n_samples)\n"
     printf "  -m|--min-dim <min_dim>      Minimum dimensionality for search (default: 20)\n"
-    printf "  -s|--step-size <step_size>  Dimensionality step size\n"
+    printf "  -s|--step-size <step_size>  Dimensionality step size (default: n_samples/25)\n"
     printf "  -o|--outdir <path>          Output directory for files (default: current directory)\n"
     printf "  -l|--logfile                Name of log file to use if verbose is off (default: ica.log)\n"
     printf "  -v|--verbose                Send output to stdout rather than writing to file\n"
@@ -116,7 +116,7 @@ redirect_cmd() {
 	if [ "$VERBOSE" = true ]; then
         "$@" | tee -a $LOGFILE
     else
-        "$@"&>>$LOGFILE
+        "$@" >> $LOGFILE 2>&1
     fi
 }
 
