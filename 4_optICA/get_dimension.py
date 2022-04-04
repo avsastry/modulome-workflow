@@ -1,7 +1,7 @@
 #!/bin/python
 
 """
-Searches for the optimal dimensionality of indpendent components
+Searches for the optimal dimensionality of independent components
 
 OUT_DIR: Path to output directory
 """
@@ -34,7 +34,7 @@ parser.add_argument(
 args = parser.parse_args()
 
 print()
-print("Computing optimal set of indepdendent components")
+print("Computing optimal set of independent components")
 print()
 
 # ------------------------------------
@@ -46,14 +46,12 @@ def load_mat(dim, mat):
         os.path.join(args.out_dir, "ica_runs", str(dim), mat + ".csv"), index_col=0
     )
     df.columns = range(len(df.columns))
-    return df
-
+    return df.astype(float)
 
 dims = sorted([int(x) for x in os.listdir(os.path.join(args.out_dir, "ica_runs"))])
 
 M_data = [load_mat(dim, "M") for dim in dims]
 A_data = [load_mat(dim, "A") for dim in dims]
-
 
 # -----------------------------------
 # Check large iModulon dimensions
