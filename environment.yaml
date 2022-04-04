@@ -1,0 +1,19 @@
+name: modulome
+channels:
+  - defaults
+dependencies:
+  - python=3.7
+  - matplotlib
+  - pandas
+  - notebook
+  - seaborn
+  - numpy
+  - jupyterlab
+  - scipy
+  - entrez-direct
+  - tqdm
+  - ipywidgets
+  - mpi4py
+  - scikit-learn
+  - nextflow
+prefix: /Users/anand/opt/miniconda3/envs/modulome
