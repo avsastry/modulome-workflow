@@ -1,6 +1,8 @@
 name: modulome
 channels:
   - defaults
+  - bioconda
+  - conda-forge
 dependencies:
   - python=3.7
   - matplotlib
