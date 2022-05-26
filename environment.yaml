@@ -18,4 +18,5 @@ dependencies:
   - mpi4py
   - scikit-learn
   - nextflow
+  - pymodulon
 prefix: /Users/anand/opt/miniconda3/envs/modulome
