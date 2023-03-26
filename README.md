@@ -24,4 +24,4 @@ You can also run each program locally, with all requirements listed in the conda
 
 ## Cite
 
-A pre-print is being prepared for this tutorial workflow.
+Please cite the following pre-print: [Mining all publicly available expression data to compute dynamic microbial transcriptional regulatory networks](https://www.biorxiv.org/content/10.1101/2021.07.01.450581v1)
