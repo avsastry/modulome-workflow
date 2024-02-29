@@ -1,5 +1,8 @@
 # modulome-workflow
 
+# :warning: **This repository is now deprecated. Please see [https://github.com/SBRG/modulome-workflow](https://github.com/SBRG/modulome-workflow) for the actively maintained repository**
+ 
+
 This repository presents a computational workflow to compute and characterize all iModulons for a selected organism. This occurs in five steps:
 1. Gather all publicly available RNA-seq data for the organism ([Step 1](1_download_metadata))
 2. Process the RNA-seq data ([Step 2](2_process_data))
