@@ -2,10 +2,8 @@
 Nextflow pipeline to download and process microbial RNA-seq data from NCBI SRA
 
 ## Setup
-1. Install [Nextflow](https://www.nextflow.io/)
-    1. Check that Java 8 or later is installed using: `java -version`
-    1. Download nextflow to your current directory: `curl -s https://get.nextflow.io | bash`
-    1. Test installation by running: `./nextflow run hello`
+1. Create the environment with all the requirements with the `nextflow_environment.yaml` file:
+    1. `conda env create -f nextflow_environment.yaml --name nextflow`
 1. Install [Docker](https://docs.docker.com/get-docker/)
 1. Prepare the metadata file for your dataset. Use the [download metadata script](../0_download_metadata) to get all metadata for a specified organism. To append local data, you can add new rows to the tsv file and fill out the following columns:
     1. `Experiment`: For public data, this is your SRX ID. For local data, data should be named with a standardized ID (e.g. ecoli_0001)
@@ -14,6 +12,7 @@ Nextflow pipeline to download and process microbial RNA-seq data from NCBI SRA
     1. `Run`: One or more SRR numbers referring to individual lanes from a sequencer. This field is empty for local data.
     1. `R1`: For local data, the complete path to the R1 file. If files are stored on AWS S3, filenames should look like `s3://<bucket/path/to>.fastq.gz`. `R1` and `R2` columns are empty for public SRA data.
     1. `R2`: Same as R1. This will be empty for SINGLE end sequences.
+    1. Convert the tab separated metadata file (.tsv) to a .txt file 
 1. Download your sequence files:
     1. Download FASTA and GFF3 files for your genome and plasmids (if relevant) from NCBI.
     1. Put these in a folder named `sequence_files`, and make sure that this folder only contains files for one organism.
